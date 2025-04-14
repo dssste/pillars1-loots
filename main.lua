@@ -42,7 +42,7 @@ local function popup(data)
 		buf = buf,
 	})
 	vim.api.nvim_buf_set_name(buf, "poe1lt://" .. buf)
-	vim.api.nvim_buf_set_lines(buf, 0, -1, false, message)
+	vim.api.nvim_buf_set_lines(buf, 0, 0, false, message)
 	vim.api.nvim_buf_set_keymap(buf, 'n', 'q', '', {
 		callback = function()
 			vim.cmd('bdelete! ' .. buf)
@@ -54,20 +54,19 @@ local function popup(data)
 	return buf, win
 end
 
-local function read_file(file_path)
-	local file = io.open(file_path, "r")
-	if not file then
-		print("Error: Could not open file " .. file_path)
-		return nil
-	end
-	local content = file:read("*a")
-	file:close()
-	return content
-end
+local function read_containers()
+	local current_folder = vim.fn.fnamemodify(vim.fn.expand('%:p'), ':h')
 
-local function read_all()
-	local current_file_path = vim.fn.expand('%:p')
-	local current_folder = vim.fn.fnamemodify(current_file_path, ':h')
+	local function read_file(file_path)
+		local file = io.open(file_path, "r")
+		if not file then
+			print("Error: Could not open file " .. file_path)
+			return nil
+		end
+		local content = file:read("*a")
+		file:close()
+		return content
+	end
 
 	local chests = {}
 	local append = function(fname)
@@ -97,5 +96,52 @@ local function read_all()
 	return chests
 end
 
-local all = read_all()
-popup(all)
+local function read_lootlists()
+	local current_folder = vim.fn.fnamemodify(vim.fn.expand('%:p'), ':h')
+	local lua_table = dofile(current_folder .. "/lootlist_data.lua")
+	return lua_table.lootlists
+end
+
+local function find_candidates(lootlists, id)
+	local candidates = {}
+	for name, ll in pairs(lootlists) do
+		for _, item in ipairs(ll.items) do
+			if item.id == id then
+				table.insert(candidates, name)
+			end
+		end
+	end
+	for _, candidate in ipairs(candidates) do
+		vim.list_extend(candidates, find_candidates(lootlists, candidate))
+	end
+	return candidates
+end
+
+local function distinct_list(list)
+	local seen = {}
+	local result = {}
+	for _, value in ipairs(list) do
+		if not seen[value] then
+			table.insert(result, value)
+			seen[value] = true
+		end
+	end
+	return result
+end
+
+local candidates = find_candidates(read_lootlists(), "Gauntlets_of_Swift_Action")
+candidates = distinct_list(candidates)
+
+local all = read_containers()
+
+local valid = {}
+
+for _, title in ipairs(all) do
+	if vim.tbl_contains(candidates, title.lootlist) then
+		table.insert(valid, title)
+	end
+end
+
+local buf, win = popup(valid)
+-- vim.api.nvim_buf_set_lines(buf, -1, -1, false, candidates)
+-- vim.api.nvim_buf_set_lines(buf, -1, -1, false, {tostring(#valid)})
