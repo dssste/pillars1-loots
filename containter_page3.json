@@ -1,0 +1,4134 @@
+{
+  "cargoquery": [
+    {
+      "title": {
+        "location": "Sanitarium",
+        "description": "In the northern corner of the patient ward",
+        "position x": "0.1329076",
+        "position z": "-16.63524",
+        "inventory": null,
+        "lootlist": "Loot_Food"
+      }
+    },
+    {
+      "title": {
+        "location": "Sanitarium",
+        "description": "In the northwestern cell containing the [[wichts]]",
+        "position x": "7.830558",
+        "position z": "-49.87767",
+        "inventory": null,
+        "lootlist": "Dyr_Med_Weapons_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Sanitarium",
+        "description": "In the small room adjacent to the main area of the patient ward",
+        "position x": "4.777724",
+        "position z": "-24.92472",
+        "inventory": "Lockpick",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Sanitarium",
+        "description": "Northeastern room with [[Audmer]]",
+        "position x": "-23.2609",
+        "position z": "16.16545",
+        "inventory": "Lore_Book_St_Waidwen",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Sanitarium",
+        "description": "Northern room, left wall",
+        "position x": "-16.39122",
+        "position z": "-12.58806",
+        "inventory": "Lore_Book_Aedyran_Customs",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Sanitarium",
+        "description": "On the desk in [[Caedman Azo]]'s study",
+        "position x": "31.26382",
+        "position z": "11.37288",
+        "inventory": "Quest_Item_Record_Battixa;Quest_Item_Record_Gram;Quest_Item_Record_Idelman;Quest_Item_Record_Uscgrim",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Sanitarium",
+        "description": "Rear set of bookcases, center",
+        "position x": "1.461886",
+        "position z": "-12.79977",
+        "inventory": "Lore_Book_God_Hylea",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Sanitarium",
+        "description": "Rear set of bookcases, left",
+        "position x": "8.700076",
+        "position z": "-12.79977",
+        "inventory": "Lore_Book_Animancy",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Sanitarium",
+        "description": "Rear set of bookcases, right",
+        "position x": "-1.929366",
+        "position z": "-10.04976",
+        "inventory": "Lore_Book_Woedican_Holy_Text",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Sanitarium",
+        "description": "Study on the western edge of the area, near the door",
+        "position x": "32.95741",
+        "position z": "-34.03129",
+        "inventory": null,
+        "lootlist": "Dyr_Shelf_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Sanitarium",
+        "description": "Western study room",
+        "position x": "36.94969",
+        "position z": "-44.14687",
+        "inventory": null,
+        "lootlist": "Dyr_Shelf_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Scriveners' Dormitory",
+        "description": null,
+        "position x": "-11.97739",
+        "position z": "3.79673",
+        "inventory": "Drug_Snowcap",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Scriveners' Dormitory",
+        "description": null,
+        "position x": "-8.921848",
+        "position z": "-11.58391",
+        "inventory": "Quest_Item_Vianna_Diary",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Scriveners' Dormitory",
+        "description": null,
+        "position x": "-4.832409",
+        "position z": "11.86254",
+        "inventory": null,
+        "lootlist": "Dyr_Shelf_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Scriveners' Dormitory",
+        "description": null,
+        "position x": "4.72434",
+        "position z": "4.245146",
+        "inventory": null,
+        "lootlist": "Scroll_3"
+      }
+    },
+    {
+      "title": {
+        "location": "Scriveners' Dormitory",
+        "description": null,
+        "position x": "10.70681",
+        "position z": "4.294552",
+        "inventory": null,
+        "lootlist": "Loot_Food"
+      }
+    },
+    {
+      "title": {
+        "location": "Scriveners' Dormitory",
+        "description": null,
+        "position x": "11.72213",
+        "position z": "10.32941",
+        "inventory": "Food_Vegetable",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Sea Cave (Anslög's Compass)",
+        "description": "Closest corpse to the entrance",
+        "position x": "1.477472",
+        "position z": "-4.172599",
+        "inventory": "BUX_Copper_Pand_1cp;Crossbow",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Sea Cave (Anslög's Compass)",
+        "description": "Corpse at the rear of the cave",
+        "position x": "-4.22",
+        "position z": "-6.53",
+        "inventory": null,
+        "lootlist": "Loot_NPC_Adventurer_Poor"
+      }
+    },
+    {
+      "title": {
+        "location": "Sea Cave (Anslög's Compass)",
+        "description": "In a small skull-filled nook to the left of the campfire",
+        "position x": "-6.604263",
+        "position z": "-8.348773",
+        "inventory": "Wand_Fine;Food_Oil;HAT_Tricorne",
+        "lootlist": "Currency_Lusce_Rand_1_5"
+      }
+    },
+    {
+      "title": {
+        "location": "Sea Cave (Anslög's Compass)",
+        "description": "In the skull pile",
+        "position x": "-2.665027",
+        "position z": "-11.10131",
+        "inventory": null,
+        "lootlist": "Weapon_Ranged_Lg"
+      }
+    },
+    {
+      "title": {
+        "location": "Sea Cave (Anslög's Compass)",
+        "description": "Western corpse",
+        "position x": "3.173931",
+        "position z": "-8.690785",
+        "inventory": null,
+        "lootlist": "Loot_NPC_Adventurer_Poor"
+      }
+    },
+    {
+      "title": {
+        "location": "Searing Falls Cave",
+        "description": "At the first bend in the path, a short distance west",
+        "position x": "20.79619",
+        "position z": "5.263982",
+        "inventory": "Camping_Supplies",
+        "lootlist": "Rand_Potion_Scroll_7_8_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Searing Falls Cave",
+        "description": "Central eastern edge of the area",
+        "position x": "-15.5244",
+        "position z": "7.192989",
+        "inventory": null,
+        "lootlist": "Dyr_Consumable_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Searing Falls Cave",
+        "description": "In the pile of coins behind [[Cail The Silent]]",
+        "position x": "11.70057",
+        "position z": "-11.2277",
+        "inventory": "GEM_Opal_150cp;GEM_Ta_Ondra_Tara_250cp;GEM_Ruby_850cp",
+        "lootlist": "Dyr_Currency_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Searing Falls Cave",
+        "description": "In the pile of coins behind [[Cail The Silent]]",
+        "position x": "13.1189",
+        "position z": "-8.484999",
+        "inventory": "Great_Sword_Tidefall",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Searing Falls Cave",
+        "description": "Near the entrance",
+        "position x": "5.018344",
+        "position z": "21.50946",
+        "inventory": null,
+        "lootlist": "Dyr_Sm_Weapons_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Searing Falls Cave",
+        "description": "Northwestern edge of the area",
+        "position x": "-10.54113",
+        "position z": "-23.96161",
+        "inventory": "Potion_of_Power_L2",
+        "lootlist": "Dyr_Accessory_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Stalwart Mines",
+        "description": "At the end of the minecart track leading east from the entrance",
+        "position x": "25.61919",
+        "position z": "25.53107",
+        "inventory": "GEM_Peridot_50cp;PX1_BUX_Stalwart_Boney_3cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Stalwart Mines",
+        "description": "At the start of the winding cavern leading to the sulphur mines",
+        "position x": "-7.757676",
+        "position z": "13.23",
+        "inventory": "Pike;Padded_Armor",
+        "lootlist": "PX1_Loot_NPC_Stalwart"
+      }
+    },
+    {
+      "title": {
+        "location": "Stalwart Mines",
+        "description": "Cave-in towards the northwestern corner of the area",
+        "position x": "-17.8",
+        "position z": "-44.82875",
+        "inventory": "Boots_of_Stability;PX1_BUX_Stalwart_Boney_3cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Stalwart Mines",
+        "description": "Cavern connected by the walkway north of the mining shaft",
+        "position x": "-15.8169",
+        "position z": "-24.82398",
+        "inventory": "GI_Chisel",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Stalwart Mines",
+        "description": "Cavern connected by the walkway north of the mining shaft",
+        "position x": "-12.941",
+        "position z": "-24.487",
+        "inventory": "PX1_BUX_Stalwart_Boney_3cp;PX2_MISC_Note_Tunnels",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Stalwart Mines",
+        "description": "Immediately to your left after entering the mines",
+        "position x": "60.16502",
+        "position z": "9.437278",
+        "inventory": "PX1_Food_Speckleback_Jerky;PX1_BUX_Stalwart_Boney_3cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Stalwart Mines",
+        "description": "In the cavern where the Xaurip's attack, west of Sameth's body, left corpse",
+        "position x": "29.44",
+        "position z": "-40.51",
+        "inventory": "Pike;Padded_Armor",
+        "lootlist": "PX1_Loot_NPC_Stalwart"
+      }
+    },
+    {
+      "title": {
+        "location": "Stalwart Mines",
+        "description": "In the cavern where the Xaurip's attack, west of Sameth's body, right corpse",
+        "position x": "23.04",
+        "position z": "-37.56",
+        "inventory": "Pike;Padded_Armor",
+        "lootlist": "PX1_Loot_NPC_Stalwart"
+      }
+    },
+    {
+      "title": {
+        "location": "Stalwart Mines",
+        "description": "Northeastern corner in the room with the confused miners (only if [[Galvino]] is alive)",
+        "position x": "-74.9222",
+        "position z": "-3.906726",
+        "inventory": "PX2_Scroll_of_Prayer_Against_Treachery_L6;PX1_BUX_Stalwart_Boney_3cp;PX2_MISC_Note_Galvino_Dead",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Stalwart Mines",
+        "description": "Northeastern corner in the room with the confused miners (only if [[Galvino]] is dead)",
+        "position x": "-74.9222",
+        "position z": "-3.906726",
+        "inventory": "PX2_Scroll_of_Prayer_Against_Treachery_L6;PX1_BUX_Stalwart_Boney_3cp;PX2_MISC_Note_Galvino_Alive",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Stalwart Mines",
+        "description": "Northeastern corner of the sulphur mines, left corpse",
+        "position x": "-66.68065",
+        "position z": "13.32203",
+        "inventory": "Pike;Padded_Armor",
+        "lootlist": "PX1_Loot_NPC_Stalwart"
+      }
+    },
+    {
+      "title": {
+        "location": "Stalwart Village",
+        "description": "At the end of the dock south of the fishery",
+        "position x": "54.58028",
+        "position z": "27.8673",
+        "inventory": "PX1_PLANT_Tyn_Hat",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Stalwart Village",
+        "description": "Beside [[Thyrsc's House]]",
+        "position x": "-45.1665",
+        "position z": "4.923811",
+        "inventory": "Food_Meat",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Stalwart Village",
+        "description": "Buried in the sand in the southwestern corner, near the burned house",
+        "position x": "57.15129",
+        "position z": "-7.762562",
+        "inventory": "Food_Fish;GEM_Adra_Ban_35cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Stalwart Village",
+        "description": "In between [[The Gréf's Rest]] and [[Thyrsc's House]]",
+        "position x": "-43.67442",
+        "position z": "-10.18969",
+        "inventory": "BUX_Silver_Lusce_3cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Stalwart Village",
+        "description": "Northeastern corner, by the collapsed mine and exit to [[Longwatch Falls]]",
+        "position x": "-73.61716",
+        "position z": "8.465959",
+        "inventory": "GI_Chisel",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Stalwart Village",
+        "description": "Northwestern corner, outside [[Taena's House]]",
+        "position x": "12.12506",
+        "position z": "-52.98473",
+        "inventory": "Camping_Supplies",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Stalwart Village",
+        "description": "On the dock outside the [[Temple of Ondra]]",
+        "position x": "25.26416",
+        "position z": "41.03826",
+        "inventory": "Food_Fish",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Stalwart Village",
+        "description": "Outside of the burned house to the southwest",
+        "position x": "48.21307",
+        "position z": "-7.477449",
+        "inventory": "PX1_PLANT_Brintwn_Ban;PX1_PLANT_Ryngr_Berries",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Stalwart Village",
+        "description": "Right side of the [[Fishery]]",
+        "position x": "21.65075",
+        "position z": "19.27321",
+        "inventory": "Food_Fish",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Stalwart Village",
+        "description": "The stand west of the fishery",
+        "position x": "40.64272",
+        "position z": "5.560054",
+        "inventory": "PX1_Food_Speckleback_Jerky",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Stalwart Village",
+        "description": "Within the charred rubble of the [[Durgan's Battery (quest)#Save people from the burning hut|burning hut interaction]] (only if you didn't rescue [[Keydy]])",
+        "position x": "20.19892",
+        "position z": "-29.88573",
+        "inventory": "PX1_Frigid_Claim",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Stormwall Gorge",
+        "description": "A short distance north of the ramp down to the lower part of the area",
+        "position x": "0.5057143",
+        "position z": "-33.67274",
+        "inventory": "HELM_Winged",
+        "lootlist": "Dyr_Consumable_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Stormwall Gorge",
+        "description": "Bottom right edge of the Engwithan ruins",
+        "position x": "18.63925",
+        "position z": "11.22998",
+        "inventory": null,
+        "lootlist": "Dyr_Sm_Weapons_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Stormwall Gorge",
+        "description": "Northwestern corner",
+        "position x": "71.78563",
+        "position z": "-32.21309",
+        "inventory": "MISC_PART_Elder_Lion_Fang",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Stormwall Gorge",
+        "description": "On the western side of the lower area",
+        "position x": "-4.707958",
+        "position z": "60.76666",
+        "inventory": "HELM_Small_Horn",
+        "lootlist": "Loot_NPC_Adventurer_Poor"
+      }
+    },
+    {
+      "title": {
+        "location": "Sun in Shadow",
+        "description": "At the bottom of the stairs up to [[Breith Eaman]]",
+        "position x": "64.45665",
+        "position z": "-12.6625",
+        "inventory": null,
+        "lootlist": "Rand_Potion_Scroll_9_10_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Sun in Shadow",
+        "description": "Further down the passage southeast of the court",
+        "position x": "-10.54222",
+        "position z": "48.73994",
+        "inventory": null,
+        "lootlist": "Rand_Potion_Scroll_9_10_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Sun in Shadow",
+        "description": "On a dragon skeleton in the Guardians' Dome to the northwest",
+        "position x": "11.90964",
+        "position z": "-46.95057",
+        "inventory": "Gauntlets_of_Swift_Action",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Sun in Shadow",
+        "description": "Southeast of the &quot;court&quot; to the northeast, left side",
+        "position x": "-15.60973",
+        "position z": "25.94774",
+        "inventory": null,
+        "lootlist": "Armor_Exceptional"
+      }
+    },
+    {
+      "title": {
+        "location": "Sun in Shadow",
+        "description": "Southeast of the &quot;court&quot; to the northeast, right side",
+        "position x": "-12.58093",
+        "position z": "29.7878",
+        "inventory": null,
+        "lootlist": "Weapon_All_Exceptional"
+      }
+    },
+    {
+      "title": {
+        "location": "Taena's House",
+        "description": "Center of the room, left side",
+        "position x": "5.781571",
+        "position z": "3.486091",
+        "inventory": "Robe_Armor_Fine;HAT_Hooded_Turban",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Taena's House",
+        "description": "Rear left corner",
+        "position x": "5.756729",
+        "position z": "-5.55394",
+        "inventory": "Dagger_Fine",
+        "lootlist": "PX1_Currency_Boney_Rand_1_5"
+      }
+    },
+    {
+      "title": {
+        "location": "Taena's House",
+        "description": "Right wall, on the shelf",
+        "position x": "-2.394094",
+        "position z": "3.07026",
+        "inventory": "Potion_of_Minor_Recovery_L2;PX1_ART_Bronze_Abydon_Statuette_175cp;MISC_PART_Hide_Stag",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Teir Evron",
+        "description": "North edge, left side",
+        "position x": "-0.8557224",
+        "position z": "-4.570053",
+        "inventory": "Lore_Book_God_Skaen;Lore_Book_God_Wael;Lore_Book_God_Berath",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Teir Evron",
+        "description": "North edge, right side",
+        "position x": "-3.643284",
+        "position z": "-0.3431032",
+        "inventory": "Lore_Book_God_Eothas;Lore_Book_God_Ondra;Lore_Book_God_Rymrgand",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Teir Evron",
+        "description": "On the eastern edge of the area",
+        "position x": "-6.511055",
+        "position z": "12.02923",
+        "inventory": "Quest_Item_Gods_Crystal",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Teir Evron",
+        "description": "Western side",
+        "position x": "11.60038",
+        "position z": "-6.7574",
+        "inventory": "Lore_Book_God_Galawain;Lore_Book_God_Abydon;Lore_Book_God_Magran;Lore_Book_God_Hylea;Lore_Book_God_Woedica",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Teir Nowneth",
+        "description": "Against the wall to the west",
+        "position x": "10.38708",
+        "position z": "-12.09701",
+        "inventory": "MISC_Aldhelm_Page_04;Scroll_of_Fireball_L3",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Teir Nowneth",
+        "description": "In the center of the area, facing the entrance",
+        "position x": "0.2218816",
+        "position z": "7.374041",
+        "inventory": "MISC_Trindig_Letter;MISC_Aldhelm_Page_02",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Teir Nowneth",
+        "description": "Next to the central adra pillar",
+        "position x": "3.339527",
+        "position z": "7.06932",
+        "inventory": "MISC_Aldhelm_Page_03",
+        "lootlist": "Dyr_Consumable_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Teir Nowneth",
+        "description": "Northeastern corner, near a stone table",
+        "position x": "-3.949577",
+        "position z": "-17.4067",
+        "inventory": null,
+        "lootlist": "Dyr_Shelf_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Teir Nowneth",
+        "description": "Northeastern nook",
+        "position x": "0.06738614",
+        "position z": "-24.31296",
+        "inventory": null,
+        "lootlist": "Dyr_Sm_Weapons_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Teir Nowneth",
+        "description": "Northeastern room",
+        "position x": "-19.74224",
+        "position z": "-2.300254",
+        "inventory": null,
+        "lootlist": "Dyr_Armor_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Teir Nowneth",
+        "description": "Northern hallway, next to the left candelabra",
+        "position x": "-9.8747",
+        "position z": "-13.19807",
+        "inventory": null,
+        "lootlist": "Dyr_Consumable_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Teir Nowneth",
+        "description": "Southeastern nook",
+        "position x": "0.5741177",
+        "position z": "22.83264",
+        "inventory": "Quest_Item_Icantha_Letter;Sigil_of_the_Arcane",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Teir Nowneth",
+        "description": "To the left of the staircase down",
+        "position x": "-17.44545",
+        "position z": "-3.115945",
+        "inventory": null,
+        "lootlist": "Dyr_Shelf_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Teir Nowneth",
+        "description": "To the right of the desk on the northern wall",
+        "position x": "-13.64338",
+        "position z": "-8.017964",
+        "inventory": "Scroll_of_Restore_Light_Endurance_L2;Scroll_of_Protection_L2",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Teir Nowneth",
+        "description": "Western room, south of the stairs up",
+        "position x": "7.825489",
+        "position z": "-6.971672",
+        "inventory": "MISC_Aldhelm_Page_01;Potion_of_Power_L2",
+        "lootlist": "Dyr_Shelf_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Abydon",
+        "description": "Rear left, near the forge",
+        "position x": "-2.542705",
+        "position z": "-4.716911",
+        "inventory": "PX2_Quest_Item_Mylla_Drawing;PX1_BUX_Stalwart_Boney_3cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Abydon",
+        "description": "Rear left, near the forge",
+        "position x": "-1.816289",
+        "position z": "-7.271409",
+        "inventory": "PX1_Durgan_Iron_Ingot;Lore_Book_God_Abydon;PX2_Lore_Book_Abydons_Hands",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Berath (Dyrford Village)",
+        "description": "Left side, behind [[Celby]]",
+        "position x": "-1.637658",
+        "position z": "1.637658",
+        "inventory": null,
+        "lootlist": "Scroll_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Eothas",
+        "description": "Crypt in the southwestern corner, larger sarcophagus",
+        "position x": "54.73059",
+        "position z": "-1.707428",
+        "inventory": "Cloak_Eothasian_Priest",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Eothas",
+        "description": "Crypt in the southwestern corner, smaller sarcophagus",
+        "position x": "50.68136",
+        "position z": "-8.948723",
+        "inventory": null,
+        "lootlist": "Dyr_Armor_1_2"
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Eothas",
+        "description": "In the flooded room to the south",
+        "position x": "35.10848",
+        "position z": "10.76515",
+        "inventory": "Key_Eothas_Sanctum_Door",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Eothas",
+        "description": "In the room near the flooded pool, on the left wall",
+        "position x": "17.54774",
+        "position z": "27.11561",
+        "inventory": "MISC_Eothas_Dorm_Baths_Hint",
+        "lootlist": "Dyr_Armor_1_2"
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Eothas",
+        "description": "In the room near the flooded pool, on the right wall",
+        "position x": "3.833633",
+        "position z": "26.96499",
+        "inventory": "Lore_Book_Eothasian_Holy_Text",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Eothas",
+        "description": "In the room near the flooded pool, on the right wall",
+        "position x": "7.255569",
+        "position z": "34.71648",
+        "inventory": "Lockpick",
+        "lootlist": "Dyr_Shelf_1_2_Good"
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Eothas",
+        "description": "In the southern room with the hidden lever",
+        "position x": "22.27941",
+        "position z": "21.42109",
+        "inventory": "MISC_Eothas_Initiate_Letter",
+        "lootlist": "Gem_2_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Eothas",
+        "description": "Larger hall with the statue of [[Eothas]]",
+        "position x": "-42.81821",
+        "position z": "2.960913",
+        "inventory": "GEM_Bloodstone_25cp",
+        "lootlist": "Dyr_Consumable_1_2_Good"
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Eothas",
+        "description": "Northeastern corner, by the exit",
+        "position x": "-53.79446",
+        "position z": "4.448349",
+        "inventory": "Helm_Pilgrims_Lasting_Vigil",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Eothas",
+        "description": "Northern central room, far right",
+        "position x": "-15.62323",
+        "position z": "-16.14039",
+        "inventory": null,
+        "lootlist": "Dyr_Shelf_1_2"
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Eothas",
+        "description": "Northern central room, far right",
+        "position x": "-15.47498",
+        "position z": "-14.03408",
+        "inventory": "Lore_Book_Monsters_Deadfire_Archipelago",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Eothas",
+        "description": "Northern hall, behind the altar",
+        "position x": "-21.79051",
+        "position z": "-28.16763",
+        "inventory": "GEM_Bloodstone_25cp;GEM_Agate_5cp;GEM_Amethyst_10cp",
+        "lootlist": "Currency_Pand_1_2"
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Eothas",
+        "description": "Northwestern corner",
+        "position x": "28.20699",
+        "position z": "-32.1679",
+        "inventory": null,
+        "lootlist": "Dyr_Accessory_1_2"
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Eothas",
+        "description": "Northwestern corner",
+        "position x": "36.227",
+        "position z": "-26.10405",
+        "inventory": null,
+        "lootlist": "Weapon_Fine_2h_Pierce"
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Eothas",
+        "description": "Northwestern study",
+        "position x": "5.433468",
+        "position z": "-29.89553",
+        "inventory": "MISC_Eothas_Rector_Letter;Key_Eothas_Bell_Door;Scroll_of_Fan_of_Flames_L1",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Eothas",
+        "description": "Northwestern study, on the left",
+        "position x": "6.88037",
+        "position z": "-35.52612",
+        "inventory": "Lore_Book_The_Great_Western_Stag;MISC_Eothas_Verse",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Eothas",
+        "description": "Northwestern study, right of the table",
+        "position x": "3.488023",
+        "position z": "-30.90299",
+        "inventory": null,
+        "lootlist": "Rand_Weapon_Med_1_2_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Eothas",
+        "description": "Rubble in the center",
+        "position x": "-7.886579",
+        "position z": "-24.98473",
+        "inventory": "Sword_Fine",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Eothas",
+        "description": "Shelves in the northernmost corner",
+        "position x": "-15.52167",
+        "position z": "-31.04376",
+        "inventory": null,
+        "lootlist": "Dyr_Shelf_1_2"
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Eothas",
+        "description": "Small bedroom adjacent to the entrance, bedside",
+        "position x": "-4.478519",
+        "position z": "1.591391",
+        "inventory": "MISC_Eothas_Initiate_Bell_Hint",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Eothas",
+        "description": "Small bedroom adjacent to the entrance, left crate",
+        "position x": "-3.542438",
+        "position z": "-2.189981",
+        "inventory": "Camping_Supplies",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Eothas",
+        "description": "Smaller hall with the altar and disappearing spirit",
+        "position x": "-25.25781",
+        "position z": "22.19704",
+        "inventory": "GEM_Adra_3cp",
+        "lootlist": "Currency_Pand_1_2"
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Eothas",
+        "description": "Southwestern room containing the pool",
+        "position x": "45.99883",
+        "position z": "-6.46397",
+        "inventory": null,
+        "lootlist": "Dyr_Sm_Weapons_1_2"
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Eothas",
+        "description": "Vault, left side",
+        "position x": "-7.163864",
+        "position z": "43.99898",
+        "inventory": null,
+        "lootlist": "Dyr_Currency_1_2"
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Eothas",
+        "description": "Vault, left side",
+        "position x": "-3.381027",
+        "position z": "43.22578",
+        "inventory": null,
+        "lootlist": "Gem_3_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Eothas",
+        "description": "Vault, right side",
+        "position x": "-11.94312",
+        "position z": "51.35453",
+        "inventory": "Flail_Gauns_Share;GI_Prybar",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Eothas",
+        "description": "Vault, right side",
+        "position x": "-11.40028",
+        "position z": "54.36446",
+        "inventory": "Potion_of_Spirit_Shield_L1;GEM_Turquoise_12cp",
+        "lootlist": "Dyr_Shelf_1_2_Good"
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Eothas",
+        "description": "Western chamber, south of the &quot;bell&quot; room",
+        "position x": "39.94861",
+        "position z": "-19.99064",
+        "inventory": "GEM_Garnet_85cp",
+        "lootlist": "Dyr_Accessory_1_2"
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Hylea",
+        "description": "A short distance down the path to the east of the entrance",
+        "position x": "7.276485",
+        "position z": "28.27738",
+        "inventory": "Quest_Nest_Bird",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Hylea",
+        "description": "Amongst the bones to the north",
+        "position x": "-17.671",
+        "position z": "3.03",
+        "inventory": "War_Hammer_Godansthunyr",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Hylea",
+        "description": "Amongst the bones to the south",
+        "position x": "9.234",
+        "position z": "26.367",
+        "inventory": "Ring_BACKER_Pensiavi_mes_Rei",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Hylea",
+        "description": "Large nest behind the wurm",
+        "position x": "-16.603",
+        "position z": "13.152",
+        "inventory": "Grimoire_High_Lvl_Weakening;GEM_Diamond_350cp;GEM_Topaz_500cp;GEM_Ta_Ondra_Tara_250cp",
+        "lootlist": "TE_Currency_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Ondra",
+        "description": "Behind [[Qexetl]]",
+        "position x": "-6.234196",
+        "position z": "-2.934288",
+        "inventory": "BUX_Silver_Fenning_6cp;BUX_Golden_Suole_9cp;BUX_Copper_Awld_2cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Ondra",
+        "description": "Left side of the temple",
+        "position x": "2.714184",
+        "position z": "-7.609776",
+        "inventory": "GEM_Pearl_100cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Ondra",
+        "description": "This variant appears after telling Okrun about the offerings, and if he lives in the subsequent fight",
+        "position x": "-2.783165",
+        "position z": "-6.086201",
+        "inventory": "PX1_Plate_Armor_White_Crest;BUX_Copper_Pand_1cp;BUX_Silver_Lusce_3cp;PX1_BUX_Stalwart_Boney_3cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Ondra",
+        "description": "This variant appears if you confront Lafda without Okrun",
+        "position x": "-2.783165",
+        "position z": "-6.086201",
+        "inventory": "Quest_Item_Odrun_Heirloom;PX1_Plate_Armor_White_Crest",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Ondra",
+        "description": "This variant appears if you kill [[Lafda]] and [[Qexetl]] before starting [[Regrets Worth Trading]]",
+        "position x": "-2.783165",
+        "position z": "-6.086201",
+        "inventory": "BUX_Copper_Pand_1cp;BUX_Silver_Lusce_3cp;PX1_BUX_Stalwart_Boney_3cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Ondra",
+        "description": "This variant appears if you tell Okrun about the offerings, and if he dies in the subsequent fight",
+        "position x": "-2.783165",
+        "position z": "-6.086201",
+        "inventory": "Talisman_of_the_Unconquerable;PX1_Plate_Armor_White_Crest;BUX_Copper_Pand_1cp;BUX_Silver_Lusce_3cp;PX1_BUX_Stalwart_Boney_3cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Woedica",
+        "description": "Bottom left corner of the southernmost chamber",
+        "position x": "44.0635",
+        "position z": "1.098062",
+        "inventory": "PART_Binding_Copper;PART_Primal_Rock",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Woedica",
+        "description": "In the central room after the entrance",
+        "position x": "0.1351824",
+        "position z": "-11.09594",
+        "inventory": null,
+        "lootlist": "Dyr_Consumable_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Woedica",
+        "description": "Left side of the western hallway leading to the shrine of Woedica",
+        "position x": "27.54545",
+        "position z": "-19.28519",
+        "inventory": null,
+        "lootlist": "Dyr_Consumable_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Woedica",
+        "description": "Next room to the north",
+        "position x": "-8.461129",
+        "position z": "-16.64871",
+        "inventory": "Food_Cheese;Food_Grain;Food_Oil",
+        "lootlist": "Loot_Food"
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Woedica",
+        "description": "Northern study area, center",
+        "position x": "-27.33526",
+        "position z": "-16.00943",
+        "inventory": "GEM_Velune_65cp",
+        "lootlist": "Dyr_Sm_Weapons_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Woedica",
+        "description": "Northern study area, on the left",
+        "position x": "-20.74751",
+        "position z": "-21.02728",
+        "inventory": null,
+        "lootlist": "Dyr_Shelf_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Woedica",
+        "description": "Northern study area, on the right",
+        "position x": "-29.82887",
+        "position z": "-16.12465",
+        "inventory": "Lore_Book_God_Woedica",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Woedica",
+        "description": "On the broken wall in the southernmost chamber",
+        "position x": "27.73632",
+        "position z": "-0.2845375",
+        "inventory": "Rod_Fine;Scroll_of_Protection_L2",
+        "lootlist": "Dyr_Sm_Weapons_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Woedica",
+        "description": "Secret room in the northeastern corner",
+        "position x": "-46.77269",
+        "position z": "-2.911544",
+        "inventory": "GEM_Velune_65cp;GEM_Peridot_50cp",
+        "lootlist": "Dyr_Accessory_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Woedica",
+        "description": "Shrine room, rear left side next to the switch",
+        "position x": "-5.787977",
+        "position z": "-43.67196",
+        "inventory": "Torc_of_Defiance",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Temple of Woedica",
+        "description": "Shrine room, rear right side next to the candles",
+        "position x": "-16.40828",
+        "position z": "-31.58958",
+        "inventory": null,
+        "lootlist": "Dyr_Sm_Weapons_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "The Abbey of the Fallen Moon",
+        "description": null,
+        "position x": "4.82",
+        "position z": "-55.01",
+        "inventory": null,
+        "lootlist": "Loot_NPC_Adventurer_Moderate"
+      }
+    },
+    {
+      "title": {
+        "location": "The Abbey of the Fallen Moon",
+        "description": null,
+        "position x": "10.12",
+        "position z": "-46.31",
+        "inventory": null,
+        "lootlist": "Loot_NPC_Adventurer_Moderate"
+      }
+    },
+    {
+      "title": {
+        "location": "The Abbey of the Fallen Moon",
+        "description": "A short distance east of the main entrance to the Halls of Presence, near the ribcage",
+        "position x": "-13.58292",
+        "position z": "14.5975",
+        "inventory": "Pistol_Fine;PX2_Grimoire_Moon_Wizard_01;Scroll_of_Fireball_L3",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Abbey of the Fallen Moon",
+        "description": "At the bottom of the stairs leading up to the &quot;Passages of Ondra&quot; mural",
+        "position x": "-4.450329",
+        "position z": "-66.42176",
+        "inventory": "GI_Prybar;Camping_Supplies;Lockpick",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Abbey of the Fallen Moon",
+        "description": "Beside the Veil of Tears (a barrier blocking the way to the skull)",
+        "position x": "-21.34805",
+        "position z": "49.89548",
+        "inventory": "Pollaxe_Exceptional;Quarterstaff_Fine",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Abbey of the Fallen Moon",
+        "description": "Circular platform south of the ribcage",
+        "position x": "20.89054",
+        "position z": "21.26957",
+        "inventory": "Great_Sword_Fine;War_Hammer_Fine",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Abbey of the Fallen Moon",
+        "description": "East of the Veil of Tears, tucked into the corner",
+        "position x": "-35.89785",
+        "position z": "53.21838",
+        "inventory": "Camping_Supplies;Lockpick",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Abbey of the Fallen Moon",
+        "description": "Far southeastern corner, east of the &quot;swing&quot; interaction",
+        "position x": "15.01947",
+        "position z": "86.56543",
+        "inventory": "Trap_Item_Pillar_of_Holy_Fire;Camping_Supplies;Lockpick",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Abbey of the Fallen Moon",
+        "description": "Left of the reliquary and the giant skull on the roof of the abbey",
+        "position x": "-38.89894",
+        "position z": "-6.235538",
+        "inventory": "Scale_Armor_Exceptional;GEM_Sapphire_950cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Abbey of the Fallen Moon",
+        "description": "Near the entrance to the Halls of Silence in the northwestern corner",
+        "position x": "4.775622",
+        "position z": "-60.59848",
+        "inventory": "Food_Spirits;Food_Grain;Food_Oil",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Abbey of the Fallen Moon",
+        "description": "Near the entrance to the Halls of Silence in the northwestern corner",
+        "position x": "6.453969",
+        "position z": "-60.56681",
+        "inventory": "Food_Oil;PX1_Potion_of_Flame_Shield_L4;Potion_of_Minor_Endurance_L2",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Abbey of the Fallen Moon",
+        "description": "On the circular platform north of the entrance, west of the skeleton leg",
+        "position x": "38.009",
+        "position z": "-36.887",
+        "inventory": "Mace_Fine;Girdle_of_Mortal_Protection;GEM_Moonstone_25cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Abbey of the Fallen Moon",
+        "description": "On the other side of the magical barrier, at the base of the stairs leading to the reliquary",
+        "position x": "-41.90805",
+        "position z": "38.72279",
+        "inventory": "Brigandine_Armor_Fine",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Abbey of the Fallen Moon",
+        "description": "On the roof of the halls of presence, west of the door",
+        "position x": "-9.598372",
+        "position z": "29.13824",
+        "inventory": "GEM_Pearl_100cp;GEM_Turquoise_12cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Abbey of the Fallen Moon",
+        "description": "Overlooking the mountains in the far northwestern corner",
+        "position x": "-3.949517",
+        "position z": "-82.58315",
+        "inventory": "PX2_Scroll_of_Prayer_Against_Imprisonment_L5;Potion_of_Major_Endurance_L4;GEM_Topaz_500cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Abbey of the Fallen Moon",
+        "description": "South of the Veil of Tears, at the bottom of a makeshift ramp",
+        "position x": "-11.61779",
+        "position z": "58.00855",
+        "inventory": "Food_Oil;Food_Spirits;Food_Grain",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Abbey of the Fallen Moon",
+        "description": "Southeast of the mural, at the bottom of the stairs",
+        "position x": "-5.481206",
+        "position z": "-31.6362",
+        "inventory": "PX1_Potion_of_Minor_Arcane_Reflection_L4;Potion_of_Minor_Recovery_L2",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Black Hound",
+        "description": "Kitchen, left side",
+        "position x": "-1.501032",
+        "position z": "-13.47359",
+        "inventory": "Drug_Goldrot_Chew",
+        "lootlist": "Potion_1"
+      }
+    },
+    {
+      "title": {
+        "location": "The Black Hound",
+        "description": "Kitchen, right side",
+        "position x": "-13.57874",
+        "position z": "-10.51429",
+        "inventory": "Food_Beer;Food_Ale",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Black Hound",
+        "description": "Large circular table by the stairs",
+        "position x": "7.648371",
+        "position z": "-10.07385",
+        "inventory": null,
+        "lootlist": "Dyr_Shelf_1_2"
+      }
+    },
+    {
+      "title": {
+        "location": "The Black Hound",
+        "description": "Large room to the east",
+        "position x": "-15.5095",
+        "position z": "-0.8025191",
+        "inventory": "HAT_Duelist;Padded_Armor;Rapier",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Black Hound",
+        "description": "Large room to the east",
+        "position x": "-14.22357",
+        "position z": "9.547683",
+        "inventory": "Lore_Book_The_Dyrwood_1;Lockpick",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Black Hound",
+        "description": "Main room, by the doorway",
+        "position x": "1.920066",
+        "position z": "4.127688",
+        "inventory": "Food_Grain",
+        "lootlist": "Loot_Food"
+      }
+    },
+    {
+      "title": {
+        "location": "The Black Hound",
+        "description": "Smaller room to the west",
+        "position x": "9.419545",
+        "position z": "-6.632836",
+        "inventory": "Scroll_of_Tanglefoot_L1",
+        "lootlist": "Dyr_Accessory_1_2"
+      }
+    },
+    {
+      "title": {
+        "location": "The Black Hound",
+        "description": "Smaller room to the west",
+        "position x": "12.345",
+        "position z": "-7.700915",
+        "inventory": "Lore_Book_God_Eothas",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Celestial Sapling",
+        "description": "Northeastern room, back wall",
+        "position x": "-30.72473",
+        "position z": "-4.93197",
+        "inventory": null,
+        "lootlist": "TE_Armor_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "The Celestial Sapling",
+        "description": "Western room, at the foot of the bed",
+        "position x": "-1.002905",
+        "position z": "-22.17183",
+        "inventory": null,
+        "lootlist": "Gem_9_100"
+      }
+    },
+    {
+      "title": {
+        "location": "The Celestial Sapling",
+        "description": "Western room, left side next to the backer NPCs",
+        "position x": "3.075205",
+        "position z": "-28.05672",
+        "inventory": "Lore_Book_Glanfathan_Customs",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Celestial Sapling",
+        "description": "Western room, rear right corner",
+        "position x": "-7.010244",
+        "position z": "-21.3408",
+        "inventory": "Lore_Book_Glanfathan_Poetry;Lore_Book_Language_Glanfathan",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Charred Barrel",
+        "description": "Behind [[Ableheart Skerrion]] in the bar",
+        "position x": "15.33598",
+        "position z": "10.23618",
+        "inventory": "Food_Beer",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Charred Barrel",
+        "description": "Counter in the kitchen area",
+        "position x": "-15.25998",
+        "position z": "13.65158",
+        "inventory": null,
+        "lootlist": "Loot_Food"
+      }
+    },
+    {
+      "title": {
+        "location": "The Charred Barrel",
+        "description": "In the left/western room",
+        "position x": "-7.423706",
+        "position z": "-14.81936",
+        "inventory": null,
+        "lootlist": "Dyr_Shelf_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "The Charred Barrel",
+        "description": "In the right/eastern room",
+        "position x": "-12.50552",
+        "position z": "9.027409",
+        "inventory": null,
+        "lootlist": "Dyr_Armor_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "The Charred Barrel",
+        "description": "Last table on the left of the main hall",
+        "position x": "-1.956561",
+        "position z": "-10.83963",
+        "inventory": null,
+        "lootlist": "Loot_Food"
+      }
+    },
+    {
+      "title": {
+        "location": "The Charred Barrel",
+        "description": "Next to the group of thugs",
+        "position x": "-1.546312",
+        "position z": "-7.700036",
+        "inventory": null,
+        "lootlist": "Loot_Food"
+      }
+    },
+    {
+      "title": {
+        "location": "The Charred Barrel",
+        "description": "Northern corner, at the bottom of the stairs",
+        "position x": "-8.439827",
+        "position z": "-7.74534",
+        "inventory": null,
+        "lootlist": "Loot_Drugs"
+      }
+    },
+    {
+      "title": {
+        "location": "The Foundry",
+        "description": "Armory, left wall",
+        "position x": "-56.02419",
+        "position z": "14.56735",
+        "inventory": "Breastplate_Armor_Exceptional;HELM_Ram_Horn;HELM_Winged",
+        "lootlist": "Rand_Armor_9_10_100"
+      }
+    },
+    {
+      "title": {
+        "location": "The Foundry",
+        "description": "Armory, rear wall",
+        "position x": "-60.3413",
+        "position z": "18.98006",
+        "inventory": "Brigandine_Armor_Exceptional;Girdle_of_the_Driving_Wave",
+        "lootlist": "Hands_10"
+      }
+    },
+    {
+      "title": {
+        "location": "The Foundry",
+        "description": "Armory, right wall",
+        "position x": "-56.3658",
+        "position z": "21.20485",
+        "inventory": "Camping_Supplies;Lockpick",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Foundry",
+        "description": "Map room, left side near the door",
+        "position x": "-23.14941",
+        "position z": "-13.2023",
+        "inventory": "PX1_BUX_Durgan_Cogwheel_4cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Foundry",
+        "description": "Map room, northern corner",
+        "position x": "-34.523",
+        "position z": "-9.522",
+        "inventory": "Ring_of_Overseeing;PX1_Potion_of_Minor_Arcane_Reflection_L4;GEM_Sapphire_950cp;PART_Primal_Wind",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Foundry",
+        "description": "Northernmost room across from the map room, on the right wall",
+        "position x": "-25.23517",
+        "position z": "-37.72609",
+        "inventory": "MISC_Book_Battery_Precepts;PX1_Scroll_of_Restore_Critical_Stamina_L5",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Foundry",
+        "description": "Northernmost room across from the map room, rear right",
+        "position x": "-23.28103",
+        "position z": "-47.17807",
+        "inventory": "Quest_Item_Adra_Sphere_1;PX1_Durgan_Iron_Ingot",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Foundry",
+        "description": "Second room, on the shelf on the rear wall",
+        "position x": "-26.80747",
+        "position z": "8.974476",
+        "inventory": "Scroll_of_Maelstrom_L5;PX1_Scroll_of_Minolettas_Concussive_Missiles_L4;Scroll_of_Ray_of_Fire_L2",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Foundry",
+        "description": "Second room, rear left corner",
+        "position x": "-23.82768",
+        "position z": "7.732739",
+        "inventory": "MISC_Book_Battery_Annals",
+        "lootlist": "Rand_Accessory_7_8_100"
+      }
+    },
+    {
+      "title": {
+        "location": "The Foundry",
+        "description": "Second room, rear right corner",
+        "position x": "-37.4123",
+        "position z": "9.960454",
+        "inventory": "Scroll_of_Maelstrom_L5;Scroll_of_Revival_L3",
+        "lootlist": "Rand_Potion_Scroll_9_10_100"
+      }
+    },
+    {
+      "title": {
+        "location": "The Foundry",
+        "description": "Southern workshop, amongst the crates near the door",
+        "position x": "8.050052",
+        "position z": "35.39526",
+        "inventory": "Lockpick;Camping_Supplies",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Foundry",
+        "description": "Southern workshop, eastern side",
+        "position x": "4.016621",
+        "position z": "46.9885",
+        "inventory": "Quest_Item_Adra_Sphere_2",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Foundry",
+        "description": "Southern workshop, table on the left",
+        "position x": "21.19327",
+        "position z": "41.98682",
+        "inventory": "Key_Battery_Forge_Armory;GI_Chisel;GEM_Opal_150cp",
+        "lootlist": "Rand_Potion_Scroll_9_10_100"
+      }
+    },
+    {
+      "title": {
+        "location": "The Foundry",
+        "description": "Southwestern workshop, next to the collapsed shelf on the right",
+        "position x": "37.911",
+        "position z": "-0.484",
+        "inventory": "PART_Primal_Flame;Potion_of_Bulwark_Against_the_Elements_L2",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Foundry",
+        "description": "Southwestern workshop, on the table on the left",
+        "position x": "51.57826",
+        "position z": "2.554074",
+        "inventory": "PX1_Potion_of_Barring_Deaths_Door_L4;PX1_Potion_of_Minor_Arcane_Reflection_L4",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Foundry",
+        "description": "Southwestern workshop, the large table in the rear left corner",
+        "position x": "48.61185",
+        "position z": "-3.81986",
+        "inventory": "PX1_Durgan_Iron_Ingot;MISC_Book_Battery_Souls",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Foundry",
+        "description": "Third room, left side",
+        "position x": "-10.3033",
+        "position z": "44.34598",
+        "inventory": "Camping_Supplies",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Foundry",
+        "description": "Third room, rear left side",
+        "position x": "-25.945",
+        "position z": "42.811",
+        "inventory": "Shimmering_Cloak;PX1_Potion_of_Flame_Shield_L4;PART_Primal_Rock",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Foundry",
+        "description": "Third room, rear right side",
+        "position x": "-27.64385",
+        "position z": "45.10632",
+        "inventory": "PX1_BUX_Durgan_Cogwheel_4cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Foundry",
+        "description": "Treasure room, right side",
+        "position x": "-15.46414",
+        "position z": "-0.9444515",
+        "inventory": "Girdle_of_Eotun_Constitution;Boots_of_Evasion",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Foundry",
+        "description": "Treasury room, central left",
+        "position x": "-7.30372",
+        "position z": "-8.328658",
+        "inventory": "PX1_Battle_Axe_Wodewys;PX1_BUX_Durgan_Cogwheel_4cp",
+        "lootlist": "Rack_Armor_11_12"
+      }
+    },
+    {
+      "title": {
+        "location": "The Foundry",
+        "description": "Treasury room, central right",
+        "position x": "-7.8246",
+        "position z": "-3.368972",
+        "inventory": "Bracers_of_Spiritual_Power",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Foundry",
+        "description": "Treasury room, left side",
+        "position x": "-13.09065",
+        "position z": "-14.10328",
+        "inventory": "Scroll_of_Valor_L4;Scroll_of_Protection_L2",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Foundry",
+        "description": "White Forge, at the bottom of the stairs from the main area",
+        "position x": "12.845",
+        "position z": "-29.486",
+        "inventory": "GEM_Ruby_850cp;Camping_Supplies;PX1_BUX_Durgan_Cogwheel_4cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Foundry",
+        "description": "White Forge, at the bottom of the stairs from the main area",
+        "position x": "12.845",
+        "position z": "-29.486",
+        "inventory": "PX1_Potion_of_Flame_Shield_L4;PART_Primal_Water;Camping_Supplies",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Foundry",
+        "description": "White Forge, long table on the left",
+        "position x": "24.822",
+        "position z": "-50.592",
+        "inventory": "Food_Oil;Lockpick",
+        "lootlist": "Rand_Armor_11_12_100"
+      }
+    },
+    {
+      "title": {
+        "location": "The Foundry",
+        "description": "White Forge, long table on the left",
+        "position x": "24.822",
+        "position z": "-50.592",
+        "inventory": "Ring_of_Searing_Flames;Lockpick",
+        "lootlist": "Rand_Armor_11_12_100"
+      }
+    },
+    {
+      "title": {
+        "location": "The Foundry",
+        "description": "White Forge, long table on the right",
+        "position x": "5.943631",
+        "position z": "-50.94859",
+        "inventory": "PX1_Durgan_Iron_Ingot",
+        "lootlist": "Rand_Armor_11_12_100"
+      }
+    },
+    {
+      "title": {
+        "location": "The Foundry",
+        "description": "White Forge, long table on the right",
+        "position x": "5.943631",
+        "position z": "-50.94859",
+        "inventory": "PX1_Durgan_Iron_Ingot",
+        "lootlist": "Rand_Armor_11_12_100"
+      }
+    },
+    {
+      "title": {
+        "location": "The Goose and Fox",
+        "description": "Kitchen area, next to the oven",
+        "position x": "-19.79172",
+        "position z": "3.244778",
+        "inventory": null,
+        "lootlist": "Loot_Food"
+      }
+    },
+    {
+      "title": {
+        "location": "The Goose and Fox",
+        "description": "Kitchen area, on the left side",
+        "position x": "-15.81651",
+        "position z": "-3.810602",
+        "inventory": "Ring_GAF_Bartender",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Goose and Fox",
+        "description": "Liquor shelf at the back of the bar",
+        "position x": "7.912635",
+        "position z": "-7.41096",
+        "inventory": "Food_Ale",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Goose and Fox",
+        "description": "Upper floor, first room on the left",
+        "position x": "8.462252",
+        "position z": "-0.8027316",
+        "inventory": "Lockpick;Food_Fruit",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Goose and Fox",
+        "description": "Upper floor, first room on the right",
+        "position x": "-12.05814",
+        "position z": "-1.535238",
+        "inventory": null,
+        "lootlist": "Dyr_Med_Weapons_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "The Goose and Fox",
+        "description": "Upper floor, last room on the left",
+        "position x": "7.940579",
+        "position z": "7.989585",
+        "inventory": null,
+        "lootlist": "Dyr_Armor_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "The Goose and Fox",
+        "description": "Upper floor, last room on the right",
+        "position x": "-13.68734",
+        "position z": "6.607671",
+        "inventory": "Lore_Book_Vailian_Tragedy",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Great Hall",
+        "description": "Armory, bottom right corner",
+        "position x": "-24.34508",
+        "position z": "-11.71692",
+        "inventory": "Camping_Supplies;PX1_Durgan_Iron_Ingot",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Great Hall",
+        "description": "Armory, bottom right corner",
+        "position x": "-24.34508",
+        "position z": "-11.71692",
+        "inventory": "Camping_Supplies;PX1_Durgan_Iron_Ingot",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Great Hall",
+        "description": "Armory, left side",
+        "position x": "-23.69981",
+        "position z": "-23.53633",
+        "inventory": "PX1_Shield_Medium_Badgradrs_Barricade",
+        "lootlist": "Rand_Weapon_Med_9_10_100"
+      }
+    },
+    {
+      "title": {
+        "location": "The Great Hall",
+        "description": "Armory, left side",
+        "position x": "-23.69981",
+        "position z": "-23.53633",
+        "inventory": "Shield_Large_Exceptional;Shield_Medium_Heater_Exceptional;PX1_BUX_Durgan_Cogwheel_4cp",
+        "lootlist": "Rand_Weapon_Med_9_10_100"
+      }
+    },
+    {
+      "title": {
+        "location": "The Great Hall",
+        "description": "Back wall of the armory, left side",
+        "position x": "-28.8122",
+        "position z": "-21.27778",
+        "inventory": "Breastplate_Armor_Exceptional;Brigandine_Armor_Exceptional",
+        "lootlist": "Rack_Armor_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "The Great Hall",
+        "description": "Back wall of the armory, left side",
+        "position x": "-28.8122",
+        "position z": "-21.27778",
+        "inventory": "Girdle_of_the_Driving_Wave",
+        "lootlist": "Rack_Armor_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "The Great Hall",
+        "description": "Back wall of the armory, right side",
+        "position x": "-28.734",
+        "position z": "-15.772",
+        "inventory": "Quest_Item_Garodhs_Helm",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Great Hall",
+        "description": "Back wall of the armory, right side (only appears if not yet collected)",
+        "position x": "-28.734",
+        "position z": "-15.772",
+        "inventory": "Quest_Item_Garodhs_Helm",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Great Hall",
+        "description": "Common room, left side",
+        "position x": "-3.673637",
+        "position z": "-9.044743",
+        "inventory": "PX1_Scroll_of_Hail_Storm_L4;PX1_Potion_of_Barring_Deaths_Door_L4;Lore_Book_God_Abydon;Key_Battery_Guard_Room",
+        "lootlist": "Rand_Weapon_Sm_7_8_100"
+      }
+    },
+    {
+      "title": {
+        "location": "The Great Hall",
+        "description": "Common room, right side",
+        "position x": "-3.531972",
+        "position z": "-1.183527",
+        "inventory": "Food_Spirits;Drug_Snowcap",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Great Hall",
+        "description": "Entrance hall, amongst the bodies on the left side",
+        "position x": "27.46318",
+        "position z": "-5.517963",
+        "inventory": "PX1_BUX_Durgan_Cogwheel_4cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Great Hall",
+        "description": "Entrance hall, the statue in the cutout on the left wall",
+        "position x": "29.73077",
+        "position z": "-7.011593",
+        "inventory": "GEM_Emerald_750cp;PX1_BUX_Durgan_Cogwheel_4cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Great Hall",
+        "description": "Entrance hall, the statue in the cutout on the left wall",
+        "position x": "29.73077",
+        "position z": "-7.011593",
+        "inventory": "PX1_BUX_Durgan_Cogwheel_4cp;GEM_Emerald_750cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Great Hall",
+        "description": "Feast hall, front left side",
+        "position x": "-4.147727",
+        "position z": "24.02729",
+        "inventory": "BUX_Golden_Oble_18cp;BUX_Silver_Lusce_3cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Great Hall",
+        "description": "Feast hall, front right side",
+        "position x": "-7.994328",
+        "position z": "35.33408",
+        "inventory": "Gauntlets_of_Puissant_Melee",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Great Hall",
+        "description": "Feast hall, rear left side",
+        "position x": "-15.66599",
+        "position z": "23.82812",
+        "inventory": "Sabre_Exceptional",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Great Hall",
+        "description": "Feast hall, rear right side",
+        "position x": "-21.09683",
+        "position z": "34.91114",
+        "inventory": "GEM_Ruby_850cp;GEM_Velune_65cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Great Hall",
+        "description": "In the center of the war room",
+        "position x": "20.20677",
+        "position z": "-18.36843",
+        "inventory": "MISC_Note_Battery_Record_01",
+        "lootlist": "Scroll_4"
+      }
+    },
+    {
+      "title": {
+        "location": "The Great Hall",
+        "description": "In the secret room northeast of the storeroom",
+        "position x": "-9.20975",
+        "position z": "-39.69574",
+        "inventory": "PX1_BUX_Durgan_Cogwheel_4cp;Potion_of_Iron_Skin_L2;Potion_of_Deleterious_Alacrity_of_Motion_L3",
+        "lootlist": "Rand_Armor_9_10_100"
+      }
+    },
+    {
+      "title": {
+        "location": "The Great Hall",
+        "description": "Left side of the war room, in between the mirrors",
+        "position x": "23.295",
+        "position z": "-26.913",
+        "inventory": "Arquebus_Fine;Food_Oil",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Great Hall",
+        "description": "Long central room, chest in the center of the room",
+        "position x": "-3.673637",
+        "position z": "-9.044743",
+        "inventory": "PX1_Scroll_of_Hail_Storm_L4;PX1_Potion_of_Barring_Deaths_Door_L4;Lore_Book_God_Abydon",
+        "lootlist": "Rand_Weapon_Sm_7_8_100"
+      }
+    },
+    {
+      "title": {
+        "location": "The Great Hall",
+        "description": "Long central room, on the table to the left",
+        "position x": "1.45983",
+        "position z": "-27.50931",
+        "inventory": "GEM_Diamond_350cp;MISC_Note_Battery_Letter_01",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Great Hall",
+        "description": "Long central room, top right corner",
+        "position x": "-3.718433",
+        "position z": "3.023477",
+        "inventory": "Food_Spirits;Drug_Snowcap",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Great Hall",
+        "description": "On the back wall of the feasthall",
+        "position x": "-26.51543",
+        "position z": "25.05912",
+        "inventory": "Food_Ale;Food_Grain;Food_Oil",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Great Hall",
+        "description": "On the back wall of the feasthall",
+        "position x": "-20.41867",
+        "position z": "21.04495",
+        "inventory": "GEM_Garnet_85cp;GEM_Velune_65cp;PX1_BUX_Durgan_Cogwheel_4cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Great Hall",
+        "description": "Storeroom, left wall",
+        "position x": "4.701477",
+        "position z": "-45.77344",
+        "inventory": "MISC_Note_Battery_Bill_01",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Great Hall",
+        "description": "Storeroom, near the secret room entrance",
+        "position x": "-3.094979",
+        "position z": "-41.17841",
+        "inventory": "PX1_Scroll_of_Restore_Critical_Stamina_L5;Scroll_of_Revival_L3",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Great Hall",
+        "description": "Storeroom, on the bottom left wall",
+        "position x": "15.9626",
+        "position z": "-39.08596",
+        "inventory": "Food_Spirits",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Great Hall",
+        "description": "Storeroom, on the floor below the shelves on the left wall",
+        "position x": "5.886003",
+        "position z": "-43.54563",
+        "inventory": "Lockpick",
+        "lootlist": "Neck_Cloak_7"
+      }
+    },
+    {
+      "title": {
+        "location": "The Great Hall",
+        "description": "Storeroom, shelves on the left wall",
+        "position x": "7.905428",
+        "position z": "-45.62004",
+        "inventory": "PX1_Scroll_of_Hail_Storm_L4",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Great Hall",
+        "description": "War room, left of the door from the main hall",
+        "position x": "19.02733",
+        "position z": "-8.491044",
+        "inventory": "PX1_BUX_Durgan_Cogwheel_4cp;Boots_of_Stability",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Great Hall",
+        "description": "War room, right of the door from the main hall",
+        "position x": "10.2998",
+        "position z": "-11.42661",
+        "inventory": "Ring_of_Unshackling",
+        "lootlist": "Rand_Potion_Scroll_5_6_100"
+      }
+    },
+    {
+      "title": {
+        "location": "The Gréf's Rest",
+        "description": "[[Ailef]]'s room",
+        "position x": "-13.18666",
+        "position z": "-20.06848",
+        "inventory": "Food_Fruit",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Gréf's Rest",
+        "description": "[[Owynna]]'s room (second from the left)",
+        "position x": "-3.562572",
+        "position z": "-28.34129",
+        "inventory": null,
+        "lootlist": "Dyr_Currency_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "The Gréf's Rest",
+        "description": "[[Owynna]]'s room (second from the left)",
+        "position x": "-2.257591",
+        "position z": "-32.18192",
+        "inventory": null,
+        "lootlist": "Dyr_Accessory_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "The Gréf's Rest",
+        "description": "[[Owynna]]'s room (second from the left)",
+        "position x": "4.071476",
+        "position z": "-32.71803",
+        "inventory": null,
+        "lootlist": "Neck_Cloak_3"
+      }
+    },
+    {
+      "title": {
+        "location": "The Gréf's Rest",
+        "description": "Back of the main hall, by the hearth",
+        "position x": "-21.67098",
+        "position z": "0.7242317",
+        "inventory": null,
+        "lootlist": "Loot_Food"
+      }
+    },
+    {
+      "title": {
+        "location": "The Gréf's Rest",
+        "description": "First room from the left",
+        "position x": "10.32154",
+        "position z": "-29.45636",
+        "inventory": null,
+        "lootlist": "Currency_Duc_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "The Gréf's Rest",
+        "description": "First room from the left",
+        "position x": "14.65359",
+        "position z": "-32.27386",
+        "inventory": null,
+        "lootlist": "Rand_Potion_Scroll_3_4_100"
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Presence",
+        "description": "Abbot's quarters in the northeastern corner",
+        "position x": "-67.64249",
+        "position z": "-3.244861",
+        "inventory": "PX2_Quest_Item_Kaoto_Dreams",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Presence",
+        "description": "Abbot's quarters in the northeastern corner, at the foot of the bed",
+        "position x": "-63.33851",
+        "position z": "-4.192703",
+        "inventory": "PX1_Potion_of_Barring_Deaths_Door_L4;Potion_of_Major_Endurance_L4",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Presence",
+        "description": "Abbot's quarters in the northeastern corner, right side",
+        "position x": "-73.90659",
+        "position z": "0.6204403",
+        "inventory": "Scroll_of_Moonwell_L4;Lore_Book_God_Ondra;Lore_Book_The_Moons_of_Eora",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Presence",
+        "description": "Back right pool in the vault",
+        "position x": "-34.60972",
+        "position z": "42.94002",
+        "inventory": "PX2_Club_St_Wygelts_Cudgel",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Presence",
+        "description": "Chamber of the Fallen Moon, rear left",
+        "position x": "-18.465",
+        "position z": "-1.103",
+        "inventory": "Scroll_of_Protection_L2;GEM_Opal_150cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Presence",
+        "description": "Chamber of the Fallen Moon, rear right",
+        "position x": "-18.4719",
+        "position z": "6.898638",
+        "inventory": "Scroll_of_Paralysis_L3;GEM_Moonstone_25cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Presence",
+        "description": "Crested Hall, back left wall",
+        "position x": "-3.003392",
+        "position z": "-45.45125",
+        "inventory": "Boots_of_Speed;Spellward_Amulet;HELM_Open",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Presence",
+        "description": "Crested Hall, in the adjacent storeroom",
+        "position x": "-6.009337",
+        "position z": "-51.21075",
+        "inventory": "Food_Rice;Food_Meat;Food_Grain",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Presence",
+        "description": "Crested Hall, in the adjacent storeroom",
+        "position x": "-1.933924",
+        "position z": "-54.34029",
+        "inventory": "Food_Vegetable",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Presence",
+        "description": "Crested Hall, in the eastern corner near the door",
+        "position x": "-11.9206",
+        "position z": "-27.43444",
+        "inventory": "Food_Stew",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Presence",
+        "description": "Crested Hall, on a table in the center",
+        "position x": "-9.719838",
+        "position z": "-37.03449",
+        "inventory": "Gloves_Healing_Hands;PX2_Key_Abbey_Quarters",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Presence",
+        "description": "Crested Quarters, left side",
+        "position x": "-16.77241",
+        "position z": "-44.36855",
+        "inventory": "Food_Meat;PX2_Trap_Item_Freezing_Rake;Lockpick",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Presence",
+        "description": "Crested Quarters, right side",
+        "position x": "-30.408",
+        "position z": "-29.309",
+        "inventory": "PX2_Key_Abbey_Quarters",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Presence",
+        "description": "Crested Quarters, right side",
+        "position x": "-27.60736",
+        "position z": "-31.83382",
+        "inventory": "Potion_of_Iron_Skin_L2;Potion_of_Mirrored_Images_L2;Camping_Supplies",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Presence",
+        "description": "Far end of the western corridor running alongside the central chamber",
+        "position x": "-41.339",
+        "position z": "-21.384",
+        "inventory": "Scroll_of_Prayer_Against_Fear_L1;Potion_of_Infuse_with_Vital_Essence_L2;GEM_Opal_150cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Presence",
+        "description": "Front left pool in the vault",
+        "position x": "-30.1461",
+        "position z": "27.463",
+        "inventory": "PX2_Gwyns_Band_of_Union;Ring_of_Unshackling;GEM_Ruby_850cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Presence",
+        "description": "In the cavern adjacent to the Crested Quarters",
+        "position x": "-25.442",
+        "position z": "-47.573",
+        "inventory": "Food_Milk;Food_Oil",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Presence",
+        "description": "In the cavern adjacent to the Crested Quarters, above the last chest",
+        "position x": "-27.10807",
+        "position z": "-48.23459",
+        "inventory": "PX1_Potion_of_Flame_Shield_L4;Potion_of_Major_Regen_L3",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Presence",
+        "description": "In the caverns west of the Crested Hall",
+        "position x": "16.63562",
+        "position z": "-66.5328",
+        "inventory": "Food_Spirits;Camping_Supplies",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Presence",
+        "description": "In the southern room containing the stairs to the reliquary",
+        "position x": "23.754",
+        "position z": "31.816",
+        "inventory": "GEM_Turquoise_12cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Presence",
+        "description": "Left side of the Hall of the Tidal Wave",
+        "position x": "-45.209",
+        "position z": "-9.666",
+        "inventory": "GEM_Velune_65cp;PX2_Scroll_of_Prayer_Against_Imprisonment_L5;Potion_of_Bulwark_Against_the_Elements_L2",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Presence",
+        "description": "Library, bookcase on the back wall",
+        "position x": "-15.03363",
+        "position z": "53.96487",
+        "inventory": "PX2_Quest_Item_Abbey_Rising_Lore",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Presence",
+        "description": "Library, in the bookcase to the left of the door",
+        "position x": "1.739583",
+        "position z": "49.79901",
+        "inventory": "Lockpick",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Presence",
+        "description": "Library, the bookcase in the center",
+        "position x": "-8.111623",
+        "position z": "53.11433",
+        "inventory": "Lore_Book_Monsters_Deadfire_Archipelago;Lore_Book_Naasitaq_Poetry;PX2_Lore_Book_The_Sea_and_Her_Love",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Presence",
+        "description": "Library, the bookcase in the top left corner",
+        "position x": "-14.09803",
+        "position z": "47.57055",
+        "inventory": "PX2_Lore_Book_Tides_and_Moons;Lore_Book_The_Moons_of_Eora;Lore_Book_The_Calendar",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Presence",
+        "description": "Library, the bookcase to the left of the door",
+        "position x": "-0.6795333",
+        "position z": "47.84398",
+        "inventory": "PX2_Scroll_of_Prayer_Against_Treachery_L6;Scroll_of_Valor_L4",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Presence",
+        "description": "Library, the bookcase to the right of the door",
+        "position x": "-7.596953",
+        "position z": "47.68278",
+        "inventory": "PX2_Lore_Book_Abydons_Hands;Lore_Book_God_Ondra;Lore_Book_God_Rymrgand",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Presence",
+        "description": "Main entrance, left side",
+        "position x": "15.771",
+        "position z": "-8.435",
+        "inventory": "Potion_of_Fleet_Feet_L1;GEM_Velune_65cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Presence",
+        "description": "Main entrance, right side",
+        "position x": "15.769",
+        "position z": "14.1398",
+        "inventory": "Potion_of_Minor_Recovery_L2;GEM_Moonstone_25cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Presence",
+        "description": "On the desk in front of [[High Abbot Kaoto]]",
+        "position x": "-47.4393",
+        "position z": "3.324663",
+        "inventory": "PX2_Key_Abbey_Master",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Silence",
+        "description": "At the bottom of the northwestern stairs up to [[The Halls of Presence]]",
+        "position x": "-8.270301",
+        "position z": "-63.59303",
+        "inventory": "Rod_Exceptional;Mace_Fine;Torch01;Torch01;Torch01",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Silence",
+        "description": "At the bottom of the southeastern stairs up to [[The Halls of Presence]], left side",
+        "position x": "4.697774",
+        "position z": "24.50095",
+        "inventory": "Potion_of_Merciless_Gaze_L2;GEM_Turquoise_12cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Silence",
+        "description": "At the bottom of the southeastern stairs up to [[The Halls of Presence]], right side",
+        "position x": "7.172725",
+        "position z": "36.011",
+        "inventory": "Food_Oil;Drug_Goldrot_Chew",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Silence",
+        "description": "Back wall of the storeroom with the exit to the ramparts",
+        "position x": "7.488",
+        "position z": "-55.091",
+        "inventory": "Amulet_of_Health;GEM_Sapphire_950cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Silence",
+        "description": "Ice cavern, next to the large chunk of ice",
+        "position x": "-17.693",
+        "position z": "40.257",
+        "inventory": "Ring_of_Deflection;GEM_Velune_65cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Silence",
+        "description": "Ice cavern, the skeleton beneath the soul essence",
+        "position x": "-28.369",
+        "position z": "42.57",
+        "inventory": "PX2_Artheks_Cord",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Silence",
+        "description": "In the corner of [[Farentis]]' quarters",
+        "position x": "-18.52217",
+        "position z": "-42.69493",
+        "inventory": "Scroll_of_Maelstrom_L5;Scroll_of_Defense_L2",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Silence",
+        "description": "In the corner of [[Farentis]]' quarters",
+        "position x": "-17.50475",
+        "position z": "-43.16154",
+        "inventory": "Food_Stew;Food_Vegetable;Potion_of_Infuse_with_Vital_Essence_L2",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Silence",
+        "description": "In the corridor northwest of the Pool of the Anointed, right side",
+        "position x": "-26.79656",
+        "position z": "-20.78607",
+        "inventory": "Scroll_of_Revival_L3;GEM_Moonstone_25cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Silence",
+        "description": "In the room northwest across from Farentis' quarters",
+        "position x": "-32.88132",
+        "position z": "-57.24248",
+        "inventory": "GEM_Velune_65cp;GEM_Turquoise_12cp;GEM_Turquoise_12cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Silence",
+        "description": "In the short corridor northwest of the Pool of the Anointed, left side",
+        "position x": "-20.17192",
+        "position z": "-27.01868",
+        "inventory": "GEM_Opal_150cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Silence",
+        "description": "In the storeroom to the northwest",
+        "position x": "7.676128",
+        "position z": "-70.31985",
+        "inventory": "Lockpick;Boots_of_Speed",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Silence",
+        "description": "In the storeroom to the northwest, tucked under the table",
+        "position x": "13.19588",
+        "position z": "-68.48242",
+        "inventory": "GI_Grappling_Hook;Camping_Supplies",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Silence",
+        "description": "Left side of the Rising Walkway, next to the picture puzzle",
+        "position x": "-57.415",
+        "position z": "-28.021",
+        "inventory": "Food_Rice;Food_Milk;Potion_of_Minor_Regen_L1",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Silence",
+        "description": "Left side of the room with the exit to the ramparts",
+        "position x": "17.76724",
+        "position z": "-55.73821",
+        "inventory": "Food_Milk;Food_Oil;Potion_of_Major_Endurance_L4",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Silence",
+        "description": "Northeast of the hip bone protruding from the ice",
+        "position x": "-8.724398",
+        "position z": "-15.9633",
+        "inventory": "PX2_Key_HoS_Main_Door",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Silence",
+        "description": "Northeast of the hip bone protruding from the ice",
+        "position x": "-6.780485",
+        "position z": "-11.56326",
+        "inventory": "Food_Stew",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Silence",
+        "description": "Room with the shrine to Ondra",
+        "position x": "-31.87412",
+        "position z": "-40.33825",
+        "inventory": "GEM_Sapphire_950cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Silence",
+        "description": "Storeroom to the northwest, in the barrel on the right (misnamed)",
+        "position x": "7.494494",
+        "position z": "-65.21867",
+        "inventory": "Food_Grain;Food_Rice",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Silence",
+        "description": "West of the exit to the cliffs, left corpse",
+        "position x": "27.65199",
+        "position z": "37.13682",
+        "inventory": "Lockpick;Drug_Snowcap;Dagger_Fine;Camping_Supplies",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Halls of Silence",
+        "description": "West of the exit to the cliffs, right corpse",
+        "position x": "24.19622",
+        "position z": "40.76595",
+        "inventory": "Wand_Exceptional;Potion_of_Power_L2",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Mines",
+        "description": "A short distance from the entrance to the northeastern mines",
+        "position x": "-22.15",
+        "position z": "-3.928",
+        "inventory": "Quest_Item_Mine_Trap_Key_03;GEM_Diamond_350cp;Mace_Exceptional",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Mines",
+        "description": "At the end of the Hall of Remembrance",
+        "position x": "43.66418",
+        "position z": "0.06073136",
+        "inventory": "PX1_Mace_Nightshroud",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Mines",
+        "description": "Far southeastern end of the main hall, near the Hall of Remembrance",
+        "position x": "15.21087",
+        "position z": "53.23288",
+        "inventory": "Key_Battery_Artifact_Mines",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Mines",
+        "description": "In the main hall, near the central collapsed section",
+        "position x": "10.44544",
+        "position z": "-15.05123",
+        "inventory": "Morning_Star_Exceptional",
+        "lootlist": "Rand_Potion_Scroll_9_10_100"
+      }
+    },
+    {
+      "title": {
+        "location": "The Mines",
+        "description": "In the mines, left at the fork and then straight across at the junction",
+        "position x": "-42.44122",
+        "position z": "-38.48134",
+        "inventory": "Lockpick;Drug_Snowcap",
+        "lootlist": "Feet_8"
+      }
+    },
+    {
+      "title": {
+        "location": "The Mines",
+        "description": "In the mines, left at the fork, then another left",
+        "position x": "-9.333556",
+        "position z": "-29.1609",
+        "inventory": "Rod_Fine;Scroll_of_Missile_Barrage_L4",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Mines",
+        "description": "In the room across from the workshop, on the left table",
+        "position x": "39.67887",
+        "position z": "-65.49723",
+        "inventory": "GEM_Topaz_500cp",
+        "lootlist": "Hands_8"
+      }
+    },
+    {
+      "title": {
+        "location": "The Mines",
+        "description": "In the room across from the workshop, on the right table",
+        "position x": "33.283",
+        "position z": "-65.547",
+        "inventory": "PX1_BUX_Durgan_Cogwheel_4cp",
+        "lootlist": "Rand_Potion_Scroll_7_8_100"
+      }
+    },
+    {
+      "title": {
+        "location": "The Mines",
+        "description": "In the room at the end of the western mines",
+        "position x": "77.54669",
+        "position z": "-5.59784",
+        "inventory": "Camping_Supplies",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Mines",
+        "description": "In the room at the end of the western mines, left side (requires that you obtain the [[Rolled Parchment]] first)",
+        "position x": "84.15816",
+        "position z": "-15.49346",
+        "inventory": "PX1_Durgan_Iron_Ingot;PX1_Durgan_Iron_Ingot;GEM_Diamond_350cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Mines",
+        "description": "Middle of the main hall, opposite the doorway to the northeastern mines",
+        "position x": "19.01037",
+        "position z": "5.203616",
+        "inventory": "GEM_Opal_150cp;GEM_Bloodstone_25cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Mines",
+        "description": "Mines, at the end of the small tunnel south of the mine cart tunnel",
+        "position x": "-43.77667",
+        "position z": "27.27194",
+        "inventory": "Trap_Item_Pillar_of_Holy_Fire;GI_Prybar",
+        "lootlist": "Gem_7_100"
+      }
+    },
+    {
+      "title": {
+        "location": "The Mines",
+        "description": "Northeastern corner of the mines, left",
+        "position x": "-75.58818",
+        "position z": "16.8512",
+        "inventory": "MISC_Note_Battery_Letter_Mines",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Mines",
+        "description": "Northeastern corner of the mines, right",
+        "position x": "-78.75833",
+        "position z": "18.29267",
+        "inventory": "Arbalest_Fine;Potion_of_Major_Endurance_L4",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Mines",
+        "description": "Northwestern end of the main hall bisecting the level",
+        "position x": "8.045941",
+        "position z": "-47.98657",
+        "inventory": "Potion_of_Major_Recovery_L4",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Mines",
+        "description": "Small room accessed via the minecart interaction",
+        "position x": "-10.8767",
+        "position z": "88.98876",
+        "inventory": "PX1_BUX_Durgan_Cogwheel_4cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Mines",
+        "description": "Small room accessed via the minecart interaction",
+        "position x": "-2.74485",
+        "position z": "84.7705",
+        "inventory": "PX1_Durgan_Iron_Ingot;Quest_Item_Mine_Trap_Key_02;GEM_Sapphire_950cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Mines",
+        "description": "Southeastern end of the mines",
+        "position x": "-25.126",
+        "position z": "64.125",
+        "inventory": "Girdle_of_Eotun_Constitution;Lockpick",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Mines",
+        "description": "Workshop in the north, back left corner",
+        "position x": "-27.39636",
+        "position z": "-53.33344",
+        "inventory": "PX1_Tempered_Helm;PX1_Durgan_Iron_Ingot;Camping_Supplies;Lockpick",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Mines",
+        "description": "Workshop in the north, back right corner",
+        "position x": "-27.21651",
+        "position z": "-41.73423",
+        "inventory": "Quest_Item_Mine_Trap_Key_01;Pistol_Exceptional",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Mines",
+        "description": "Workshop in the north, left side",
+        "position x": "-15.173",
+        "position z": "-54.25",
+        "inventory": "Quest_Item_Mine_Dial",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Salty Mast",
+        "description": "At the top of the stairs",
+        "position x": "-19.67212",
+        "position z": "5.871912",
+        "inventory": "Cloth_Outfit_Aedyre",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Salty Mast",
+        "description": "In the kitchen to the north",
+        "position x": "-15.62834",
+        "position z": "-14.17085",
+        "inventory": "Food_Beer;Food_Ale;Food_Spirits",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Salty Mast",
+        "description": "In the main room, facing the entrance",
+        "position x": "8.608397",
+        "position z": "-0.01930987",
+        "inventory": "Cloth_Outfit_Dyrwoodan_Fur;Potion_of_Minor_Endurance_L2;Potion_of_Minor_Recovery_L2",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Salty Mast",
+        "description": "Northwestern study",
+        "position x": "-9.180945",
+        "position z": "-20.01027",
+        "inventory": null,
+        "lootlist": "Dyr_Shelf_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "The Salty Mast",
+        "description": "Southern room",
+        "position x": "0.9476072",
+        "position z": "26.0178",
+        "inventory": "Lore_Book_Backer_RPG_Codex",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Salty Mast",
+        "description": "Southwestern room",
+        "position x": "7.589661",
+        "position z": "-0.2112488",
+        "inventory": "Cloth_Outfit_Vailian",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Salty Mast",
+        "description": "Western back room",
+        "position x": "10.05",
+        "position z": "-18.5",
+        "inventory": "Cloth_Outfit_Dyrwoodan_Vest;Potion_of_Minor_Regen_L1",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Salty Mast",
+        "description": "Western room (below [[Serel]]'s room)",
+        "position x": "2.714547",
+        "position z": "-9.292599",
+        "inventory": "Cloth_Outfit_Ixamitl",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "The Wailing Banshee",
+        "description": "Kitchen, left side",
+        "position x": "-19.256",
+        "position z": "-3.003428",
+        "inventory": null,
+        "lootlist": "Loot_Food"
+      }
+    },
+    {
+      "title": {
+        "location": "The Wailing Banshee",
+        "description": "Kitchen, right side on the benchtop",
+        "position x": "-26.00229",
+        "position z": "5.266949",
+        "inventory": null,
+        "lootlist": "Loot_Food"
+      }
+    },
+    {
+      "title": {
+        "location": "The Wailing Banshee",
+        "description": "Near the staircase up to the second floor",
+        "position x": "5.701914",
+        "position z": "-1.608341",
+        "inventory": "Lore_Book_Backer_Flood_Memorial",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Thieves' Hideout",
+        "description": "Bedroom, left corner",
+        "position x": "-16.121",
+        "position z": "-8.289",
+        "inventory": "Lore_Book_House_Doemenel",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Thieves' Hideout",
+        "description": "Bedroom, left wall",
+        "position x": "-9.159389",
+        "position z": "-9.985436",
+        "inventory": null,
+        "lootlist": "Dyr_Armor_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Thieves' Hideout",
+        "description": "Bedroom, on the shelf next to the double bed",
+        "position x": "-15.833",
+        "position z": "6.347",
+        "inventory": "GEM_Bloodstone_25cp",
+        "lootlist": "Dyr_Currency_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Thieves' Hideout",
+        "description": "In the smaller bedroom adjacent",
+        "position x": "-12.45249",
+        "position z": "10.68637",
+        "inventory": "Lore_Book_Dunryd_Row",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Thieves' Hideout",
+        "description": "Large circular table in the first room",
+        "position x": "4.23171",
+        "position z": "3.239057",
+        "inventory": null,
+        "lootlist": "Dyr_Sm_Weapons_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Thieves' Hideout",
+        "description": "On the floor of the northwestern room",
+        "position x": "4.124223",
+        "position z": "-16.03608",
+        "inventory": null,
+        "lootlist": "Gem_3_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Thieves' Hideout",
+        "description": "On the left hand side of the first room",
+        "position x": "8.47138",
+        "position z": "-9.967951",
+        "inventory": null,
+        "lootlist": "Dyr_Lg_Weapons_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Thyrsc's House",
+        "description": "Front right side",
+        "position x": "5.351147",
+        "position z": "9.118141",
+        "inventory": "Food_Fish",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Thyrsc's House",
+        "description": "Left wall",
+        "position x": "5.2439",
+        "position z": "1.277295",
+        "inventory": "Scroll_of_Defense_L2;Potion_of_Major_Endurance_L4;Camping_Supplies;PX1_Cloth_Outfit_Fur_01",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Thyrsc's House",
+        "description": "Rear left corner",
+        "position x": "-1.813533",
+        "position z": "-1.571593",
+        "inventory": "PX1_ART_Durgan_Copper_Bracelet_65cp;Scroll_of_Protection_L2;MISC_PART_Hide_Bear;MISC_PART_Hide_Wolf",
+        "lootlist": "PX1_Currency_Boney_Rand_25_50"
+      }
+    },
+    {
+      "title": {
+        "location": "Trumbel's Mill",
+        "description": "Amongst the boxes on the back-left side of the mill",
+        "position x": "2.496068",
+        "position z": "-5.897503",
+        "inventory": "Food_Grain",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Trygil's Curriery",
+        "description": "Crate next to the door to the backroom",
+        "position x": "1.940311",
+        "position z": "6.261168",
+        "inventory": null,
+        "lootlist": "Dyr_Consumable_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Trygil's Curriery",
+        "description": "In the locked back room",
+        "position x": "2.709384",
+        "position z": "-4.966728",
+        "inventory": "Lore_Book_God_Skaen",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Trygil's Curriery",
+        "description": "One of the small tanning vats on the right side",
+        "position x": "-3.52195",
+        "position z": "16.87265",
+        "inventory": "Key_Tanner",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Vailian Embassy",
+        "description": "Northeastern corner of the main room",
+        "position x": "-22.52058",
+        "position z": "2.981062",
+        "inventory": null,
+        "lootlist": "Dyr_Shelf_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Vailian Embassy",
+        "description": "Northern board room, rear right",
+        "position x": "-6.344652",
+        "position z": "-16.79572",
+        "inventory": "Figurine_Obsidian_Lamp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Vailian Embassy",
+        "description": "On the wall near the entrance in the main room",
+        "position x": "-14.71558",
+        "position z": "14.36841",
+        "inventory": "Lore_Book_Galven_Regd",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Vailian Embassy",
+        "description": "Southwestern room",
+        "position x": "12.5166",
+        "position z": "-8.769318",
+        "inventory": "Lore_Book_God_Ondra",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Vailian Embassy",
+        "description": "Southwestern room, far left",
+        "position x": "17.08454",
+        "position z": "-16.3118",
+        "inventory": null,
+        "lootlist": "Dyr_Armor_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Vailian Trading Company",
+        "description": "Board room in the northwestern corner",
+        "position x": "2.885213",
+        "position z": "-25.3878",
+        "inventory": null,
+        "lootlist": "Dyr_Shelf_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Vailian Trading Company",
+        "description": "Main warehouse area",
+        "position x": "-4.27219",
+        "position z": "16.94917",
+        "inventory": null,
+        "lootlist": "Loot_Drugs"
+      }
+    },
+    {
+      "title": {
+        "location": "Vailian Trading Company",
+        "description": "Storeroom, left side",
+        "position x": "-19.52239",
+        "position z": "0.9516217",
+        "inventory": "Brigandine_Armor_Fine",
+        "lootlist": "Rand_Weapon_Med_5_6_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Vailian Trading Company",
+        "description": "Storeroom, on the shelf at the back",
+        "position x": "-23.33219",
+        "position z": "3.023576",
+        "inventory": "GEM_Garnet_85cp",
+        "lootlist": "Rand_Weapon_Sm_5_6_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Valewood",
+        "description": "Bandit camp, center crate",
+        "position x": "-22.35001",
+        "position z": "20.70744",
+        "inventory": "Food_Poultry;Food_Meat;Food_Rice",
+        "lootlist": "Dyr_Sm_Weapons_1_2"
+      }
+    },
+    {
+      "title": {
+        "location": "Valewood",
+        "description": "Bandit camp, left crate",
+        "position x": "-13.73957",
+        "position z": "17.9385",
+        "inventory": "Food_Fruit",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Valewood",
+        "description": "Bandit camp, right crate",
+        "position x": "-21.463",
+        "position z": "25.42982",
+        "inventory": "Food_Vegetable",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Valewood",
+        "description": "By the abandoned cart near the bridge in the south",
+        "position x": "31.8133",
+        "position z": "4.915831",
+        "inventory": "Camping_Supplies",
+        "lootlist": "Dyr_Med_Weapons_1_2"
+      }
+    },
+    {
+      "title": {
+        "location": "Valewood",
+        "description": "In [[Nonton]]'s tent, by the bridge in the south",
+        "position x": "45.00388",
+        "position z": "21.39592",
+        "inventory": "MISC_Nonton_Note",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Valewood",
+        "description": "In the leftmost Xaurip hut in the camp to the north",
+        "position x": "-33.50604",
+        "position z": "-32.67943",
+        "inventory": "GEM_Turquoise_12cp;GEM_Jasper_15cp",
+        "lootlist": "Gem_1_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Valewood",
+        "description": "In the Xaurip camp to the north",
+        "position x": "-32.02495",
+        "position z": "-31.39994",
+        "inventory": "Quarterstaff;HAT_Padded_Cap",
+        "lootlist": "Loot_NPC_Adventurer_Poor"
+      }
+    },
+    {
+      "title": {
+        "location": "Valewood",
+        "description": "Near the northeastern exit",
+        "position x": "-50.1995",
+        "position z": "-16.54425",
+        "inventory": "Leather_Armor;Camping_Supplies",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Valewood",
+        "description": "On top of the ruined wall in the ruins to the southeast",
+        "position x": "11.504",
+        "position z": "37.519",
+        "inventory": "Gloves_Fulvano;Leather_Armor;MISC_Note_Dead_Traveller_vwd;Camping_Supplies",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Valewood",
+        "description": "Under the archway to the left of the interactable wall in the ruins to the southeast",
+        "position x": "13.63697",
+        "position z": "51.67511",
+        "inventory": "GEM_Amethyst_10cp;GEM_Agate_5cp",
+        "lootlist": "Dyr_Accessory_1_2"
+      }
+    },
+    {
+      "title": {
+        "location": "Valtas Manor",
+        "description": "Central room with the very large table",
+        "position x": "-8.05598",
+        "position z": "-6.188391",
+        "inventory": "Quest_Item_Lord_Valtas_Will",
+        "lootlist": "Dyr_Shelf_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Valtas Manor",
+        "description": "Northeastern kitchen/pantry area",
+        "position x": "-20.75381",
+        "position z": "-0.7945077",
+        "inventory": "Food_Beer",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Valtas Manor",
+        "description": "Northeastern kitchen/pantry area",
+        "position x": "-19.86307",
+        "position z": "-3.541811",
+        "inventory": null,
+        "lootlist": "Loot_Food"
+      }
+    },
+    {
+      "title": {
+        "location": "Valtas Manor",
+        "description": "Northwestern room at the rear of the manor, on the left",
+        "position x": "10.96396",
+        "position z": "-21.67003",
+        "inventory": "Quest_Item_Valtas_Letter",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Valtas Manor",
+        "description": "Northwestern room, on the right",
+        "position x": "1.998447",
+        "position z": "-20.92058",
+        "inventory": "ITEM_PET_Cat_Mix",
+        "lootlist": "Dyr_Armor_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Valtas Manor",
+        "description": "Southwestern-most room",
+        "position x": "24.451",
+        "position z": "-8.910398",
+        "inventory": null,
+        "lootlist": "Dyr_Med_Weapons_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Valtas Manor",
+        "description": "Southwestern-most room with the two guls, bedside table",
+        "position x": "19.88092",
+        "position z": "-3.351444",
+        "inventory": "Key_Valtas_Manor",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Valtas Mausoleum",
+        "description": "Back left",
+        "position x": "-2.786317",
+        "position z": "-6.881934",
+        "inventory": null,
+        "lootlist": "Dyr_Currency_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Valtas Mausoleum",
+        "description": "Center of the room",
+        "position x": "-0.6221409",
+        "position z": "-0.2510691",
+        "inventory": "Figurine_Iridescent_Scarab",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Valtas Mausoleum",
+        "description": "Front left",
+        "position x": "5.401683",
+        "position z": "-7.742326",
+        "inventory": null,
+        "lootlist": "Dyr_Currency_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Vithrack Common House",
+        "description": "Inside the [[Vithrack Common House]], right side",
+        "position x": "-11.46801",
+        "position z": "3.958417",
+        "inventory": "PX2_Blunderbuss_Silver_Flash;GEM_Sapphire_950cp;GEM_Emerald_750cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Warden's Lodge",
+        "description": "Amonst the barrels on the right side of the room",
+        "position x": "-2.475655",
+        "position z": "3.284",
+        "inventory": "Food_Fruit",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "West Tower Lower",
+        "description": "At the end of the first hallway after the entrance",
+        "position x": "-28.37",
+        "position z": "30.36497",
+        "inventory": "PX2_Quest_Item_Artillery_Lift_Note",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "West Tower Lower",
+        "description": "At the northwestern end of the hall adjacent to the artillery lift",
+        "position x": "-21.78341",
+        "position z": "-22.49404",
+        "inventory": "GEM_Opal_150cp;GEM_Pearl_100cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "West Tower Lower",
+        "description": "Dwarven archive, bottom corner",
+        "position x": "-2.179549",
+        "position z": "49.91335",
+        "inventory": "PX2_Key_Tower_Cannons",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "West Tower Lower",
+        "description": "Dwarven archive, left side",
+        "position x": "-3.772486",
+        "position z": "41.73093",
+        "inventory": "PX2_Grimoire_Dwarven_Artillery",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "West Tower Lower",
+        "description": "Dwarven archive, right side",
+        "position x": "-21.81678",
+        "position z": "40.62799",
+        "inventory": "PX2_Quest_Item_Cannon_Treatment",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "West Tower Lower",
+        "description": "In a small cavern west of the lift, left nest",
+        "position x": "-28.4337",
+        "position z": "-19.71423",
+        "inventory": "Scroll_of_Missile_Barrage_L4;Scroll_of_Fan_of_Flames_L1",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "West Tower Lower",
+        "description": "In a small cavern west of the lift, right nest",
+        "position x": "-33.24028",
+        "position z": "-16.3549",
+        "inventory": "PX2_Mantle_of_the_Excavator",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "West Tower Lower",
+        "description": "In the armory connecting the maintenance room and potionmaster's quarters",
+        "position x": "33.342",
+        "position z": "-4.906875",
+        "inventory": "HELM_Open",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "West Tower Lower",
+        "description": "Left side of the patination chamber",
+        "position x": "16.08309",
+        "position z": "-49.80297",
+        "inventory": "PX2_Quest_Item_Pristine_Cog",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "West Tower Lower",
+        "description": "Maintenance room, left side",
+        "position x": "18.5613",
+        "position z": "-30.6432",
+        "inventory": "PX2_Quest_Item_Lever",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "West Tower Lower",
+        "description": "Next to the door to the maintenance room",
+        "position x": "25.95999",
+        "position z": "-13.41965",
+        "inventory": "Spear_Fine",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "West Tower Lower",
+        "description": "On the floor of the maintenance room",
+        "position x": "11.69629",
+        "position z": "-23.65445",
+        "inventory": "Scroll_of_Fireball_L3;PX2_Quest_Item_Lever_Note",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "West Tower Lower",
+        "description": "Potionmaster's quarters, rear left corner",
+        "position x": "18.54343",
+        "position z": "-6.113002",
+        "inventory": null,
+        "lootlist": "Rack_Weapon_9_10"
+      }
+    },
+    {
+      "title": {
+        "location": "West Tower Lower",
+        "description": "Potionmaster's quarters, rear right corner",
+        "position x": "17.57109",
+        "position z": "12.39575",
+        "inventory": "PX1_Potion_of_Barring_Deaths_Door_L4;PX1_Potion_of_Flame_Shield_L4;PX1_Potion_of_Minor_Arcane_Reflection_L4",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "West Tower Lower",
+        "description": "Potionmaster's quarters, rear wall center",
+        "position x": "16.67042",
+        "position z": "3.499937",
+        "inventory": "PX2_Quest_Item_Solvent",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "West Tower Lower",
+        "description": "Potionmaster's quarters, rear wall right",
+        "position x": "17.697",
+        "position z": "9.388398",
+        "inventory": "PX2_Quest_Item_Disease_Puddings_Note",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "West Tower Lower",
+        "description": "Potionmaster's quarters, right wall",
+        "position x": "20.18264",
+        "position z": "15.33987",
+        "inventory": "Potion_of_Major_Recovery_L4;Potion_of_Infuse_with_Vital_Essence_L2",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "West Tower Lower",
+        "description": "Roundshot smithery, dead golem to the east",
+        "position x": "-4.68",
+        "position z": "2.97",
+        "inventory": "PART_Primal_Flame;PART_Primal_Rock",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "West Tower Lower",
+        "description": "Roundshot smithery, dead golem to the south",
+        "position x": "-4.27",
+        "position z": "18.34",
+        "inventory": "PART_Primal_Flame;PART_Primal_Rock",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "West Tower Lower",
+        "description": "Roundshot smithery, dead golem to the west",
+        "position x": "9.65",
+        "position z": "0.68",
+        "inventory": "PART_Primal_Rock;PX1_Durgan_Iron_Ingot",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "West Tower Lower",
+        "description": "South of the potionmaster's quarters",
+        "position x": "41.34315",
+        "position z": "13.92335",
+        "inventory": "PX2_Stiletto_Vent_Pick",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Whitestone Hollow",
+        "description": "Camp near the northwestern exit, beside the cart",
+        "position x": "46.98449",
+        "position z": "-36.74128",
+        "inventory": "Potion_of_Natures_Bounty",
+        "lootlist": "PX1_Currency_Boney_Rand_25_50"
+      }
+    },
+    {
+      "title": {
+        "location": "Whitestone Hollow",
+        "description": "Camp near the northwestern exit, in the cart",
+        "position x": "42.19146",
+        "position z": "-39.62837",
+        "inventory": "Camping_Supplies;PX1_Scroll_of_Minolettas_Concussive_Missiles_L4",
+        "lootlist": "Loot_NPC_DB_Poor"
+      }
+    },
+    {
+      "title": {
+        "location": "Whitestone Hollow",
+        "description": "Camp near the northwestern exit, in the cart",
+        "position x": "42.20181",
+        "position z": "-38.69413",
+        "inventory": "PX1_Potion_of_Barring_Deaths_Door_L4",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Whitestone Hollow",
+        "description": "Camp near the northwestern exit, south of the campfire",
+        "position x": "48.65763",
+        "position z": "-20.0845",
+        "inventory": "Spear_Fine;Lockpick",
+        "lootlist": "Loot_NPC_Adventurer_Moderate"
+      }
+    },
+    {
+      "title": {
+        "location": "Whitestone Hollow",
+        "description": "Haddi's house, amongst the cargo outside",
+        "position x": "7.951819",
+        "position z": "67.13623",
+        "inventory": "Food_Fish",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Whitestone Hollow",
+        "description": "Isolated pedestal, east of the table containing the [[Sentimental Gem]]",
+        "position x": "9.82",
+        "position z": "-57.5",
+        "inventory": "PX2_Drug_Gravestep",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Whitestone Hollow",
+        "description": "Isolated pedestal, northwest of the stairs where the spirit lion materialises",
+        "position x": "10.47",
+        "position z": "-50.53",
+        "inventory": "PX1_Food_Stalwart_Rabbit_Stew",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Whitestone Hollow",
+        "description": "Isolated pedestal, west of the stairs where the spirit lion materialises",
+        "position x": "20.76",
+        "position z": "-49.72",
+        "inventory": "Potion_of_Fleet_Feet_L1",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Whitestone Hollow",
+        "description": "Leftmost dog in the looter camp",
+        "position x": "50.827",
+        "position z": "-29.304",
+        "inventory": "Food_Meat",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Whitestone Hollow",
+        "description": "Northeastern corner of the map, left of the cave",
+        "position x": "-61.35633",
+        "position z": "-9.81368",
+        "inventory": "HELM_Iverras_Diving_Bell",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Whitestone Hollow",
+        "description": "On the dock north of Haddi's house",
+        "position x": "-28.39931",
+        "position z": "45.77456",
+        "inventory": "PX1_Food_Speckleback_Jerky",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Whitestone Hollow",
+        "description": "On the dock north of Haddi's house",
+        "position x": "-25.30863",
+        "position z": "45.57751",
+        "inventory": "PX1_Scroll_of_Hail_Storm_L4;PX2_Food_Wyrthoneg",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Whitestone Hollow",
+        "description": "On the upper platform of the isolated pedestal",
+        "position x": "14.11736",
+        "position z": "-62.28986",
+        "inventory": "PX2_Quest_Item_Zahua_Gem",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Whitestone Hollow",
+        "description": "Raised area to the northwest",
+        "position x": "16.17",
+        "position z": "-63.54",
+        "inventory": "PX2_Breastplate_Armor_Ryonas_Breastplate",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Whitestone Hollow",
+        "description": "Rightmost dog in the looter camp",
+        "position x": "50.88458",
+        "position z": "-31.62161",
+        "inventory": "Dagger",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Whitestone Hollow",
+        "description": "Scorched barn, in the rubble",
+        "position x": "37.71417",
+        "position z": "45.04883",
+        "inventory": "Scroll_of_Wall_of_Flame_L4;Ring_of_Unshackling",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Whitestone Hollow",
+        "description": "Sticking out of the snow in the avalanche, nearest the looter camp",
+        "position x": "58.0313",
+        "position z": "-2.650337",
+        "inventory": "PX2_Viettros_Formal_Footwear",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Whitestone Hollow",
+        "description": "Sticking out of the snow in the avalanche, nearest the scorched barn",
+        "position x": "70.13069",
+        "position z": "29.17917",
+        "inventory": "PX1_Potion_of_Flame_Shield_L4;BUX_Silver_Lusce_3cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Winfrith's Arms and Armory",
+        "description": "On top of a barrel on the back wall",
+        "position x": "-0.06093693",
+        "position z": "-2.853364",
+        "inventory": null,
+        "lootlist": "Loot_Drugs"
+      }
+    },
+    {
+      "title": {
+        "location": "Woodend Plains",
+        "description": "Next to the abandoned cart in the raised area to the southeast",
+        "position x": "17.46426",
+        "position z": "49.7652",
+        "inventory": null,
+        "lootlist": "Dyr_Med_Weapons_5_6_Good"
+      }
+    },
+    {
+      "title": {
+        "location": "Woodend Plains",
+        "description": "On the abandoned cart in the raised area to the southeast",
+        "position x": "11.67332",
+        "position z": "49.71666",
+        "inventory": null,
+        "lootlist": "Dyr_Consumable_5_6_Good"
+      }
+    },
+    {
+      "title": {
+        "location": "Woodend Plains",
+        "description": "On the raised area to the northeast",
+        "position x": "-63.45152",
+        "position z": "10.43749",
+        "inventory": "Hide_Armor",
+        "lootlist": "Loot_NPC_Adventurer_Moderate"
+      }
+    },
+    {
+      "title": {
+        "location": "Woodend Plains",
+        "description": "On the stone circle under a symbol to Ondra in the northwestern corner",
+        "position x": "5.83858",
+        "position z": "-77.74871",
+        "inventory": "Hatchet_Hearth_Harvest",
+        "lootlist": "Loot_NPC_Adventurer_Poor"
+      }
+    },
+    {
+      "title": {
+        "location": "Woodend Plains",
+        "description": "Western exit, in [[Jaelyn Di'Mathe]]'s camp",
+        "position x": "20.50729",
+        "position z": "-70.49635",
+        "inventory": "Camping_Supplies",
+        "lootlist": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,5004 @@
+{
+  "cargoquery": [
+    {
+      "title": {
+        "location": "Abandoned House (Ondra's Gift)",
+        "description": "Central hall, near the door",
+        "position x": "-2.843944",
+        "position z": "4.414601",
+        "inventory": "Camping_Supplies",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Abandoned House (Ondra's Gift)",
+        "description": "Northeastern room",
+        "position x": "-9.960468",
+        "position z": "-4.226675",
+        "inventory": null,
+        "lootlist": "Dyr_Consumable_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Abandoned House (Ondra's Gift)",
+        "description": "Northwestern room",
+        "position x": "9.705853",
+        "position z": "-6.057027",
+        "inventory": "GI_Chisel",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Admeth's Den",
+        "description": "Armory, on the counter next to [[Sonild]]",
+        "position x": "51.21237",
+        "position z": "22.25474",
+        "inventory": null,
+        "lootlist": "Rand_Potion_Scroll_5_6_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Admeth's Den",
+        "description": "Large circular table near the entrance",
+        "position x": "68.17099",
+        "position z": "-21.89107",
+        "inventory": "Lore_Book_The_Dozens;Lore_Book_God_Magran;Lore_Book_God_Galawain",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Admeth's Den",
+        "description": "War room, at the back on the left",
+        "position x": "33.31215",
+        "position z": "8.340755",
+        "inventory": null,
+        "lootlist": "Rand_Weapon_Lg_5_6_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Admeth's Den",
+        "description": "War room, on the table",
+        "position x": "34.84309",
+        "position z": "18.03525",
+        "inventory": "GI_Grappling_Hook;Quest_Item_Searing_Falls_Map",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Admeth's Den",
+        "description": "Western wall of the main room",
+        "position x": "55.98051",
+        "position z": "-25.46433",
+        "inventory": null,
+        "lootlist": "Dyr_Med_Weapons_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Aedelwan Bridge",
+        "description": "Right side of the gate, left crate",
+        "position x": "-18.45235",
+        "position z": "-40.96349",
+        "inventory": "Food_Vegetable",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Aedelwan Bridge",
+        "description": "Right side of the gate, right crate",
+        "position x": "-19.3329",
+        "position z": "-39.73452",
+        "inventory": "Food_Fruit",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Anslög's Compass",
+        "description": null,
+        "position x": "29.43554",
+        "position z": "-12.30804",
+        "inventory": "MISC_Vailian_Note_valewood;GEM_Agate_5cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Anslög's Compass",
+        "description": "Eastern peninsula, next to the &quot;Dial&quot; rock formation",
+        "position x": "-15.82043",
+        "position z": "38.64795",
+        "inventory": "MISC_Vailian_Note_blackmeadow;GEM_Amethyst_10cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Anslög's Compass",
+        "description": "In the rubble south of the dial",
+        "position x": "-6.380456",
+        "position z": "44.34344",
+        "inventory": "HELM_Open;HELM_Mail_Coif",
+        "lootlist": "Dyr_Armor_1_2"
+      }
+    },
+    {
+      "title": {
+        "location": "Anslög's Compass",
+        "description": "In the rubble south of the dial",
+        "position x": "-4.000756",
+        "position z": "45.65705",
+        "inventory": null,
+        "lootlist": "Dyr_Sm_Weapons_1_2"
+      }
+    },
+    {
+      "title": {
+        "location": "Anslög's Compass",
+        "description": "Northeastern corner, tent in the Xaurip camp",
+        "position x": "-51.83294",
+        "position z": "-6.813102",
+        "inventory": "Scroll_of_Prayer_Against_Fear_L1;Potion_of_Minor_Regen_L1",
+        "lootlist": "Gem_2_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Anslög's Compass",
+        "description": "Northern central area with the skulls surrounding a totem",
+        "position x": "-21.93687",
+        "position z": "-25.40351",
+        "inventory": "MISC_Vailian_Note_gildedvale;GEM_Turquoise_12cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Anslög's Compass",
+        "description": "Southwest of &quot;the Dial&quot;, near the small dock",
+        "position x": "5.705201",
+        "position z": "41.04767",
+        "inventory": "Morning_Star01",
+        "lootlist": "Dyr_Med_Weapons_1_2"
+      }
+    },
+    {
+      "title": {
+        "location": "Anslög's Compass",
+        "description": "The body of poor [[Fulvano]], a short distance southeast of the dragon skulls",
+        "position x": "-22.41189",
+        "position z": "1.6794",
+        "inventory": "MISC_Vailian_Letter",
+        "lootlist": "Weapon_Fine_Crossbow"
+      }
+    },
+    {
+      "title": {
+        "location": "Aufra's Home",
+        "description": "Eastern wall",
+        "position x": "-4.976219",
+        "position z": "2.213614",
+        "inventory": "Food_Grain",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Aufra's Home",
+        "description": "Easternmost corner",
+        "position x": "-4.304351",
+        "position z": "6.206953",
+        "inventory": "Food_Milk;Food_Sugar",
+        "lootlist": "Loot_Food"
+      }
+    },
+    {
+      "title": {
+        "location": "Bear Cave",
+        "description": "Chest in the left corner",
+        "position x": "-2.775064",
+        "position z": "-11.21627",
+        "inventory": null,
+        "lootlist": "Weapon_Melee_Lg"
+      }
+    },
+    {
+      "title": {
+        "location": "Bear Cave",
+        "description": "Hidden stash to the right of the doused fireplace",
+        "position x": "-6.389337",
+        "position z": "-2.473868",
+        "inventory": "Lockpick;Scroll_of_Tanglefoot_L1",
+        "lootlist": "Dyr_Currency_1_2"
+      }
+    },
+    {
+      "title": {
+        "location": "Black Hammer Smithery",
+        "description": "Close to the entry",
+        "position x": "10.80854",
+        "position z": "-5.526258",
+        "inventory": "GI_Chisel;Food_Rice;Food_Ale",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Black Hammer Smithery",
+        "description": "Left wall",
+        "position x": "1.527997",
+        "position z": "-16.39562",
+        "inventory": null,
+        "lootlist": "Rack_Weapon_1_2"
+      }
+    },
+    {
+      "title": {
+        "location": "Black Hammer Smithery",
+        "description": "Left wall",
+        "position x": "3.548072",
+        "position z": "-17.09075",
+        "inventory": null,
+        "lootlist": "Rack_Armor_1_2"
+      }
+    },
+    {
+      "title": {
+        "location": "Black Hammer Smithery",
+        "description": "Rear wall, near the forge",
+        "position x": "-13.78206",
+        "position z": "-1.31661",
+        "inventory": "Lore_Book_God_Abydon",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Black Meadow",
+        "description": "A small distance east of the abandoned camp",
+        "position x": "-35.09616",
+        "position z": "37.26804",
+        "inventory": null,
+        "lootlist": "Loot_NPC_Adventurer_Moderate"
+      }
+    },
+    {
+      "title": {
+        "location": "Black Meadow",
+        "description": "A small distance southeast of the bandit camp, near the road",
+        "position x": "16.987",
+        "position z": "-1.986",
+        "inventory": "PLANT_Dyrcap;PART_Primal_Flame;GEM_Agate_5cp;GEM_Garnet_85cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Black Meadow",
+        "description": "In the bandit camp",
+        "position x": "49.7798",
+        "position z": "-23.60361",
+        "inventory": "Food_Oil;Food_Ale",
+        "lootlist": "Dyr_Consumable_1_2_Good"
+      }
+    },
+    {
+      "title": {
+        "location": "Black Meadow",
+        "description": "In the right tent in the abandoned camp to the south",
+        "position x": "-28.41592",
+        "position z": "46.82149",
+        "inventory": "Camping_Supplies",
+        "lootlist": "Dyr_Consumable_3_4_Good"
+      }
+    },
+    {
+      "title": {
+        "location": "Black Meadow",
+        "description": "Near the abandoned camp",
+        "position x": "-31.94924",
+        "position z": "46.38756",
+        "inventory": null,
+        "lootlist": "Weapon_Fine_Bow"
+      }
+    },
+    {
+      "title": {
+        "location": "Black Meadow",
+        "description": "On the altar of the shrine to [[Galawain]] in the northeastern corner",
+        "position x": "3.430757",
+        "position z": "-82.34518",
+        "inventory": "Wand_Fine;Scroll_of_Ray_of_Fire_L2",
+        "lootlist": "Dyr_Consumable_3_4_Good"
+      }
+    },
+    {
+      "title": {
+        "location": "Black Meadow",
+        "description": "Right side of the bandit camp",
+        "position x": "43.93594",
+        "position z": "-22.40773",
+        "inventory": null,
+        "lootlist": "Dyr_Currency_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Black Meadow",
+        "description": "Right side of the bandit camp, under a bucket",
+        "position x": "45.2546",
+        "position z": "-22.2619",
+        "inventory": "Quest_Item_Stolen_Shipment;MISC_Note_Thug",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Black Meadow",
+        "description": "Southeast of the inverted T-junction in the middle of the area",
+        "position x": "-32.85542",
+        "position z": "7.513532",
+        "inventory": "Boots_Fulvano;Cloth_Outfit_Dyrwoodan_Vest;BUX_Copper_Pand_1cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Blood Sands",
+        "description": "At the back of the foyer, behind [[Tallan]]",
+        "position x": "0.2100329",
+        "position z": "17.21716",
+        "inventory": null,
+        "lootlist": "Gem_7_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Blood Sands",
+        "description": "Blood sacrifice chamber to the northwest, left side",
+        "position x": "16.66981",
+        "position z": "-20.56576",
+        "inventory": null,
+        "lootlist": "Gem_9_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Blood Sands",
+        "description": "Blood sacrifice chamber to the northwest, right side",
+        "position x": "-5.091677",
+        "position z": "-28.40685",
+        "inventory": null,
+        "lootlist": "TE_Consumable_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Blood Sands",
+        "description": "End of a small passage off the western hallway, next to [[Keeper Wrdha]]",
+        "position x": "45.90461",
+        "position z": "-16.84874",
+        "inventory": null,
+        "lootlist": "TE_Consumable_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Blood Sands",
+        "description": "Far end of the western corridor",
+        "position x": "33.9215",
+        "position z": "-34.68687",
+        "inventory": null,
+        "lootlist": "TE_Consumable_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Blood Sands",
+        "description": "Far northeastern room by the circle of chanters",
+        "position x": "-53.09788",
+        "position z": "2.515694",
+        "inventory": null,
+        "lootlist": "TE_Med_Weapons_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Blood Sands",
+        "description": "Further down the hallway west of the entrance, in the southwestern corner",
+        "position x": "52.74219",
+        "position z": "4.613612",
+        "inventory": null,
+        "lootlist": "Loot_Drugs"
+      }
+    },
+    {
+      "title": {
+        "location": "Blood Sands",
+        "description": "In a direct line northeast of the entrance",
+        "position x": "-33.63544",
+        "position z": "26.23401",
+        "inventory": "Lockpick",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Blood Sands",
+        "description": "In the corridor west of the entrance",
+        "position x": "30.70201",
+        "position z": "30.16086",
+        "inventory": null,
+        "lootlist": "TE_Sm_Weapons_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Blood Sands",
+        "description": "Northeastern quarters, in the first room with the two beds",
+        "position x": "-33.85024",
+        "position z": "6.104419",
+        "inventory": null,
+        "lootlist": "TE_Med_Weapons_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Blood Sands",
+        "description": "Northeastern quarters, in the first room, on the wall above the beds",
+        "position x": "-37.01486",
+        "position z": "-1.621193",
+        "inventory": null,
+        "lootlist": "Gem_12_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Blood Sands",
+        "description": "Northeastern quarters, second room",
+        "position x": "-40.35663",
+        "position z": "-2.145817",
+        "inventory": null,
+        "lootlist": "TE_Armor_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Blood Sands",
+        "description": "Secret area in the northern central area, left side",
+        "position x": "-9.422761",
+        "position z": "-9.248049",
+        "inventory": "Potion_of_War_Paint_L5",
+        "lootlist": "TE_Accessory_9_10"
+      }
+    },
+    {
+      "title": {
+        "location": "Blood Sands",
+        "description": "Secret area in the northern central area, right side",
+        "position x": "-12.33602",
+        "position z": "-4.724766",
+        "inventory": "Gloves_Blood_Testament;Potion_of_War_Paint_L5",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Blood Sands",
+        "description": "Small cavern east of the entrance with [[Naca]]",
+        "position x": "-17.287",
+        "position z": "38.15412",
+        "inventory": null,
+        "lootlist": "Loot_Food"
+      }
+    },
+    {
+      "title": {
+        "location": "Brackenbury",
+        "description": "Central area, southwest of [[Doemenel Manor]]",
+        "position x": "21.23811",
+        "position z": "-1.754261",
+        "inventory": null,
+        "lootlist": "Loot_Food"
+      }
+    },
+    {
+      "title": {
+        "location": "Brackenbury",
+        "description": "Only during the riots, near the [[First Fires]] exit.",
+        "position x": "8.681576",
+        "position z": "-37.34923",
+        "inventory": "Boots_Animancers",
+        "lootlist": "Loot_NPC_DB_Poor"
+      }
+    },
+    {
+      "title": {
+        "location": "Breith Eaman",
+        "description": "Bottom of the pit, northern edge",
+        "position x": "44.48541",
+        "position z": "-8.91512",
+        "inventory": "Camping_Supplies",
+        "lootlist": "TE_Accessory_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Breith Eaman",
+        "description": "Bottom of the pit, southern edge",
+        "position x": "49.72976",
+        "position z": "10.56945",
+        "inventory": "Camping_Supplies",
+        "lootlist": "TE_Lg_Weapons_9_10"
+      }
+    },
+    {
+      "title": {
+        "location": "Breith Eaman",
+        "description": "Central adra prison, northwestern side",
+        "position x": "-3.981354",
+        "position z": "-6.623664",
+        "inventory": null,
+        "lootlist": "TE_Consumable_9_10"
+      }
+    },
+    {
+      "title": {
+        "location": "Breith Eaman",
+        "description": "In the northwestern adra prison",
+        "position x": "7.059858",
+        "position z": "-24.33208",
+        "inventory": "Potion_of_Major_Recovery_L4",
+        "lootlist": "TE_Med_Weapons_9_10"
+      }
+    },
+    {
+      "title": {
+        "location": "Breith Eaman",
+        "description": "In the room with the soul guardian pillars to the south",
+        "position x": "27.71048",
+        "position z": "39.81977",
+        "inventory": "Morning_Star_Daybreak",
+        "lootlist": "TE_Accessory_9_10"
+      }
+    },
+    {
+      "title": {
+        "location": "Breith Eaman",
+        "description": "In the small corridor to the stairs down to [[Sun in Shadow]], left side",
+        "position x": "-34.07373",
+        "position z": "14.00344",
+        "inventory": null,
+        "lootlist": "TE_Consumable_9_10"
+      }
+    },
+    {
+      "title": {
+        "location": "Breith Eaman",
+        "description": "In the small corridor to the stairs down to [[Sun in Shadow]], right side",
+        "position x": "-38.49023",
+        "position z": "21.00129",
+        "inventory": "Camping_Supplies",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Breith Eaman",
+        "description": "Northeastern soul prison, left side",
+        "position x": "-47.44195",
+        "position z": "-10.28897",
+        "inventory": null,
+        "lootlist": "TE_Sm_Weapons_9_10"
+      }
+    },
+    {
+      "title": {
+        "location": "Breith Eaman",
+        "description": "Northern soul guardian pillars, right side",
+        "position x": "-39.63401",
+        "position z": "-24.09596",
+        "inventory": null,
+        "lootlist": "Armor_Exceptional"
+      }
+    },
+    {
+      "title": {
+        "location": "Burial Isle",
+        "description": "After two sets of stairs north of the docks",
+        "position x": "14.61586",
+        "position z": "37.68771",
+        "inventory": null,
+        "lootlist": "TE_Consumable_9_10"
+      }
+    },
+    {
+      "title": {
+        "location": "Burial Isle",
+        "description": "At the top of the first set of stairs west of the docks",
+        "position x": "23.82184",
+        "position z": "36.38018",
+        "inventory": "Sword_Last_Blade_of_the_White_Forge",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Burial Isle",
+        "description": "Northwestern burial grounds, center",
+        "position x": "-6.73107",
+        "position z": "-43.85358",
+        "inventory": "Potion_of_War_Paint_L5;Battle_Axe_Exceptional",
+        "lootlist": "TE_Consumable_9_10"
+      }
+    },
+    {
+      "title": {
+        "location": "Burial Isle",
+        "description": "Northwestern burial grounds, left",
+        "position x": "6.984828",
+        "position z": "-37.82992",
+        "inventory": "Amulet_Engwythan_Adra_Ban",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Burial Isle",
+        "description": "Northwestern burial grounds, right",
+        "position x": "-13.59507",
+        "position z": "-20.85364",
+        "inventory": "GEM_Velune_65cp;GEM_Bloodstone_25cp",
+        "lootlist": "TE_Armor_9_10"
+      }
+    },
+    {
+      "title": {
+        "location": "Burial Isle",
+        "description": "On an overhang by the blocked passage on the eastern edge",
+        "position x": "-25.5197",
+        "position z": "42.64816",
+        "inventory": "Camping_Supplies",
+        "lootlist": "Engw_Accessory_9_10"
+      }
+    },
+    {
+      "title": {
+        "location": "Burial Isle",
+        "description": "On the path to the &quot;Grotto of Echoes&quot; in the southwest",
+        "position x": "27.98288",
+        "position z": "1.142918",
+        "inventory": null,
+        "lootlist": "TE_Sm_Weapons_9_10"
+      }
+    },
+    {
+      "title": {
+        "location": "Burial Isle",
+        "description": "The mossy log in the &quot;Grotto of Echoes&quot; to the southwest",
+        "position x": "32.8961",
+        "position z": "-18.74477",
+        "inventory": "Camping_Supplies;Potion_of_Major_Recovery_L4;Scroll_of_Wall_of_Flame_L4",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Cayron's Scar",
+        "description": "Northwestern camp, left chest",
+        "position x": "-1.931503",
+        "position z": "-62.64032",
+        "inventory": "PX2_Scroll_of_Prayer_Against_Imprisonment_L5;Camping_Supplies",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Cayron's Scar",
+        "description": "Northwestern camp, right chest",
+        "position x": "-10.95931",
+        "position z": "-56.95578",
+        "inventory": "PX2_Scroll_of_Prayer_Against_Treachery_L6;Potion_of_Major_Endurance_L4;Potion_of_Bulwark_Against_the_Elements_L2",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Cayron's Scar",
+        "description": "Ondrite shrine on the northern edge of the area",
+        "position x": "-37.61777",
+        "position z": "-27.86018",
+        "inventory": "GEM_Ruby_850cp;GEM_Pearl_100cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Cilant Lîs",
+        "description": "Appears if you disarm all the traps before resting in [[Cilant Lîs]]",
+        "position x": "-2.970465",
+        "position z": "3.428245",
+        "inventory": "Quest_Item_Water_Skin_Full;Scale_Armor;Battle_Axe;Torch01",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Cilant Lîs",
+        "description": "Behind the wall in the northwestern chamber, revealed by using the [[Full Waterskin]] and [[Engwithan Relief Gem]] on the nearby mural",
+        "position x": "-1.014338",
+        "position z": "-61.17029",
+        "inventory": "GEM_Amethyst_10cp;GEM_Adra_3cp;Cloak_of_Protection_Minor",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Cilant Lîs",
+        "description": "In a small cutout off the northeastern chamber",
+        "position x": "-47.25074",
+        "position z": "30.83409",
+        "inventory": "GEM_Agate_5cp;GEM_Jasper_15cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Cilant Lîs",
+        "description": "In a small cutout off the northeastern chamber",
+        "position x": "-44.83724",
+        "position z": "28.12896",
+        "inventory": "Helm",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Cilant Lîs",
+        "description": "In the southernmost room with the friendly Xaurip",
+        "position x": "23.4725",
+        "position z": "25.12174",
+        "inventory": "GI_Flint",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Cilant Lîs",
+        "description": "In the southernmost room with the friendly Xaurip",
+        "position x": "30.96565",
+        "position z": "31.79022",
+        "inventory": "Lockpick;Hunting_Bow",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Cilant Lîs",
+        "description": "In the T-junction southeast of the main hall with the grid of traps.",
+        "position x": "8.264678",
+        "position z": "29.98623",
+        "inventory": "MISC_Relief_Gem;Leather_Armor;Torch01;MISC_Dead_Explorers_Journal;Crossbow",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Cilant Lîs",
+        "description": "In the tunnel before the walled-off chamber in the southeastern corner",
+        "position x": "5.605106",
+        "position z": "49.88505",
+        "inventory": "Hatchet",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Cilant Lîs",
+        "description": "Near the mural in the hall with the pillar puzzle",
+        "position x": "-7.237457",
+        "position z": "-22.68111",
+        "inventory": "GI_Flint",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Cilant Lîs",
+        "description": "Northeastern exit to the exterior",
+        "position x": "-52.99181",
+        "position z": "0.6034606",
+        "inventory": "GEM_Bloodstone_25cp;Rapier",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Cilant Lîs",
+        "description": "Northwestern chamber, the room with the ooze-covered mural",
+        "position x": "14.71123",
+        "position z": "-54.60158",
+        "inventory": "Pollaxe01",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Cilant Lîs",
+        "description": "Small cavern to the northwest",
+        "position x": "29.83504",
+        "position z": "-47.87798",
+        "inventory": "Shield_Small;Torch01",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Cilant Lîs",
+        "description": "Small cavern to the northwest, if turning left after the collapsed entrance",
+        "position x": "37.46615",
+        "position z": "-47.97299",
+        "inventory": "GI_Chisel;Camping_Supplies;Mace",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Clîaban Rilag",
+        "description": "In the tent by the waterfall",
+        "position x": "21.49786",
+        "position z": "10.68759",
+        "inventory": "Camping_Supplies",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Clîaban Rilag",
+        "description": "Next to the campfire, only when the quest [[Fragments of a Scattered Faith]] is active",
+        "position x": "15.79389",
+        "position z": "13.57196",
+        "inventory": "Quest_Item_Eder_Standard_Piece",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Clîaban Rilag",
+        "description": "The dead adventurer in the southwest",
+        "position x": "0.08201949",
+        "position z": "45.45478",
+        "inventory": "Orlans_Bramble_Ring",
+        "lootlist": "Loot_NPC_Adventurer_Moderate"
+      }
+    },
+    {
+      "title": {
+        "location": "Clîaban Rilag Level 1",
+        "description": "In a small cutout near the bend in the northernmost corridor",
+        "position x": "-48.45758",
+        "position z": "-45.41502",
+        "inventory": null,
+        "lootlist": "Engw_Consumable_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Clîaban Rilag Level 1",
+        "description": "In the outermost [[Pŵgra]]-filled corridor to the southeast",
+        "position x": "9.197959",
+        "position z": "21.76243",
+        "inventory": null,
+        "lootlist": "Engw_Sm_Weapons_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Clîaban Rilag Level 1",
+        "description": "In the small locked chamber near the center of the area",
+        "position x": "-8.024222",
+        "position z": "-26.02533",
+        "inventory": "Shield_Small_Suras_Supper_Plate;ITEM_PET_Tiny_Animat",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Clîaban Rilag Level 1",
+        "description": "Left side of the circular room to the south",
+        "position x": "40.057",
+        "position z": "43.242",
+        "inventory": "Mail_Armor_Fine",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Clîaban Rilag Level 1",
+        "description": "Near the intersection between corridors to the northeast",
+        "position x": "-38.46708",
+        "position z": "-2.246878",
+        "inventory": null,
+        "lootlist": "Engw_Consumable_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Clîaban Rilag Level 1",
+        "description": "Northwestern room with the [[Swamp Lurker]]s",
+        "position x": "-29.28393",
+        "position z": "-61.69186",
+        "inventory": null,
+        "lootlist": "Engw_Lg_Weapons_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Clîaban Rilag Level 1",
+        "description": "On the wall of the circular room to the south",
+        "position x": "26.72796",
+        "position z": "42.96671",
+        "inventory": null,
+        "lootlist": "Engw_Armor_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Clîaban Rilag Level 1",
+        "description": "Right side of the circular room to the south",
+        "position x": "26.87",
+        "position z": "52.63",
+        "inventory": "Stiletto_Fine",
+        "lootlist": "Loot_NPC_Adventurer_Moderate"
+      }
+    },
+    {
+      "title": {
+        "location": "Clîaban Rilag Level 2",
+        "description": "Altar in the northern room with the four egg-shaped stones",
+        "position x": "-18.38947",
+        "position z": "-39.23378",
+        "inventory": "Dagger_Animat",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Clîaban Rilag Level 2",
+        "description": "Forge area in the east, left side",
+        "position x": "-35.53566",
+        "position z": "24.68316",
+        "inventory": null,
+        "lootlist": "Rack_Armor_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Clîaban Rilag Level 2",
+        "description": "Forge area in the east, right side",
+        "position x": "-36.67949",
+        "position z": "31.84073",
+        "inventory": "Mail_Armor_Fine",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Clîaban Rilag Level 2",
+        "description": "Northern edge of the large central area (&lt;span style=&quot;color: red;&quot;&gt;however, it cannot be looted/revealed since it is outside of bounds&lt;/span&gt;)",
+        "position x": "-17.539",
+        "position z": "-17.79989",
+        "inventory": null,
+        "lootlist": "Rand_Potion_Scroll_3_4_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Clîaban Rilag Level 2",
+        "description": "Northwestern &quot;cleansing pool&quot; room",
+        "position x": "1.723029",
+        "position z": "-62.18428",
+        "inventory": "00_Engwythan_Key",
+        "lootlist": "Gem_Adra"
+      }
+    },
+    {
+      "title": {
+        "location": "Clîaban Rilag Level 2",
+        "description": "Room between the main, cleansing pool, and altar rooms",
+        "position x": "7.590859",
+        "position z": "-38.08396",
+        "inventory": null,
+        "lootlist": "Engw_Consumable_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Clîaban Rilag Level 2",
+        "description": "Southeastern corner, in the room adjacent to the forge",
+        "position x": "-5.499318",
+        "position z": "29.09847",
+        "inventory": null,
+        "lootlist": "Engw_Med_Weapons_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Clîaban Rilag Level 2",
+        "description": "Southeastern corner, in the room adjacent to the forge",
+        "position x": "6.987216",
+        "position z": "38.33068",
+        "inventory": null,
+        "lootlist": "Engw_Sm_Weapons_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Command Post",
+        "description": "Amongst the other weapons and shields at the rear right of the room",
+        "position x": "-9.229518",
+        "position z": "-3.597512",
+        "inventory": null,
+        "lootlist": "Rack_Weapon_11_12"
+      }
+    },
+    {
+      "title": {
+        "location": "Command Post",
+        "description": "Central left",
+        "position x": "8.221911",
+        "position z": "-10.58925",
+        "inventory": null,
+        "lootlist": "Rand_Potion_Scroll_5_6_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Command Post",
+        "description": "Central right",
+        "position x": "-11.28035",
+        "position z": "7.865021",
+        "inventory": null,
+        "lootlist": "Potion_3"
+      }
+    },
+    {
+      "title": {
+        "location": "Command Post",
+        "description": "Lower left, near the door",
+        "position x": "13.89466",
+        "position z": "-4.44693",
+        "inventory": null,
+        "lootlist": "Dyr_Shelf_3_5_Good"
+      }
+    },
+    {
+      "title": {
+        "location": "Command Post",
+        "description": "Lower right",
+        "position x": "-6.584392",
+        "position z": "12.02416",
+        "inventory": "Camping_Supplies;Lockpick",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Command Post",
+        "description": "On the table at the back of the room",
+        "position x": "-4.38117",
+        "position z": "-8.150931",
+        "inventory": null,
+        "lootlist": "Dyr_Accessory_9_10"
+      }
+    },
+    {
+      "title": {
+        "location": "Command Post",
+        "description": "Upper left",
+        "position x": "4.225176",
+        "position z": "-11.65413",
+        "inventory": "PX2_Food_Wit_Dyr_Jerky",
+        "lootlist": "Dyr_Consumable_5_6_Good"
+      }
+    },
+    {
+      "title": {
+        "location": "Command Post",
+        "description": "Upper right",
+        "position x": "-10.20697",
+        "position z": "2.479686",
+        "inventory": null,
+        "lootlist": "Loot_Lore_Book_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Copperlane",
+        "description": "Amphitheatre area, to the right of [[Kadal]]",
+        "position x": "10.26781",
+        "position z": "5.382099",
+        "inventory": "Drug_Blacsonn;Figurine_Oaken_Scarab;GEM_Amethyst_10cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Copperlane",
+        "description": "Marketplace, in front of the expedition hall",
+        "position x": "-69.96786",
+        "position z": "9.344766",
+        "inventory": null,
+        "lootlist": "Loot_Food"
+      }
+    },
+    {
+      "title": {
+        "location": "Copperlane",
+        "description": "Marketplace, outside the [[Thieves' Hideout]]",
+        "position x": "-74.4376",
+        "position z": "24.4491",
+        "inventory": null,
+        "lootlist": "Loot_Food"
+      }
+    },
+    {
+      "title": {
+        "location": "Copperlane",
+        "description": "Near the southeastern exit",
+        "position x": "-13.19441",
+        "position z": "91.3841",
+        "inventory": null,
+        "lootlist": "Loot_Drugs"
+      }
+    },
+    {
+      "title": {
+        "location": "Copperlane",
+        "description": "Next to [[Purnisc's House]]",
+        "position x": "-27.78926",
+        "position z": "-21.62747",
+        "inventory": "GI_Grappling_Hook",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Copperlane",
+        "description": "Northern corner of the marketplace, near Aodhán",
+        "position x": "-89.06045",
+        "position z": "-16.37576",
+        "inventory": null,
+        "lootlist": "Loot_Food"
+      }
+    },
+    {
+      "title": {
+        "location": "Copperlane",
+        "description": "Outside of [[Lumdala's House]], near the northern exit",
+        "position x": "-39.29284",
+        "position z": "-52.5735",
+        "inventory": "Lockpick",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Copperlane Catacombs",
+        "description": "At the back left of the room with [[Helig of Thein]]",
+        "position x": "3.515105",
+        "position z": "-77.87021",
+        "inventory": "Quest_TarnishedLocket",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Copperlane Catacombs",
+        "description": "At the back right of the room with [[Helig of Thein]]",
+        "position x": "-0.9371591",
+        "position z": "-72.52332",
+        "inventory": null,
+        "lootlist": "Rand_Potion_Scroll_5_6_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Copperlane Catacombs",
+        "description": "Central area, next to the canal",
+        "position x": "4.750231",
+        "position z": "3.483574",
+        "inventory": null,
+        "lootlist": "Gem_2_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Copperlane Catacombs",
+        "description": "Central raised area, 2nd room at the back",
+        "position x": "-0.7154589",
+        "position z": "-18.661",
+        "inventory": "Lockpick",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Copperlane Catacombs",
+        "description": "Central raised area, 2nd room on the right wall",
+        "position x": "-2.55997",
+        "position z": "-15.54736",
+        "inventory": null,
+        "lootlist": "Dyr_Armor_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Copperlane Catacombs",
+        "description": "Central raised area, 3rd room",
+        "position x": "-8.717302",
+        "position z": "-20.41955",
+        "inventory": null,
+        "lootlist": "Dyr_Accessory_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Copperlane Catacombs",
+        "description": "Central raised area, first room on the left",
+        "position x": "8.940083",
+        "position z": "-19.62066",
+        "inventory": "Mail_Armor_Fine",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Copperlane Catacombs",
+        "description": "Eastern area, a small distance to the south",
+        "position x": "-17.3894",
+        "position z": "65.06226",
+        "inventory": null,
+        "lootlist": "Rand_Potion_Scroll_3_4_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Copperlane Catacombs",
+        "description": "Eastern area, at the foot of the stairs",
+        "position x": "-35.58751",
+        "position z": "47.35868",
+        "inventory": "PART_Vessel_Bone",
+        "lootlist": "Rand_Weapon_Sm_3_4_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Copperlane Catacombs",
+        "description": "Eastern area, next to the corpse",
+        "position x": "-27.62546",
+        "position z": "51.47557",
+        "inventory": null,
+        "lootlist": "Currency_Lusce_Rand_50_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Copperlane Catacombs",
+        "description": "Eastern area, the fresh corpse",
+        "position x": "-25.80628",
+        "position z": "55.06106",
+        "inventory": "HAT_Woedica_Hood",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Copperlane Catacombs",
+        "description": "Eastern area, to the right of the stairs",
+        "position x": "-43.3139",
+        "position z": "42.62572",
+        "inventory": "GEM_Opal_150cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Copperlane Catacombs",
+        "description": "Northeastern room, left side",
+        "position x": "-39.48021",
+        "position z": "-20.93628",
+        "inventory": null,
+        "lootlist": "Dyr_Currency_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Copperlane Catacombs",
+        "description": "Northeastern room, right side",
+        "position x": "-57.49261",
+        "position z": "-17.55745",
+        "inventory": null,
+        "lootlist": "Gem_5_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Copperlane Catacombs",
+        "description": "Northwestern area, at the back of the large circular crypt with the skull walls",
+        "position x": "30.01495",
+        "position z": "-46.36475",
+        "inventory": null,
+        "lootlist": "Dyr_Med_Weapons_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Copperlane Catacombs",
+        "description": "Northwestern corner, left trapped corridor",
+        "position x": "36.57325",
+        "position z": "-58.97036",
+        "inventory": "Pistol",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Copperlane Catacombs",
+        "description": "Northwestern corner, right trapped corridor",
+        "position x": "23.67709",
+        "position z": "-34.56211",
+        "inventory": "Leather_Armor",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Copperlane Catacombs",
+        "description": "Secret area to the north, accessed through [[Lumdala's House]]",
+        "position x": "-21.3431",
+        "position z": "-38.3141",
+        "inventory": null,
+        "lootlist": "Dyr_Med_Weapons_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Copperlane Catacombs",
+        "description": "Southeastern crypt, central cutout",
+        "position x": "-4.814105",
+        "position z": "38.05969",
+        "inventory": null,
+        "lootlist": "Gem_5_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Copperlane Catacombs",
+        "description": "Southeastern crypt, eastern wall",
+        "position x": "-13",
+        "position z": "38.94114",
+        "inventory": null,
+        "lootlist": "Dyr_Sm_Weapons_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Copperlane Catacombs",
+        "description": "Southeastern crypt, northern corner",
+        "position x": "-8.371857",
+        "position z": "29.16366",
+        "inventory": "Scale_Armor_Fine",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Copperlane Catacombs",
+        "description": "Southeastern crypt, western corner",
+        "position x": "3.891044",
+        "position z": "29.43134",
+        "inventory": null,
+        "lootlist": "Dyr_Lg_Weapons_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Copperlane Catacombs",
+        "description": "Southern room, left side",
+        "position x": "19.39875",
+        "position z": "30.62094",
+        "inventory": "Lockpick;Camping_Supplies",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Copperlane Catacombs",
+        "description": "Southern room, only appears if you report [[Eorn]] to the Crucible Knights during [[Unwanted]]",
+        "position x": "16.17782",
+        "position z": "41.44393",
+        "inventory": "Gloves_BACKER_Rabbit_Fur_Gloves",
+        "lootlist": "Loot_NPC_DB_Poor"
+      }
+    },
+    {
+      "title": {
+        "location": "Copperlane Catacombs",
+        "description": "Southern room, right side",
+        "position x": "11.42916",
+        "position z": "44.30402",
+        "inventory": "Lore_Book_God_Woedica",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Copperlane Catacombs",
+        "description": "Southwestern corner",
+        "position x": "43.93456",
+        "position z": "31",
+        "inventory": "Morning_Star01",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Copperlane Catacombs",
+        "description": "Southwestern corner near the exit to the [[Temple of Woedica]]",
+        "position x": "82.20844",
+        "position z": "-14.69469",
+        "inventory": null,
+        "lootlist": "Dyr_Consumable_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt",
+        "description": "At the bottom of the stairs from [[Crägholdt Bluffs]]",
+        "position x": "-50.47854",
+        "position z": "3.80638",
+        "inventory": "Lore_Book_Naasitaq_Poetry;Scroll_of_Protection_L2",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt",
+        "description": "Cave area, left corpse",
+        "position x": "-3.026121",
+        "position z": "56.25903",
+        "inventory": null,
+        "lootlist": "Potion_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt",
+        "description": "Cave area, rear left wall",
+        "position x": "-5.325473",
+        "position z": "45.30762",
+        "inventory": "Pistol_Exceptional;Potion_of_Major_Endurance_L4",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt",
+        "description": "Cave area, rear right wall",
+        "position x": "-11.0145",
+        "position z": "55.80091",
+        "inventory": "GEM_Opal_150cp;BUX_Silver_Fenning_6cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt",
+        "description": "Cave area, right corpse",
+        "position x": "-6.420002",
+        "position z": "57.31",
+        "inventory": "Breastplate_Armor_Exceptional;Drug_Blacsonn",
+        "lootlist": "Potion_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt",
+        "description": "Concelhaut's table",
+        "position x": "37.3294",
+        "position z": "-6.827863",
+        "inventory": "Scroll_of_Confusion_L4;PX1_Scroll_of_Hail_Storm_L4;Scroll_of_Crackling_Bolt_L3;PART_Sky_Dragon_Eye;PART_Primal_Flame;PART_Primal_Rock;PART_Primal_Water;PART_Primal_Wind;PLANT_Skaenbone;Lore_Book_Eothasian_Holy_Text;Lore_Book_God_Wael;Lockpick",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt",
+        "description": "In the cave to the southeast, left side",
+        "position x": "8.794166",
+        "position z": "42.53417",
+        "inventory": "Trap_Item_Pillar_of_Holy_Fire",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt",
+        "description": "On the floor in front and to the left of Concelhaut's desk",
+        "position x": "48.35043",
+        "position z": "-1.195535",
+        "inventory": "Potion_of_Major_Endurance_L4;Potion_of_Major_Recovery_L4;Potion_of_Major_Regen_L3;GEM_Ruby_850cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt",
+        "description": "Pelden's lab, on the right wall next to the table",
+        "position x": "-12.78311",
+        "position z": "16.93096",
+        "inventory": "Leather_Armor_Exceptional;HAT_Rugged_Wilderness;Boots_Glanfathan_Stalking_Boots",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt",
+        "description": "Pelden's lab, table on the rear wall",
+        "position x": "-13.00235",
+        "position z": "20.61588",
+        "inventory": "PX1_MISC_Note_Pelden;Potion_of_Iron_Skin_L2;PART_Vessel_Flesh",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt",
+        "description": "Right wall of Concelhaut's chambers, front",
+        "position x": "24.86239",
+        "position z": "4.417165",
+        "inventory": "Scroll_of_Missile_Barrage_L4;Figurine_Obsidian_Lamp;Lore_Book_Discoveries_of_Padgram",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt",
+        "description": "Right wall of Concelhaut's chambers, rear",
+        "position x": "23.81557",
+        "position z": "-0.5484862",
+        "inventory": "PX1_Potion_of_Barring_Deaths_Door_L4;Lore_Book_The_Moons_of_Eora",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt",
+        "description": "Sabel's lab, in the middle of the room",
+        "position x": "-18.55741",
+        "position z": "-14.361",
+        "inventory": "PX1_MISC_Note_Sabel;Scroll_of_Maelstrom_L5",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt",
+        "description": "Sabel's lab, left wall by the door",
+        "position x": "-16.95701",
+        "position z": "-29.37053",
+        "inventory": "Lore_Book_Animancy;Lore_Book_God_Abydon;PX1_Trap_Item_Chaotic_Orb",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt",
+        "description": "Sabel's lab, next to the vat of molten lava",
+        "position x": "-22.77",
+        "position z": "-19.92",
+        "inventory": "Battle_Axe_Exceptional;Shield_Medium_Heater_Exceptional;Mail_Armor_Exceptional;HELM_Mail_Coif",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt",
+        "description": "Tanoss' lab, left hand bookshelf",
+        "position x": "9.982075",
+        "position z": "-30.13573",
+        "inventory": "PX1_Scroll_of_Restore_Critical_Stamina_L5;Figurine_Ebony_Spider;PLANT_Skaenbone;PLANT_Skaenbone",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt",
+        "description": "Tanoss' lab, right hand bookshelf",
+        "position x": "6.639779",
+        "position z": "-30.33202",
+        "inventory": "Lore_Book_Language_Aedyran;Lore_Book_Aedyran_Customs;Lore_Book_The_Aedyr_Empire_1;Lore_Book_The_Aedyr_Empire_2",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt",
+        "description": "Tanoss' lab, table at the back",
+        "position x": "17.99319",
+        "position z": "-33.94654",
+        "inventory": "Food_Spirits;PX1_Potion_of_Barring_Deaths_Door_L4;PART_Vithrack_Brain;Lockpick",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt",
+        "description": "The cell in sabel's lab, left corpse",
+        "position x": "-31.08064",
+        "position z": "-19.71503",
+        "inventory": "Drug_Goldrot_Chew",
+        "lootlist": "Currency_SilFenning_1_2"
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt",
+        "description": "The cell in sabel's lab, right corpse",
+        "position x": "-32.50062",
+        "position z": "-17.68948",
+        "inventory": "Camping_Supplies",
+        "lootlist": "Currency_Skeyt_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt",
+        "description": "Treasure chamber, left chest",
+        "position x": "-0.9079296",
+        "position z": "-12.9248",
+        "inventory": "PX1_Shield_Large_The_Last_Tower;Figurine_Iridescent_Scarab;BUX_Adra_Eniach_60cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt",
+        "description": "Treasure chamber, left chest",
+        "position x": "2.05699",
+        "position z": "-17.0451",
+        "inventory": "Battle_Axe_Exceptional;GEM_Sapphire_950cp;GEM_Ruby_850cp;GEM_Emerald_750cp;GEM_Topaz_500cp;GEM_Diamond_350cp;BUX_Golden_Oble_18cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt",
+        "description": "Treasure chamber, left vase",
+        "position x": "0.3785868",
+        "position z": "-15.53387",
+        "inventory": "GEM_Opal_150cp;GEM_Pearl_100cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt",
+        "description": "Treasure chamber, right vase",
+        "position x": "-0.2139897",
+        "position z": "-14.95016",
+        "inventory": "GEM_Adra_Ban_35cp;GEM_Adra_3cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt",
+        "description": "Uariki's lab, in the right table",
+        "position x": "-39.36661",
+        "position z": "27.11984",
+        "inventory": "PX1_Potion_of_Flame_Shield_L4;Potion_of_Major_Recovery_L4;PX1_Potion_of_Minor_Arcane_Reflection_L4",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt",
+        "description": "Uariki's lab, lower left table",
+        "position x": "-26.87158",
+        "position z": "20.03904",
+        "inventory": "Wand_Exceptional;PX1_Scroll_of_Minolettas_Concussive_Missiles_L4;PX1_Potion_of_Minor_Arcane_Reflection_L4;Lockpick;PX1_MISC_Note_Uariki",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt",
+        "description": "Uariki's lab, on the left table",
+        "position x": "-37.97929",
+        "position z": "15.00638",
+        "inventory": "BUX_Golden_Scelling_12cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt",
+        "description": "Uariki's lab, tile in the center of the room",
+        "position x": "-30.91796",
+        "position z": "24.42441",
+        "inventory": "PX1_Durgan_Iron_Ingot;GEM_Ruby_850cp;Figurine_Ebony_Spider",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt",
+        "description": "Uariki's lab, top right table",
+        "position x": "-41.54959",
+        "position z": "22.93389",
+        "inventory": "Stiletto_Exceptional;PART_Primal_Flame;PART_Primal_Water;GEM_Agate_5cp;Lore_Book_The_White_that_Wends",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt Bluffs",
+        "description": "Field infirmary, corpse in the left bed",
+        "position x": "44.456",
+        "position z": "-19.057",
+        "inventory": "Lore_Book_Berathian_Holy_Text",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt Bluffs",
+        "description": "Field infirmary, corpse in the right bed",
+        "position x": "43.077",
+        "position z": "-15.576",
+        "inventory": "Cape",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt Bluffs",
+        "description": "Hidden in fountain in the ruins of Crägholdt",
+        "position x": "-38.11903",
+        "position z": "9.468696",
+        "inventory": "GEM_Topaz_500cp;GEM_Pearl_100cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt Bluffs",
+        "description": "In the command tent",
+        "position x": "-4.8",
+        "position z": "21.44",
+        "inventory": "BUX_Golden_Oble_18cp;PX1_MISC_Note_Mercenary",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt Bluffs",
+        "description": "Left of the training grounds",
+        "position x": "-6.416535",
+        "position z": "35.49581",
+        "inventory": "Shield_Large_Exceptional",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt Bluffs",
+        "description": "Left of the training grounds",
+        "position x": "-1.933968",
+        "position z": "34.408",
+        "inventory": "PX1_Sentinels_Girdle;PX1_Scroll_of_Restore_Critical_Stamina_L5;BUX_Golden_Oble_18cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt Bluffs",
+        "description": "Next to a tent on the southern central edge of the area",
+        "position x": "39.76649",
+        "position z": "26.21556",
+        "inventory": null,
+        "lootlist": "Dyr_Consumable_9_10"
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt Bluffs",
+        "description": "Next to the drunken orlan's tent in the southwestern corner",
+        "position x": "65.65495",
+        "position z": "7.182978",
+        "inventory": "Camping_Supplies;BUX_Golden_Oble_18cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt Bluffs",
+        "description": "Next to the tent on the raised section near the western edge of the area",
+        "position x": "64.31319",
+        "position z": "-31.52508",
+        "inventory": null,
+        "lootlist": "TE_Accessory_11_12"
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt Bluffs",
+        "description": "Next to the tent south of the command tent, and southwest of the training grounds",
+        "position x": "13.02409",
+        "position z": "44.52774",
+        "inventory": null,
+        "lootlist": "TE_Currency_11_12"
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt Bluffs",
+        "description": "Next to the yurt southwest of the field infirmary",
+        "position x": "72.81",
+        "position z": "-14.201",
+        "inventory": "Food_Grain",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt Bluffs",
+        "description": "Slumped over the edge of the fountain in the ruins of Crägholdt",
+        "position x": "-39.897",
+        "position z": "3.685",
+        "inventory": "Potion_of_Major_Endurance_L4;BUX_Golden_Oble_18cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt Bluffs",
+        "description": "Southwest of the command tent",
+        "position x": "20.98851",
+        "position z": "32.40787",
+        "inventory": null,
+        "lootlist": "TE_Consumable_11_12"
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt Bluffs",
+        "description": "Southwestern corner, next to the tent",
+        "position x": "84.9399",
+        "position z": "-6.823204",
+        "inventory": null,
+        "lootlist": "Armor_Exceptional"
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt Bluffs",
+        "description": "The table on the right side of the field infirmary",
+        "position x": "39.25613",
+        "position z": "-15.28391",
+        "inventory": "Ring_of_Overseeing",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crägholdt Bluffs",
+        "description": "West of the command tent",
+        "position x": "19.03097",
+        "position z": "6.357389",
+        "inventory": "Drug_Svef;GI_Prybar",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crucible Keep",
+        "description": "Back wall, on the left",
+        "position x": "-51.74296",
+        "position z": "6.916321",
+        "inventory": "Lore_Book_Knights_of_the_Crucible_1;Quest_Item_Wanted_Poster",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crucible Keep",
+        "description": "Back wall, on the right",
+        "position x": "-51.74296",
+        "position z": "14.07137",
+        "inventory": "Lore_Book_Knights_of_the_Crucible_2",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crucible Keep",
+        "description": "Contains no loot but is used during [[The Changing of the Guard]]",
+        "position x": "-25.17827",
+        "position z": "34.02575",
+        "inventory": null,
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crucible Keep",
+        "description": "First chest on the left of the barracks",
+        "position x": "-14.67814",
+        "position z": "-36.25669",
+        "inventory": null,
+        "lootlist": "Rack_Armor_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Crucible Keep",
+        "description": "In the shrine area to the southeast",
+        "position x": "-12.97042",
+        "position z": "20.13481",
+        "inventory": "Lore_Book_God_Abydon",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crucible Keep",
+        "description": "Kitchen area adjacent to the forge, amongst the crates",
+        "position x": "21.80611",
+        "position z": "-35.33938",
+        "inventory": "Camping_Supplies",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crucible Keep",
+        "description": "Left corner of the archives",
+        "position x": "14.51688",
+        "position z": "-19.37612",
+        "inventory": null,
+        "lootlist": "Rack_Armor_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Crucible Keep",
+        "description": "Left side of the war room",
+        "position x": "-35.082",
+        "position z": "-3.088",
+        "inventory": "War_Bow_Fine",
+        "lootlist": "Rack_Armor_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Crucible Keep",
+        "description": "Left wall of the archives",
+        "position x": "8.364937",
+        "position z": "-19.52801",
+        "inventory": "Lore_Book_The_Blacksmith_Knights",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crucible Keep",
+        "description": "On a shelf in the forge",
+        "position x": "15.12827",
+        "position z": "-44.5438",
+        "inventory": null,
+        "lootlist": "Gem_5_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Crucible Keep",
+        "description": "On the right side of the barracks",
+        "position x": "-24.02027",
+        "position z": "-24.87277",
+        "inventory": null,
+        "lootlist": "Dyr_Sm_Weapons_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Crucible Keep",
+        "description": "On the wall next to the door",
+        "position x": "4.158",
+        "position z": "-16.065",
+        "inventory": "Quest_Item_Penhelm_Affidavit",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Crucible Keep",
+        "description": "Second chest",
+        "position x": "-22.0466",
+        "position z": "-36.16709",
+        "inventory": null,
+        "lootlist": "Dyr_Med_Weapons_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Crucible Keep",
+        "description": "The table on the right wall",
+        "position x": "12.99599",
+        "position z": "-9.405566",
+        "inventory": "Quest_Item_Wanted_Poster",
+        "lootlist": "Dyr_Shelf_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Crucible Keep",
+        "description": "Third chest",
+        "position x": "-25.91289",
+        "position z": "-36.29608",
+        "inventory": null,
+        "lootlist": "Dyr_Med_Weapons_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Crucible Keep",
+        "description": "To the left of the map of Eir Glanfath and the White March",
+        "position x": "-48.78831",
+        "position z": "5.17624",
+        "inventory": "Plate_Armor",
+        "lootlist": "Rack_Weapon_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Doemenel Manor",
+        "description": "Bedroom area, right side",
+        "position x": "-9.363804",
+        "position z": "-12.77758",
+        "inventory": "Cloth_Outfit_Vailian",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Doemenel Manor",
+        "description": "Bedroom nearest to the staircase",
+        "position x": "3.135396",
+        "position z": "-12.25202",
+        "inventory": null,
+        "lootlist": "Rand_Potion_Scroll_5_6_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Doemenel Manor",
+        "description": "Bedroom, at the foot of the bed",
+        "position x": "-4.976544",
+        "position z": "-13.59305",
+        "inventory": null,
+        "lootlist": "Dyr_Sm_Weapons_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Doemenel Manor",
+        "description": "Bedroom, on the left",
+        "position x": "-2.781258",
+        "position z": "-17.27492",
+        "inventory": "Lockpick",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Doemenel Manor",
+        "description": "Central room, against the rear wall",
+        "position x": "-9.191759",
+        "position z": "-3.803939",
+        "inventory": null,
+        "lootlist": "Dyr_Shelf_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Doemenel Manor",
+        "description": "Entrance, on the table next to the staircase",
+        "position x": "10.41712",
+        "position z": "-7.609102",
+        "inventory": null,
+        "lootlist": "Gem_5_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Doemenel Manor",
+        "description": "In the corner of the waiting room",
+        "position x": "6.708386",
+        "position z": "16.1023",
+        "inventory": null,
+        "lootlist": "Dyr_Shelf_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Doemenel Manor",
+        "description": "In the northeastern-most room",
+        "position x": "-21.83962",
+        "position z": "3.945036",
+        "inventory": null,
+        "lootlist": "Dyr_Shelf_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Doemenel Manor",
+        "description": "In the pantry to the northeast",
+        "position x": "-19.53212",
+        "position z": "10.02574",
+        "inventory": null,
+        "lootlist": "Loot_Food"
+      }
+    },
+    {
+      "title": {
+        "location": "Doemenel Manor",
+        "description": "Left side of [[Gedmar Doemenel]]'s office",
+        "position x": "-6.565601",
+        "position z": "7.124784",
+        "inventory": "GEM_Diamond_350cp;BUX_Golden_Oble_18cp;GEM_Emerald_750cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Doemenel Manor",
+        "description": "Master bedroom, left side",
+        "position x": "-5.621578",
+        "position z": "-14.39167",
+        "inventory": null,
+        "lootlist": "Dyr_Med_Weapons_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Doemenel Manor",
+        "description": "Master bedroom, next to the bed",
+        "position x": "-15.5046",
+        "position z": "-8.063071",
+        "inventory": null,
+        "lootlist": "Rack_Armor_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Doemenel Manor",
+        "description": "Rear right of [[Gedmar Doemenel]]'s office",
+        "position x": "-16.5442",
+        "position z": "14.56146",
+        "inventory": null,
+        "lootlist": "Dyr_Shelf_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Doemenel Manor",
+        "description": "Side table in the dining room",
+        "position x": "-8.679852",
+        "position z": "11.49691",
+        "inventory": null,
+        "lootlist": "Loot_Food"
+      }
+    },
+    {
+      "title": {
+        "location": "Dracogen Inn",
+        "description": "Bedside drawers in the large room with the double bed and [[Nyfre]] and her gang",
+        "position x": "10.95843",
+        "position z": "-10.08",
+        "inventory": "Lore_Book_Admeth_Hadret_1",
+        "lootlist": "Dyr_Currency_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Dracogen Inn",
+        "description": "In the room on the right",
+        "position x": "-8.240173",
+        "position z": "2.285521",
+        "inventory": "Lore_Book_The_Moons_of_Eora;Lore_Book_God_Berath",
+        "lootlist": "Gem_5_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Dracogen Inn",
+        "description": "Left side chest in the room with the two beds",
+        "position x": "12.17804",
+        "position z": "4.298718",
+        "inventory": null,
+        "lootlist": "Dyr_Armor_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Dracogen Inn",
+        "description": "Right side chest in the room with the two beds",
+        "position x": "6.236767",
+        "position z": "4.322976",
+        "inventory": null,
+        "lootlist": "Dyr_Med_Weapons_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Dracogen Inn",
+        "description": "Shelf in the kitchen on the lower floor",
+        "position x": "2.432659",
+        "position z": "-9.63854",
+        "inventory": "Food_Beer",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Dracogen Inn",
+        "description": "Upstairs, floorboards in the room on the right",
+        "position x": "-10.43362",
+        "position z": "6.020396",
+        "inventory": "Quarterstaff_Staff_of_Codex",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Ducal Palace",
+        "description": "At the foot of the throne, but is disabled and cannot be accessed",
+        "position x": "23.90462",
+        "position z": "-21.917",
+        "inventory": null,
+        "lootlist": "Gem_7_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Ducal Palace",
+        "description": "Center bookcase",
+        "position x": "-6.851291",
+        "position z": "-24.86203",
+        "inventory": "Lore_Book_Dyrwoodan_Farce_2",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Ducal Palace",
+        "description": "Leftmost bookcase in the hall of records",
+        "position x": "-5.743742",
+        "position z": "-27.99122",
+        "inventory": "Lore_Book_Dyrwoodan_Farce_1",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Ducal Palace",
+        "description": "On the stairs leading up to the hall of records",
+        "position x": "-5.342359",
+        "position z": "1.388708",
+        "inventory": null,
+        "lootlist": "Dyr_Consumable_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Ducal Palace",
+        "description": "Rightmost bookcase",
+        "position x": "-7.799792",
+        "position z": "-22.06198",
+        "inventory": "Lore_Book_Backer_Flood_Memorial;Lore_Book_God_Magran",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Ducal Palace",
+        "description": "Southern room between the two exits",
+        "position x": "11.17229",
+        "position z": "23.04419",
+        "inventory": "HELM_Winged;HELM_Acorn;HELM_Frog",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Durgan's Battery",
+        "description": "(WM2 only) Battery ramparts, second urn from the left",
+        "position x": "-13.29",
+        "position z": "-46.2",
+        "inventory": "PX1_BUX_Durgan_Cogwheel_4cp;Camping_Supplies",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Durgan's Battery",
+        "description": "(WM2 only) Far right corner of the courtyard",
+        "position x": "3.322547",
+        "position z": "-15.84362",
+        "inventory": "GI_Prybar;Lockpick",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Durgan's Battery",
+        "description": "(WM2 only) In the cutout to the right of the stairs",
+        "position x": "7.147",
+        "position z": "-41.09",
+        "inventory": "Food_Ale;Food_Spirits",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Durgan's Battery",
+        "description": "(WM2 only) Next to the worktables in the battery courtyard",
+        "position x": "5.01081",
+        "position z": "-22.42826",
+        "inventory": "Trap_Item_Freezing_Pillar",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Durgan's Battery",
+        "description": "A bloodied corpse east of the abandoned wagon in the southwest",
+        "position x": "104.7366",
+        "position z": "5.871107",
+        "inventory": "Stiletto_Exceptional;Ring_of_Unshackling;BUX_Copper_Skeyt_1cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Durgan's Battery",
+        "description": "Above the fork in the road leading to [[Galvino's Cabin]], only revealed if you have the [[Tattered Map]]",
+        "position x": "-55.3845",
+        "position z": "23.63251",
+        "inventory": "Grimoire_High_Lvl_Ninagauth",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Durgan's Battery",
+        "description": "At the top of the battery watchtower (auto-looted container)",
+        "position x": "-69.08987",
+        "position z": "-8.877211",
+        "inventory": "Quest_Item_Unstrung_Bow",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Durgan's Battery",
+        "description": "Battery ramparts, first urn from the left",
+        "position x": "-7.596888",
+        "position z": "-54.83275",
+        "inventory": "Minor_Gauntlets_of_Accuracy;Scroll_of_Missile_Barrage_L4",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Durgan's Battery",
+        "description": "Battery ramparts, last urn from the left",
+        "position x": "-16.087",
+        "position z": "-40.419",
+        "inventory": "PX1_BUX_Durgan_Cogwheel_4cp;PX1_Potion_of_Flame_Shield_L4",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Durgan's Battery",
+        "description": "Beside the door to [[Galvino's Cabin]] in the northeast",
+        "position x": "-88.03648",
+        "position z": "16.65552",
+        "inventory": "PART_Primal_Water;PART_Primal_Rock;Potion_of_Bulwark_Against_the_Elements_L2",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Durgan's Battery",
+        "description": "Close to the abandoned wagon in the southwest",
+        "position x": "105.7674",
+        "position z": "-0.4330851",
+        "inventory": "Quest_Item_Svef_Shipment",
+        "lootlist": "Currency_GoldScelling_Rand_32_64"
+      }
+    },
+    {
+      "title": {
+        "location": "Durgan's Battery",
+        "description": "In [[Taragaer]]'s camp, central eastern edge",
+        "position x": "-43.82021",
+        "position z": "46.00836",
+        "inventory": "Drug_Snowcap;Potion_of_Major_Regen_L3",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Durgan's Battery",
+        "description": "In the log near [[Urthal]] and his mercs in the northeastern corner",
+        "position x": "-95.41431",
+        "position z": "-17.40965",
+        "inventory": "Camping_Supplies;Sword_Exceptional;Shield_Small_Exceptional",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Durgan's Battery",
+        "description": "In the small camp near [[Urthal]] to the northeast",
+        "position x": "-100.438",
+        "position z": "-21.35941",
+        "inventory": "BUX_Copper_Pand_1cp;BUX_Silver_Lusce_3cp;BUX_Golden_Duc_12cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Durgan's Battery",
+        "description": "Near the cavern entrance",
+        "position x": "75.97472",
+        "position z": "1.826372",
+        "inventory": "Hatchet;Food_Meat",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Durgan's Battery",
+        "description": "Near the cavern entrance",
+        "position x": "76.10802",
+        "position z": "4.581124",
+        "inventory": "Arquebus_Fine;GEM_Diamond_350cp;GEM_Pearl_100cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Durgan's Battery",
+        "description": "Near the group of stags and deer in the southeastern corner",
+        "position x": "-11.70836",
+        "position z": "94.10632",
+        "inventory": "Ring_of_Protection",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Durgan's Battery",
+        "description": "Near the upturned cart east of the exit to [[Russetwood]]",
+        "position x": "93.99555",
+        "position z": "21.6711",
+        "inventory": "HELM_Open;Brigandine_Armor_Fine;Shield_Medium_Heater_Fine;Mace_Fine",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Durgan's Battery",
+        "description": "Near the upturned cart east of the exit to [[Russetwood]]",
+        "position x": "97.04521",
+        "position z": "22.77507",
+        "inventory": "Stiletto_Exceptional;GEM_Topaz_500cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Durgan's Battery",
+        "description": "Next to the bigger cart north of the wagon, near the Russetwood exit",
+        "position x": "93.02549",
+        "position z": "-1.66109",
+        "inventory": "Camping_Supplies;Food_Grain;Food_Oil;Food_Sugar",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Durgan's Battery",
+        "description": "Next to the smaller two-wheeled cart a short distance southwest of the cavern entrance",
+        "position x": "85.54195",
+        "position z": "-2.656557",
+        "inventory": "PX1_Rapier_Spelltongue;Bracers_of_Deflection;GEM_Emerald_750cp;BUX_Copper_Pand_1cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Durgan's Battery",
+        "description": "Next to the toppled wagon northeast of the bridge over the chasm",
+        "position x": "-18.98085",
+        "position z": "-1.903525",
+        "inventory": "Camping_Supplies;GI_Prybar",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Durgan's Battery",
+        "description": "On the exit to [[Russetwood]]",
+        "position x": "111.663",
+        "position z": "9.265",
+        "inventory": "Food_Poultry;Food_Poultry;Food_Poultry",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Durgan's Battery",
+        "description": "On the raised platform west of the battery watchtower",
+        "position x": "-45.73087",
+        "position z": "-34.32003",
+        "inventory": "Talisman_of_the_Unconquerable",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Dyrford Crossing",
+        "description": "In the ruined tower in the southwestern corner",
+        "position x": "60.585",
+        "position z": "-10.19",
+        "inventory": null,
+        "lootlist": "Dyr_Sm_Weapons_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Dyrford Crossing",
+        "description": "In the smaller ruined tower in the southwestern corner",
+        "position x": "51.87006",
+        "position z": "17.35559",
+        "inventory": null,
+        "lootlist": "Rand_Potion_Scroll_5_6_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Dyrford Crossing",
+        "description": "Near the [[Grisly Cave]] entrance",
+        "position x": "8.686961",
+        "position z": "78.26431",
+        "inventory": "Ring_of_Deflection",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Dyrford Crossing",
+        "description": "Near the wurms, southwest of the dragon egg",
+        "position x": "-25.36138",
+        "position z": "-10.24221",
+        "inventory": null,
+        "lootlist": "Loot_NPC_Adventurer_Poor"
+      }
+    },
+    {
+      "title": {
+        "location": "Dyrford Crossing",
+        "description": "On a small ledge near the second cave exit",
+        "position x": "5.903291",
+        "position z": "59.69493",
+        "inventory": "00_Skull_Key;Quest_Item_Trygil_Note;Robe_Armor_Skaen;Helm_CL_Skaen_Initiate",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Dyrford Crossing",
+        "description": "On the cliffs above the [[Grisly Cave]] entrance",
+        "position x": "-8.510308",
+        "position z": "62.98919",
+        "inventory": "Boots_of_the_Long_March",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Dyrford Mill",
+        "description": "Center crate",
+        "position x": "-5.757575",
+        "position z": "-2.77319",
+        "inventory": "Food_Rice",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Dyrford Mill",
+        "description": "Hidden in the grain pile",
+        "position x": "-4.179612",
+        "position z": "-4.67488",
+        "inventory": null,
+        "lootlist": "Gem_5_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Dyrford Mill",
+        "description": "Leftmost crate",
+        "position x": "-0.395703",
+        "position z": "-9.660941",
+        "inventory": "Food_Grain",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Dyrford Mill",
+        "description": "Rightmost crate",
+        "position x": "-8.18456",
+        "position z": "-1.206046",
+        "inventory": "Food_Grain",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Dyrford Ruins",
+        "description": "At the end of the eastern hallway",
+        "position x": "-39.89721",
+        "position z": "51.37459",
+        "inventory": null,
+        "lootlist": "Dyr_Consumable_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Dyrford Ruins",
+        "description": "Before entering the stream with the Beetles",
+        "position x": "-23.60141",
+        "position z": "-33.32159",
+        "inventory": "Camping_Supplies",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Dyrford Ruins",
+        "description": "Central quarters area",
+        "position x": "12.47704",
+        "position z": "-15.49733",
+        "inventory": null,
+        "lootlist": "Dyr_Sm_Weapons_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Dyrford Ruins",
+        "description": "Crypt containing a large stone sarcophagus",
+        "position x": "-42",
+        "position z": "10.9793",
+        "inventory": "Lockpick",
+        "lootlist": "Dyr_Shelf_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Dyrford Ruins",
+        "description": "Far western room, next to the pillories",
+        "position x": "63.78823",
+        "position z": "-33.23736",
+        "inventory": "GI_Grappling_Hook",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Dyrford Ruins",
+        "description": "First room on the right of the main cultists quarters",
+        "position x": "0.5003929",
+        "position z": "-1.930137",
+        "inventory": "Lore_Book_God_Skaen",
+        "lootlist": "Dyr_Armor_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Dyrford Ruins",
+        "description": "First room on the right of the main cultists quarters",
+        "position x": "3.16679",
+        "position z": "-5.81279",
+        "inventory": "Lockpick;Key_Dungeon;MISC_Note_Cultist_Reminder",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Dyrford Ruins",
+        "description": "Hidden banner in the hallway leading up to the room with [[Wymund]] and his cultists",
+        "position x": "-35.97703",
+        "position z": "-4.373378",
+        "inventory": null,
+        "lootlist": "Rand_Potion_Scroll_7_8_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Dyrford Ruins",
+        "description": "In a small nook before the cultist's quarters, after leaving the stream",
+        "position x": "8.901043",
+        "position z": "-38.66348",
+        "inventory": "Lockpick",
+        "lootlist": "Gem_9_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Dyrford Ruins",
+        "description": "In a small room before the wooden bridge",
+        "position x": "25.82797",
+        "position z": "4.716415",
+        "inventory": null,
+        "lootlist": "Dyr_Lg_Weapons_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Dyrford Ruins",
+        "description": "In the northern circular room with [[Wymund]]",
+        "position x": "-73.47637",
+        "position z": "-1.935498",
+        "inventory": "MISC_Wymund_Journal;Dagger_Aattuuk",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Dyrford Ruins",
+        "description": "In the northernmost crypt containing the ornate sarcophagus",
+        "position x": "-68.04326",
+        "position z": "-17.83551",
+        "inventory": null,
+        "lootlist": "Dyr_Lg_Weapons_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Dyrford Ruins",
+        "description": "In the room containing a bloody corpse on a table",
+        "position x": "49.84388",
+        "position z": "-12.55525",
+        "inventory": "GI_Grappling_Hook",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Dyrford Ruins",
+        "description": "In the room with the bookcases to the west of the blood pool",
+        "position x": "-17.8829",
+        "position z": "10.08174",
+        "inventory": "Lockpick;Lore_Book_Skaenite_Holy_Text",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Dyrford Ruins",
+        "description": "In the room with the bookcases to the west of the blood pool",
+        "position x": "-16.1427",
+        "position z": "8.472401",
+        "inventory": "Key_Crypt_Master;Lore_Book_God_Skaen",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Dyrford Ruins",
+        "description": "In the southernmost room of the eastern hallway of the temple",
+        "position x": "-19.71577",
+        "position z": "58.24649",
+        "inventory": null,
+        "lootlist": "Gem_5_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Dyrford Ruins",
+        "description": "Northern end of the westen hallway",
+        "position x": "-42.06474",
+        "position z": "18.49021",
+        "inventory": null,
+        "lootlist": "Gem_7_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Dyrford Ruins",
+        "description": "On a shelf in the hallway adjacent to the main room",
+        "position x": "28.9823",
+        "position z": "-32.28886",
+        "inventory": "Stiletto_Fine",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Dyrford Ruins",
+        "description": "One of the crypt cavities in the area full of traps to the east",
+        "position x": "-30.27967",
+        "position z": "59.26272",
+        "inventory": null,
+        "lootlist": "Dyr_Armor_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Dyrford Ruins",
+        "description": "Right side of the large cavern area",
+        "position x": "-2.119865",
+        "position z": "50.9058",
+        "inventory": "Camping_Supplies",
+        "lootlist": "Loot_Drugs"
+      }
+    },
+    {
+      "title": {
+        "location": "Dyrford Ruins",
+        "description": "Southeastern-most hallway",
+        "position x": "3.436943",
+        "position z": "70.88605",
+        "inventory": null,
+        "lootlist": "Loot_Drugs"
+      }
+    },
+    {
+      "title": {
+        "location": "Dyrford Ruins",
+        "description": "Southern wall of the central room in the western wing",
+        "position x": "42.68014",
+        "position z": "-18.21711",
+        "inventory": "GI_Grappling_Hook",
+        "lootlist": "Dyr_Accessory_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Dyrford Ruins",
+        "description": "Southern wall of the central room in the western wing",
+        "position x": "45.51325",
+        "position z": "-19.25953",
+        "inventory": null,
+        "lootlist": "Dyr_Med_Weapons_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Dyrford Ruins",
+        "description": "Southwestern area next to the chasm crossing interaction",
+        "position x": "44.62058",
+        "position z": "4.585199",
+        "inventory": "GI_Grappling_Hook",
+        "lootlist": "Dyr_Consumable_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Dyrford Ruins",
+        "description": "Tucked in the a corner of the central room in the western wing",
+        "position x": "38.88611",
+        "position z": "-33.85896",
+        "inventory": "Lockpick;Lore_Book_Skaenite_Holy_Text",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Dyrford Ruins",
+        "description": "Westernmost room, in the bottom left corner",
+        "position x": "72.34622",
+        "position z": "-28.74632",
+        "inventory": null,
+        "lootlist": "Dyr_Shelf_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Dyrford Village",
+        "description": "Broken crate on the river shore to the southwest.",
+        "position x": "61.14589",
+        "position z": "9.27658",
+        "inventory": "GI_Grappling_Hook",
+        "lootlist": "Loot_Drugs"
+      }
+    },
+    {
+      "title": {
+        "location": "Dyrford Village",
+        "description": "Eastern wall of [[Winfrith's Arms and Armory]]",
+        "position x": "0.1593634",
+        "position z": "54.029",
+        "inventory": null,
+        "lootlist": "Loot_Drugs"
+      }
+    },
+    {
+      "title": {
+        "location": "Dyrford Village",
+        "description": "Outside of [[Trygil's Curriery]]",
+        "position x": "-25.9272",
+        "position z": "11.97691",
+        "inventory": "MISC_PART_Elder_Antelope_Horn",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Dyrford Village",
+        "description": "Southernmost building",
+        "position x": "19.97772",
+        "position z": "47.60576",
+        "inventory": "Food_Fruit",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Dyrford Village",
+        "description": "Under the roof on the left side of the [[Dracogen Inn]]",
+        "position x": "11.23081",
+        "position z": "4.445625",
+        "inventory": "Food_Vegetable",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Elms Reach Dwelling (east)",
+        "description": "Crate full of greens on the right",
+        "position x": "1.271796",
+        "position z": "7.180922",
+        "inventory": "Food_Milk;Food_Vegetable;Food_Fruit",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Elms Reach Dwelling (east)",
+        "description": "Rear right",
+        "position x": "-3.714467",
+        "position z": "6.432192",
+        "inventory": "Food_Mead;Food_Egg;Food_Oil",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Elms Reach Dwelling (east)",
+        "description": "Under the alcove at the rear of the home",
+        "position x": "-6.170741",
+        "position z": "-2.200886",
+        "inventory": "Lore_Book_Eir_Glanfath_1",
+        "lootlist": "TE_Accessory_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Elms Reach Dwelling (north)",
+        "description": "Center of the home",
+        "position x": "-0.8763136",
+        "position z": "2.112068",
+        "inventory": "Robe_Armor_Starlit_Garb",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Elms Reach Dwelling (north)",
+        "description": "Left of the door",
+        "position x": "5.952707",
+        "position z": "6.632311",
+        "inventory": null,
+        "lootlist": "Loot_Food"
+      }
+    },
+    {
+      "title": {
+        "location": "Elms Reach Dwelling (north)",
+        "description": "Rear right corner",
+        "position x": "-4.746165",
+        "position z": "-1.827216",
+        "inventory": "Camping_Supplies",
+        "lootlist": "Loot_Drugs"
+      }
+    },
+    {
+      "title": {
+        "location": "Elms Reach Dwelling (west)",
+        "description": "Crate nearest the door",
+        "position x": "6.870367",
+        "position z": "8.60283",
+        "inventory": null,
+        "lootlist": "TE_Sm_Weapons_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Elms Reach Dwelling (west)",
+        "description": "Rear left corner",
+        "position x": "4.954981",
+        "position z": "-5.761686",
+        "inventory": "Drug_Snowcap;Lore_Book_Eir_Glanfath_2",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Elms Reach Dwelling (west)",
+        "description": "Right side, behind the tribespeople",
+        "position x": "-1.974848",
+        "position z": "2.245361",
+        "inventory": "Food_Rice;Food_Vegetable;Food_Fruit",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Elms' Reach",
+        "description": "Inside the walls of the Hall of Warriors",
+        "position x": "30.35156",
+        "position z": "-31.5904",
+        "inventory": null,
+        "lootlist": "TE_Med_Weapons_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Elms' Reach",
+        "description": "Outside the central home, adjacent to the Hall of Warriors",
+        "position x": "48.4652",
+        "position z": "-1.08362",
+        "inventory": "Food_Vegetable;Food_Fruit",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Elms' Reach",
+        "description": "Outside the leftmost home",
+        "position x": "75.55994",
+        "position z": "4.627195",
+        "inventory": null,
+        "lootlist": "TE_Consumable_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Elms' Reach",
+        "description": "Outside the rightmost home",
+        "position x": "40.17681",
+        "position z": "21.30053",
+        "inventory": null,
+        "lootlist": "Potion_2"
+      }
+    },
+    {
+      "title": {
+        "location": "Elmshore",
+        "description": "A short distance southeast of the adra arch, on the riverbanks",
+        "position x": "-29.37044",
+        "position z": "42.55069",
+        "inventory": "Brigandine_Armor_Fine;Lockpick",
+        "lootlist": "TE_Lg_Weapons_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Elmshore",
+        "description": "On the western side of the northern bridge",
+        "position x": "22.56066",
+        "position z": "-42.55271",
+        "inventory": null,
+        "lootlist": "TE_Consumable_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Elmshore",
+        "description": "Southwestern corner of the area",
+        "position x": "-4.382104",
+        "position z": "76.24957",
+        "inventory": "War_Hammer_Fine;Camping_Supplies;Boots_of_Stability",
+        "lootlist": "TE_Armor_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Elmshore",
+        "description": "Under the adra arches, only during [[Songs of The Wild]]",
+        "position x": "0.318992",
+        "position z": "47.77947",
+        "inventory": "Quest_Wilderness_Bird",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Elmshore Cave",
+        "description": "At the end of the cave to the north",
+        "position x": "-0.4230688",
+        "position z": "-8.863018",
+        "inventory": "Boots_Fenwalkers",
+        "lootlist": "Rand_Accessory_7_8_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Encampment",
+        "description": "Cart near the merchant [[Heodan]]",
+        "position x": "-18.96636",
+        "position z": "-2.250988",
+        "inventory": "Potion_of_Minor_Regen_L1;BUX_Copper_Pand_1cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Encampment",
+        "description": "Immediately to the right of the campfire",
+        "position x": "-31.92366",
+        "position z": "11.58061",
+        "inventory": "Potion_of_Minor_Endurance_L2",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Encampment",
+        "description": "In the abandoned camp to the west",
+        "position x": "51.26144",
+        "position z": "-3.665629",
+        "inventory": "Pistol_BACKER_The_Disappointer;HAT_Tricorne;Cloth_Outfit_Vailian",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Encampment",
+        "description": "In the abandoned camp to the west",
+        "position x": "51.31075",
+        "position z": "1.068061",
+        "inventory": "Food_Beer",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Encampment",
+        "description": "Near the river in the southeastern corner",
+        "position x": "15.28517",
+        "position z": "51.43628",
+        "inventory": "Leather_Armor;Lockpick",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Encampment",
+        "description": "On a cart near the southern edge of the camp",
+        "position x": "-23.86647",
+        "position z": "15.84681",
+        "inventory": "Cloth_Outfit_Dyrwoodan_Fur;Lockpick",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 1",
+        "description": "[[Maerwald]]'s room to the north, left side",
+        "position x": "-27.29082",
+        "position z": "-12.76041",
+        "inventory": null,
+        "lootlist": "Dyr_Currency_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 1",
+        "description": "[[Maerwald]]'s room to the north, near the door",
+        "position x": "-32.92476",
+        "position z": "0.7732668",
+        "inventory": "Sword_Whispers_of_Yenwood",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 1",
+        "description": "[[Maerwald]]'s room to the north, right side",
+        "position x": "-37.19235",
+        "position z": "-1.783234",
+        "inventory": null,
+        "lootlist": "Dyr_Sm_Weapons_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 1",
+        "description": "At the top of a staircase to the north, in the same room as the looters",
+        "position x": "-14.17392",
+        "position z": "-21.85512",
+        "inventory": "HELM_Frog",
+        "lootlist": "Loot_NPC_Adventurer_Poor"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 1",
+        "description": "Central room with the beetles, left side",
+        "position x": "-6.955884",
+        "position z": "6.286782",
+        "inventory": null,
+        "lootlist": "Dyr_Consumable_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 1",
+        "description": "Central room with the beetles, right side",
+        "position x": "-10.09633",
+        "position z": "17.15795",
+        "inventory": null,
+        "lootlist": "Loot_Drugs"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 1",
+        "description": "Eastern room with the spiders, left side",
+        "position x": "-15.24003",
+        "position z": "22.06713",
+        "inventory": null,
+        "lootlist": "Dyr_Accessory_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 1",
+        "description": "Eastern room with the spiders, right side",
+        "position x": "-13.3908",
+        "position z": "39.86707",
+        "inventory": null,
+        "lootlist": "Dyr_Med_Weapons_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 1",
+        "description": "First room with the stairs back up to [[Caed Nua]] [[Dungeons]]",
+        "position x": "-24.41892",
+        "position z": "6.998773",
+        "inventory": null,
+        "lootlist": "Rack_Weapon_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 1",
+        "description": "In the southernmost room, left side",
+        "position x": "16.33317",
+        "position z": "16.70919",
+        "inventory": null,
+        "lootlist": "Loot_NPC_Adventurer_Moderate"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 1",
+        "description": "Northern end of the central corridor, adjacent to [[Maerwald]]'s room",
+        "position x": "-22.14714",
+        "position z": "-4.392562",
+        "inventory": null,
+        "lootlist": "Dyr_Consumable_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 1",
+        "description": "On a pile of stones to the south",
+        "position x": "5.794333",
+        "position z": "25.75411",
+        "inventory": "Sword",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 1",
+        "description": "Southeastern room with the stairs down to level 2",
+        "position x": "-10.71186",
+        "position z": "46.0829",
+        "inventory": null,
+        "lootlist": "Dyr_Accessory_1_2"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 1",
+        "description": "Spider-infested western hallway, left side",
+        "position x": "13.80491",
+        "position z": "-16.27939",
+        "inventory": "ITEM_PET_Tiny_Spider",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 1",
+        "description": "Spider-infested western hallway, near the examinable pillar",
+        "position x": "14.87941",
+        "position z": "1.215418",
+        "inventory": null,
+        "lootlist": "Dyr_Consumable_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 1",
+        "description": "Spider-infested western hallway, right",
+        "position x": "15.23098",
+        "position z": "10.59899",
+        "inventory": null,
+        "lootlist": "Dyr_Armor_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 10",
+        "description": "Circular room to the northwest. unlocked with the [[Adra Key]]",
+        "position x": "5.118263",
+        "position z": "-22.57048",
+        "inventory": null,
+        "lootlist": "Gem_9_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 10",
+        "description": "Northern section, center",
+        "position x": "-12.37454",
+        "position z": "4.189212",
+        "inventory": "Camping_Supplies",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 10",
+        "description": "Northern section, nearest the stairs",
+        "position x": "-11.34832",
+        "position z": "9.304507",
+        "inventory": null,
+        "lootlist": "Engw_Consumable_9_10"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 10",
+        "description": "Southern section, east",
+        "position x": "-9.111986",
+        "position z": "23.98428",
+        "inventory": "Arbalest_Aedrins_Wrecker",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 10",
+        "description": "Southern section, east",
+        "position x": "-8.943803",
+        "position z": "22.32221",
+        "inventory": "Key_Shadow",
+        "lootlist": "TE_Sm_Weapons_9_10"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 10",
+        "description": "Southern section, west",
+        "position x": "7.101978",
+        "position z": "10.30506",
+        "inventory": null,
+        "lootlist": "Engw_Armor_9_10"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 11",
+        "description": "Below the fungus wall in the southeast",
+        "position x": "-3.569105",
+        "position z": "23.70371",
+        "inventory": null,
+        "lootlist": "Engw_Consumable_9_10"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 11",
+        "description": "In the northeastern corner, behind the group of spores.",
+        "position x": "-24.602",
+        "position z": "3.014",
+        "inventory": "Rapier_Vierinas_Leaves",
+        "lootlist": "Loot_NPC_Adventurer_Poor"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 11",
+        "description": "In the southern corridor",
+        "position x": "13.3962",
+        "position z": "12.72077",
+        "inventory": "Camping_Supplies",
+        "lootlist": "TE_Armor_9_10"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 11",
+        "description": "Northeastern corner",
+        "position x": "-23.51484",
+        "position z": "9.872963",
+        "inventory": null,
+        "lootlist": "Engw_Armor_9_10"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 11",
+        "description": "Northwestern chamber, left side",
+        "position x": "-0.3073338",
+        "position z": "-21.11496",
+        "inventory": null,
+        "lootlist": "Engw_Sm_Weapons_9_10"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 11",
+        "description": "Northwestern chamber, right side",
+        "position x": "-9.440598",
+        "position z": "-9.974974",
+        "inventory": null,
+        "lootlist": "TE_Consumable_9_10"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 11",
+        "description": "Northwestern chamber, right side (&lt;span style=&quot;color: red;&quot;&gt;This container is disabled, and therefore cannot be accessed&lt;/span&gt;)",
+        "position x": "-9.966186",
+        "position z": "-13.12064",
+        "inventory": "MISC_Hag_Twig_Doll;Ring_Hag;Potion_of_Minor_Regen_L1",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 12",
+        "description": "Cluster in the northwestern corner, left",
+        "position x": "4.617997",
+        "position z": "-47.74266",
+        "inventory": null,
+        "lootlist": "Engw_Armor_9_10"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 12",
+        "description": "Cluster in the northwestern corner, right",
+        "position x": "3.888349",
+        "position z": "-45.0489",
+        "inventory": null,
+        "lootlist": "Engw_Consumable_9_10"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 12",
+        "description": "East of the stairs up to level 11",
+        "position x": "25.58636",
+        "position z": "10.54002",
+        "inventory": null,
+        "lootlist": "Gem_9_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 12",
+        "description": "Next to [[Krivi]] (this &quot;good&quot; variant is enabled once you complete [[The Master's Tools]])",
+        "position x": "-27.10317",
+        "position z": "9.403275",
+        "inventory": "Grimoire_High_Lvl_Essence",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 12",
+        "description": "Next to [[Krivi]] (this &quot;stealing&quot; variant is enabled by default)",
+        "position x": "-27.10317",
+        "position z": "9.403275",
+        "inventory": "Grimoire_High_Lvl_Essence",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 12",
+        "description": "Northern center, right side",
+        "position x": "-27.4065",
+        "position z": "-16.38339",
+        "inventory": null,
+        "lootlist": "Loot_Drugs"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 12",
+        "description": "Southeastern corner, left side",
+        "position x": "0.7590507",
+        "position z": "46.34393",
+        "inventory": null,
+        "lootlist": "Engw_Med_Weapons_9_10"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 12",
+        "description": "Southeastern corner, right side",
+        "position x": "-4.749372",
+        "position z": "52.74699",
+        "inventory": null,
+        "lootlist": "Engw_Accessory_9_10"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 12",
+        "description": "Southern edge, directly south of the vithracks",
+        "position x": "11.97172",
+        "position z": "29.32951",
+        "inventory": null,
+        "lootlist": "TE_Sm_Weapons_9_10"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 12",
+        "description": "Vithrack colony in the northern center, left side",
+        "position x": "-19.85459",
+        "position z": "-26.98762",
+        "inventory": null,
+        "lootlist": "Engw_Lg_Weapons_9_10"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 13",
+        "description": "Circular room with the spirit northwest of the central sealed door",
+        "position x": "0.8572559",
+        "position z": "-28.83139",
+        "inventory": null,
+        "lootlist": "Engw_Sm_Weapons_11_12"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 13",
+        "description": "Eastern room with the broken table, left side",
+        "position x": "-11.90995",
+        "position z": "-21.82343",
+        "inventory": null,
+        "lootlist": "Engw_Consumable_11_12"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 13",
+        "description": "Eastern room with the broken table, northern corner",
+        "position x": "-16.56067",
+        "position z": "36.81484",
+        "inventory": "Camping_Supplies",
+        "lootlist": "Engw_Lg_Weapons_11_12"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 13",
+        "description": "First left, at the end of the corridor",
+        "position x": "29.88502",
+        "position z": "-30.19666",
+        "inventory": null,
+        "lootlist": "Gem_9_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 13",
+        "description": "In a small corridor southwest of the sealed door in the center",
+        "position x": "5.803961",
+        "position z": "34.4591",
+        "inventory": null,
+        "lootlist": "Loot_Drugs"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 13",
+        "description": "In the short corridor leading to the northern central room with the crystals",
+        "position x": "-6.447374",
+        "position z": "35.44334",
+        "inventory": null,
+        "lootlist": "Engw_Consumable_11_12"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 13",
+        "description": "Large spherical machine in the first room to the left of the entrance/stairs up",
+        "position x": "53.00646",
+        "position z": "-21.87231",
+        "inventory": "Quest_Item_Engwithan_Machine_Part",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 13",
+        "description": "Large throne room with the stairs down to level 14, northern edge",
+        "position x": "-29.30069",
+        "position z": "-12.40933",
+        "inventory": null,
+        "lootlist": "Engw_Accessory_11_12"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 13",
+        "description": "Northern central room, broken shelf on the left side",
+        "position x": "-17.13145",
+        "position z": "-35.82946",
+        "inventory": null,
+        "lootlist": "Engw_Armor_11_12"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 13",
+        "description": "Northern central room, right side",
+        "position x": "-24.95458",
+        "position z": "-28.26616",
+        "inventory": "Quest_Item_Adra_Animat_Shell",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 13",
+        "description": "Northwestern room, left side",
+        "position x": "13.1377",
+        "position z": "-67.49983",
+        "inventory": null,
+        "lootlist": "Rack_Weapon_11_12"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 13",
+        "description": "Northwestern room, right side",
+        "position x": "4.147783",
+        "position z": "-60.00167",
+        "inventory": null,
+        "lootlist": "Engw_Consumable_11_12"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 13",
+        "description": "Room immediately east of the entrance/stairs up",
+        "position x": "37.7844",
+        "position z": "12.69804",
+        "inventory": null,
+        "lootlist": "Engw_Med_Weapons_11_12"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 13",
+        "description": "Secret northeastern room, left side",
+        "position x": "-58.51471",
+        "position z": "9.558946",
+        "inventory": "Sabre_The_Flames_of_Fair_Rhian",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 13",
+        "description": "Secret northeastern room, right side",
+        "position x": "-59.47771",
+        "position z": "22.24862",
+        "inventory": null,
+        "lootlist": "Engw_Accessory_11_12"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 13",
+        "description": "Small room with the triangular arrangement of spheres, crystal on the wall",
+        "position x": "-31.07368",
+        "position z": "32.48825",
+        "inventory": "Quest_Item_Gleaming_Adra",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 13",
+        "description": "Small room with the triangular arrangement of spheres, left side",
+        "position x": "-27.95511",
+        "position z": "29.67493",
+        "inventory": null,
+        "lootlist": "Gem_12_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 14",
+        "description": "A short distance from the stairs in the southwestern corner",
+        "position x": "5.038643",
+        "position z": "-0.3903474",
+        "inventory": null,
+        "lootlist": "Engw_Armor_11_12"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 14",
+        "description": "Eastern side of the area, amongst the &quot;bodies&quot;",
+        "position x": "-16.69335",
+        "position z": "9.856333",
+        "inventory": null,
+        "lootlist": "Engw_Accessory_11_12"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 14",
+        "description": "In the small right-angled corridor between the stairs to level 13 and the master staircase",
+        "position x": "22.44974",
+        "position z": "-9.296244",
+        "inventory": null,
+        "lootlist": "Engw_Consumable_11_12"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 14",
+        "description": "Northwestern side of the area",
+        "position x": "-5.43836",
+        "position z": "-7.03398",
+        "inventory": null,
+        "lootlist": "Engw_Consumable_11_12"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 15",
+        "description": "At the base of the stairs (&lt;span style=&quot;color: red;&quot;&gt;used for debugging and is disabled in-game&lt;/span&gt;)",
+        "position x": "31.11974",
+        "position z": "-40.39313",
+        "inventory": "Quest_Item_Blade_Half_1;Quest_Item_Blade_Half_1;Quest_Item_Blade_Hilt;Quest_Item_Pommel_Stone",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 15",
+        "description": "Behind [[Sefyra]] the adra dragon",
+        "position x": "-8.508985",
+        "position z": "14.79472",
+        "inventory": "Pistol_BACKER_The_Disappointer",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 15",
+        "description": "Dragon horde, first from left",
+        "position x": "-54.04",
+        "position z": "13.33",
+        "inventory": "Shield_Small_Little_Savior",
+        "lootlist": "TE_Currency_11_12"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 15",
+        "description": "Dragon horde, fourth from left",
+        "position x": "-58.727",
+        "position z": "16.635",
+        "inventory": "Crossbow_Wendgar",
+        "lootlist": "Dyr_Currency_9_10"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 15",
+        "description": "Dragon horde, second from left",
+        "position x": "-58.88456",
+        "position z": "9.574072",
+        "inventory": "Grimoire_High_Lvl_Minoletta",
+        "lootlist": "Engw_Lg_Weapons_11_12"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 15",
+        "description": "Dragon horde, third from left",
+        "position x": "-55.89",
+        "position z": "15.05",
+        "inventory": "Padded_Armor_Vengiatta_Rugia",
+        "lootlist": "Dyr_Currency_9_10"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 15",
+        "description": "Eastern side of the dragon horde",
+        "position x": "-58.072",
+        "position z": "24.149",
+        "inventory": "Sceptre_Puitente_med_Principi",
+        "lootlist": "TE_Currency_11_12"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 15",
+        "description": "First window/vent from the right",
+        "position x": "3.342055",
+        "position z": "-36.20856",
+        "inventory": null,
+        "lootlist": "Gem_Adra_Ban"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 15",
+        "description": "Fourth window/vent from the right",
+        "position x": "23.98701",
+        "position z": "-36.26852",
+        "inventory": null,
+        "lootlist": "Gem_Sapphire"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 15",
+        "description": "Larger window/vent under the staircase",
+        "position x": "27.84293",
+        "position z": "-30.36576",
+        "inventory": null,
+        "lootlist": "Rand_Potion_Scroll_9_10_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 15",
+        "description": "Sixth window/vent from the right, and last",
+        "position x": "34.78294",
+        "position z": "-36.26852",
+        "inventory": null,
+        "lootlist": "Gem_Emerald"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 15",
+        "description": "Third window/vent from the right",
+        "position x": "11.88509",
+        "position z": "-36.20856",
+        "inventory": null,
+        "lootlist": "Gem_Ruby"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 2",
+        "description": "At the end of the southwestern corridor",
+        "position x": "22.79039",
+        "position z": "-23.49",
+        "inventory": null,
+        "lootlist": "Dyr_Consumable_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 2",
+        "description": "Flanking the central chasm, left side",
+        "position x": "13.59944",
+        "position z": "13.61912",
+        "inventory": "Leather_Armor_Fine",
+        "lootlist": "Dyr_Armor_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 2",
+        "description": "Flanking the central chasm, right side",
+        "position x": "0.8023109",
+        "position z": "13.63502",
+        "inventory": "Food_Oil",
+        "lootlist": "Dyr_Lg_Weapons_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 2",
+        "description": "In the room the corridor wraps around",
+        "position x": "-19.10918",
+        "position z": "6.012669",
+        "inventory": "Breastplate_Hand_and_Key;MISC_Note_Faramund",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 2",
+        "description": "Left side of the northern O-shaped corridor",
+        "position x": "-18.60729",
+        "position z": "-11.44906",
+        "inventory": null,
+        "lootlist": "Dyr_Med_Weapons_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 2",
+        "description": "Northeastern edge of the &quot;hatchery&quot; area, near the stairs down to level 3",
+        "position x": "-32.42395",
+        "position z": "8.967487",
+        "inventory": "Camping_Supplies;Club_Fine",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 2",
+        "description": "Northern room with the sickly Xaurip, left side",
+        "position x": "-17.72953",
+        "position z": "-22.35217",
+        "inventory": "Drug_Goldrot_Chew",
+        "lootlist": "Loot_Drugs"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 2",
+        "description": "Northern room with the sickly Xaurip, right side",
+        "position x": "-18.86412",
+        "position z": "-16.75338",
+        "inventory": "Lockpick",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 2",
+        "description": "Rear side of the central chasm room",
+        "position x": "12.0497",
+        "position z": "-8.265606",
+        "inventory": "Rapier_Measured_Restraint",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 2",
+        "description": "Xaurip camp room, nearest the door",
+        "position x": "30.25561",
+        "position z": "0.7289848",
+        "inventory": "Potion_of_Minor_Regen_L1",
+        "lootlist": "Dyr_Consumable_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 2",
+        "description": "Xaurip camp room, nearest the door",
+        "position x": "34.74469",
+        "position z": "-4.529732",
+        "inventory": "Quest_Item_Blade_Half_1",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 2",
+        "description": "Xaurip camp, at the back of the room",
+        "position x": "30.56126",
+        "position z": "-8.602539",
+        "inventory": "Potion_of_Fleet_Feet_L1",
+        "lootlist": "Dyr_Consumable_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 3",
+        "description": "At the northwestern end of the corridor dividing the western rooms",
+        "position x": "31.09686",
+        "position z": "-26.41154",
+        "inventory": null,
+        "lootlist": "Rack_Weapon_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 3",
+        "description": "In the break in the wall near the master staircase to the northwest",
+        "position x": "15.67305",
+        "position z": "-29.25339",
+        "inventory": null,
+        "lootlist": "Dyr_Sm_Weapons_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 3",
+        "description": "Just before the bridge over the canal",
+        "position x": "-19.25059",
+        "position z": "1.425125",
+        "inventory": null,
+        "lootlist": "Rack_Armor_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 3",
+        "description": "Near the stairs down to level 4",
+        "position x": "61.548",
+        "position z": "-0.5941679",
+        "inventory": null,
+        "lootlist": "Dyr_Armor_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 3",
+        "description": "Near the stairs down to level 4",
+        "position x": "63.02725",
+        "position z": "-0.5941677",
+        "inventory": null,
+        "lootlist": "Dyr_Consumable_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 3",
+        "description": "Northeastern corner, behind [[Thulgar]]",
+        "position x": "-49.73654",
+        "position z": "11.17902",
+        "inventory": "Camping_Supplies",
+        "lootlist": "Dyr_Lg_Weapons_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 3",
+        "description": "On the eastern side of the smaller bridge",
+        "position x": "-14.98494",
+        "position z": "-14.34096",
+        "inventory": null,
+        "lootlist": "Dyr_Med_Weapons_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 3",
+        "description": "On the northern end of the canal, left side",
+        "position x": "5.301346",
+        "position z": "-33.07416",
+        "inventory": null,
+        "lootlist": "Loot_Drugs"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 3",
+        "description": "On the southern end of the canal, left side",
+        "position x": "6.49614",
+        "position z": "40.47758",
+        "inventory": null,
+        "lootlist": "Dyr_Lg_Weapons_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 3",
+        "description": "On the wall beside the traps in the corridor",
+        "position x": "36",
+        "position z": "-5.592953",
+        "inventory": null,
+        "lootlist": "Gem_3_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 3",
+        "description": "Right side of the troll [[Zolla]]'s throne",
+        "position x": "19.17965",
+        "position z": "19.98664",
+        "inventory": null,
+        "lootlist": "Dyr_Accessory_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 3",
+        "description": "Secret area to the north, first room",
+        "position x": "-19.7317",
+        "position z": "-25.10516",
+        "inventory": "Quarterstaff_Llawrans_Stick",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 3",
+        "description": "Secret area to the north, first room",
+        "position x": "-16.82419",
+        "position z": "-26.68884",
+        "inventory": null,
+        "lootlist": "Dyr_Consumable_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 3",
+        "description": "Secret area to the north, second room",
+        "position x": "-26.84733",
+        "position z": "-18.14383",
+        "inventory": null,
+        "lootlist": "Dyr_Consumable_3_4"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 3",
+        "description": "Secret area to the north, second room",
+        "position x": "-23.24545",
+        "position z": "-18.66328",
+        "inventory": "Lockpick",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 4",
+        "description": "A short distance west of a staircase in the south central area",
+        "position x": "25.998",
+        "position z": "19.32029",
+        "inventory": null,
+        "lootlist": "Dyr_Consumable_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 4",
+        "description": "At the bottom of the stairs in the southern central area",
+        "position x": "24.65699",
+        "position z": "48.34267",
+        "inventory": "Hunting_Bow_Persistence",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 4",
+        "description": "At the top of the stairs in the south central area",
+        "position x": "18.06845",
+        "position z": "23.99691",
+        "inventory": null,
+        "lootlist": "Dyr_Med_Weapons_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 4",
+        "description": "East of the scaffolding surrounding the adra statue's head",
+        "position x": "-37.79055",
+        "position z": "23.8269",
+        "inventory": null,
+        "lootlist": "Gem_5_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 4",
+        "description": "In the hallway to the south",
+        "position x": "47.14252",
+        "position z": "17.64296",
+        "inventory": null,
+        "lootlist": "Loot_Drugs"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 4",
+        "description": "In the small crypt in the far southeastern corner",
+        "position x": "-5.206558",
+        "position z": "67.18191",
+        "inventory": null,
+        "lootlist": "Dyr_Lg_Weapons_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 4",
+        "description": "In the small Eld Aedyran library to the southeast",
+        "position x": "12.00112",
+        "position z": "48.74156",
+        "inventory": "Quest_Item_Overseer_Seal_Red;Quest_Item_Expedition_Notes_1",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 4",
+        "description": "Large circular crypt, left side",
+        "position x": "27.53276",
+        "position z": "-21.88988",
+        "inventory": null,
+        "lootlist": "Dyr_Armor_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 4",
+        "description": "Large circular crypt, right side",
+        "position x": "19.5332",
+        "position z": "-8.776786",
+        "inventory": null,
+        "lootlist": "Dyr_Sm_Weapons_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 4",
+        "description": "Northeastern corner, close to the stairs down to level 5",
+        "position x": "-59.74079",
+        "position z": "12.56026",
+        "inventory": null,
+        "lootlist": "Rack_Weapon_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 4",
+        "description": "Northwestern room, by the stairs up to level 3",
+        "position x": "12.74131",
+        "position z": "-62.23357",
+        "inventory": null,
+        "lootlist": "Dyr_Consumable_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 5",
+        "description": "Easternmost room",
+        "position x": "7.049531",
+        "position z": "6.709955",
+        "inventory": null,
+        "lootlist": "Dyr_Consumable_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 5",
+        "description": "Further west of the master staircase",
+        "position x": "1.071652",
+        "position z": "-7.996472",
+        "inventory": "BUX_Copper_Pand_1cp;Camping_Supplies",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 5",
+        "description": "In a nook west of the master staircase",
+        "position x": "-16.39377",
+        "position z": "-5.441319",
+        "inventory": "PLANT_Dyrcap",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 5",
+        "description": "In the center of the room with the drake",
+        "position x": "2.034",
+        "position z": "-24.05",
+        "inventory": "Amulet_of_Health;Shield_Medium_Ilfan_Byrngars_Solace",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 5",
+        "description": "On the western wall of the room with the drake",
+        "position x": "5.899032",
+        "position z": "-34.61674",
+        "inventory": "GEM_Opal_150cp;GEM_Velune_65cp",
+        "lootlist": "Dyr_Accessory_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 5",
+        "description": "Secret area in the center",
+        "position x": "13.59809",
+        "position z": "-6.283437",
+        "inventory": "Shield_Large_Fine;Mace_Fine",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 5",
+        "description": "Secret area in the center, bottom",
+        "position x": "13.76637",
+        "position z": "-6.037036",
+        "inventory": "Quest_Item_Blade_Hilt",
+        "lootlist": "Dyr_Consumable_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 5",
+        "description": "Secret area in the center, top",
+        "position x": "13.28119",
+        "position z": "-6.04291",
+        "inventory": null,
+        "lootlist": "Dyr_Currency_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 5",
+        "description": "Southernmost room",
+        "position x": "22.86017",
+        "position z": "-0.4117565",
+        "inventory": "Quest_Item_Expedition_Notes_2",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 5",
+        "description": "Southwestern blood pool room",
+        "position x": "22.69703",
+        "position z": "-11.45728",
+        "inventory": null,
+        "lootlist": "Dyr_Sm_Weapons_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 5",
+        "description": "Southwestern blood pool room, left corpse",
+        "position x": "29.49955",
+        "position z": "-19.20518",
+        "inventory": "PART_Xaurip_Tongue",
+        "lootlist": "CreL_Xaurip"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 5",
+        "description": "Southwestern blood pool room, right corpse",
+        "position x": "32.6256",
+        "position z": "-9.70813",
+        "inventory": "PART_Xaurip_Tongue",
+        "lootlist": "CreL_Xaurip"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 6",
+        "description": "Across the wooden bridge to the south",
+        "position x": "-0.8586764",
+        "position z": "24.62967",
+        "inventory": "Quest_Item_Overseer_Seal_Blue",
+        "lootlist": "Dyr_Med_Weapons_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 6",
+        "description": "Across the wooden bridge to the south, next to the stone table",
+        "position x": "-5.386993",
+        "position z": "29.84115",
+        "inventory": "Quest_Item_Expedition_Notes_3;Scale_Armor_BACKER_Hirbels_Protective_Skin;HAT_Crested",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 6",
+        "description": "At the top of the stairs down to level 7",
+        "position x": "-34.94519",
+        "position z": "-1.930772",
+        "inventory": null,
+        "lootlist": "Gem_7_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 6",
+        "description": "Back wall of the eastern 'L' shaped room",
+        "position x": "-26",
+        "position z": "14.17885",
+        "inventory": null,
+        "lootlist": "Dyr_Lg_Weapons_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 6",
+        "description": "Eastern 'L' shaped room, far corner",
+        "position x": "-26.5269",
+        "position z": "24.8805",
+        "inventory": "Quest_Item_Blade_Hilt",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 6",
+        "description": "In the small room next to the sealed door",
+        "position x": "-17.31798",
+        "position z": "-20.66632",
+        "inventory": null,
+        "lootlist": "Dyr_Armor_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 6",
+        "description": "Large central area, left doorway",
+        "position x": "0.2469409",
+        "position z": "-18.97519",
+        "inventory": null,
+        "lootlist": "Dyr_Consumable_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 6",
+        "description": "Large central area, right doorway",
+        "position x": "-1.977387",
+        "position z": "6.838148",
+        "inventory": null,
+        "lootlist": "Loot_Drugs"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 6",
+        "description": "Northeast, on the other side of the sealed door",
+        "position x": "-29.15908",
+        "position z": "-7.95663",
+        "inventory": null,
+        "lootlist": "Dyr_Sm_Weapons_5_6"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 6",
+        "description": "Northwestern room",
+        "position x": "-1.614741",
+        "position z": "-28.954",
+        "inventory": "Quest_Item_Overseer_Seal_Green",
+        "lootlist": "Gem_5_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 6",
+        "description": "The body of the lost spirit next to the sealed door",
+        "position x": "-18.47452",
+        "position z": "-6.312839",
+        "inventory": "Quest_Item_Expedition_Notes_4",
+        "lootlist": "Loot_NPC_Adventurer_Poor"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 7",
+        "description": "Back right of the room",
+        "position x": "-1.192238",
+        "position z": "41.65851",
+        "inventory": "Wand_Elawen_Ein",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 7",
+        "description": "Dungeon to the southwest, left corner",
+        "position x": "50.154",
+        "position z": "-11.16025",
+        "inventory": "Quest_Item_Core_Water;Key_ON_Gabrannos",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 7",
+        "description": "Dungeon to the southwest, left pillar",
+        "position x": "47.15567",
+        "position z": "-7.67606",
+        "inventory": null,
+        "lootlist": "Dyr_Sm_Weapons_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 7",
+        "description": "Earth forge (north), left side",
+        "position x": "-13.86974",
+        "position z": "-38.48872",
+        "inventory": "Quest_Item_Core_Wind",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 7",
+        "description": "Earth forge (north), right side",
+        "position x": "-19.54965",
+        "position z": "-32.70643",
+        "inventory": "GEM_Moonstone_25cp",
+        "lootlist": "Dyr_Consumable_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 7",
+        "description": "Fire forge (west), near the glowing gem on the pedestal",
+        "position x": "20.01183",
+        "position z": "-30.2295",
+        "inventory": "BUX_Golden_Oble_18cp",
+        "lootlist": "Loot_Drugs"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 7",
+        "description": "In the room adjacent to the wind forge",
+        "position x": "7.781673",
+        "position z": "2.949678",
+        "inventory": "Quest_Item_Core_Fire",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 7",
+        "description": "Left of the door",
+        "position x": "14.32008",
+        "position z": "32.54879",
+        "inventory": "Quest_Item_Core_Earth",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 7",
+        "description": "Near the exit to the northeast",
+        "position x": "-21.75865",
+        "position z": "2.566767",
+        "inventory": null,
+        "lootlist": "Rack_Armor_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 7",
+        "description": "Rain forge (east), next to the glowing gem",
+        "position x": "-33.21025",
+        "position z": "16.00702",
+        "inventory": null,
+        "lootlist": "Dyr_Consumable_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 7",
+        "description": "Right of the door",
+        "position x": "3.756157",
+        "position z": "32.36074",
+        "inventory": null,
+        "lootlist": "Loot_Drugs"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 7",
+        "description": "Wind forge, near the glowing gem on the pedestal",
+        "position x": "22.50348",
+        "position z": "3.684317",
+        "inventory": null,
+        "lootlist": "Gem_7_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 8",
+        "description": "At the start of the hallway leading away from the statue cavern",
+        "position x": "-26.21497",
+        "position z": "7.812355",
+        "inventory": null,
+        "lootlist": "TE_Med_Weapons_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 8",
+        "description": "Back of the room with the ornate coffins",
+        "position x": "-2.580816",
+        "position z": "-35.06914",
+        "inventory": null,
+        "lootlist": "Gem_7_100"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 8",
+        "description": "In the central hallway between the library and the machine",
+        "position x": "-3.241651",
+        "position z": "-7.162655",
+        "inventory": null,
+        "lootlist": "TE_Sm_Weapons_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 8",
+        "description": "Next to a brazier by the break in the wall through to the cavern",
+        "position x": "1.506209",
+        "position z": "43.93504",
+        "inventory": null,
+        "lootlist": "Loot_Drugs"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 8",
+        "description": "Next to the master staircase in the north",
+        "position x": "-58.23922",
+        "position z": "2.17285",
+        "inventory": null,
+        "lootlist": "Dyr_Consumable_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 8",
+        "description": "North-central room with the Engwithan machine",
+        "position x": "-31.87934",
+        "position z": "-26.06103",
+        "inventory": "Camping_Supplies",
+        "lootlist": "Rack_Armor_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 8",
+        "description": "Northwestern room adjacent to the large circular meeting room",
+        "position x": "48.11305",
+        "position z": "-58.14933",
+        "inventory": "Crossbow_Good_Friend",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 8",
+        "description": "On the wall beside the thumb of the adra statue's hand",
+        "position x": "-19.93448",
+        "position z": "65.6939",
+        "inventory": null,
+        "lootlist": "TE_Sm_Weapons_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 8",
+        "description": "Southern corner, immediately west of the locked door near the starting point",
+        "position x": "44.88395",
+        "position z": "-0.1448484",
+        "inventory": null,
+        "lootlist": "Dyr_Consumable_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 9",
+        "description": "Across the corridor from the eastern spike room door",
+        "position x": "7.942967",
+        "position z": "13.69167",
+        "inventory": null,
+        "lootlist": "Dyr_Armor_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 9",
+        "description": "East side, northeastern room",
+        "position x": "-8.081409",
+        "position z": "29.39278",
+        "inventory": "Lockpick",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 9",
+        "description": "East side, southern room",
+        "position x": "-0.9264164",
+        "position z": "26.69183",
+        "inventory": null,
+        "lootlist": "TE_Consumable_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 9",
+        "description": "In the corridor with the locked door to the torture chamber, furthest the door",
+        "position x": "8.767521",
+        "position z": "-0.6275256",
+        "inventory": null,
+        "lootlist": "TE_Consumable_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 9",
+        "description": "In the corridor with the locked door to the torture chamber, nearest the door",
+        "position x": "1.620058",
+        "position z": "-0.607295",
+        "inventory": null,
+        "lootlist": "Dyr_Sm_Weapons_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 9",
+        "description": "In the secret room opened via a switch on the wall opposite",
+        "position x": "-1.010065",
+        "position z": "56.92853",
+        "inventory": "Quest_Item_Blade_Half_2",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 9",
+        "description": "Northeastern spike room, center of the back &quot;row&quot;, in front of the skeleton",
+        "position x": "-42.71308",
+        "position z": "7.776133",
+        "inventory": "Key_Backup_05",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 9",
+        "description": "Northeastern spike-filled room, back center",
+        "position x": "-49.98541",
+        "position z": "2.615849",
+        "inventory": "Spear_BACKER_Danulya",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 9",
+        "description": "On the other side of the wall from the stairs up",
+        "position x": "33.84919",
+        "position z": "-27.77504",
+        "inventory": "GEM_Topaz_500cp",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 9",
+        "description": "Puddle in the middle of the far westernmost room with the beetles and slimes",
+        "position x": "43.47224",
+        "position z": "-11.79101",
+        "inventory": "Great_Sword_Exceptional",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 9",
+        "description": "Southern central room with the circular spike pit",
+        "position x": "14.88822",
+        "position z": "14.73546",
+        "inventory": null,
+        "lootlist": "TE_Lg_Weapons_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 9",
+        "description": "Spike room, front right side",
+        "position x": "-39.92251",
+        "position z": "17.20347",
+        "inventory": "BUX_Copper_Awld_2cp",
+        "lootlist": "Engw_Consumable_7_8"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 9",
+        "description": "Spike room, rear right corner",
+        "position x": "-42.69592",
+        "position z": "17.16035",
+        "inventory": "Key_Backup_01",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 9",
+        "description": "Torture chamber - in between the two racks against the back wall",
+        "position x": "-15.52556",
+        "position z": "-16.24116",
+        "inventory": "Scroll_of_Boiling_Spray_L4",
+        "lootlist": "Loot_Drugs"
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 9",
+        "description": "Torture chamber - left of the rack in the center",
+        "position x": "-9.527982",
+        "position z": "-3.372991",
+        "inventory": "PART_Vessel_Bone;PART_Vessel_Flesh",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 9",
+        "description": "Torture chamber - right of the rack in the center",
+        "position x": "-17.64667",
+        "position z": "-4.404681",
+        "inventory": "Scroll_of_Paralysis_L3",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 9",
+        "description": "Torture chamber - right wall, left",
+        "position x": "-23.25307",
+        "position z": "0.105637",
+        "inventory": "PART_Vessel_Bone;PART_Vessel_Flesh",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 9",
+        "description": "Torture chamber - right wall, right",
+        "position x": "-23.09307",
+        "position z": "3.265459",
+        "inventory": "PART_Vessel_Bone;PART_Vessel_Flesh",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Endless Paths of Od Nua Level 9",
+        "description": "Torture chamber - sarcophagus in the northern corner",
+        "position x": "-22.356",
+        "position z": "-9.83",
+        "inventory": "Ring_of_Protection",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Esternwood",
+        "description": "Near the crypt in the graveyard",
+        "position x": "39.43715",
+        "position z": "-7.018694",
+        "inventory": null,
+        "lootlist": "Weapon_Fine_Crossbow"
+      }
+    },
+    {
+      "title": {
+        "location": "Esternwood",
+        "description": "On the left side of the road in the center, surrounded by spiders",
+        "position x": "14.26426",
+        "position z": "-25.46239",
+        "inventory": "HELM_Ram_Horn;Drug_Goldrot_Chew",
+        "lootlist": "Dyr_Lg_Weapons_1_2"
+      }
+    },
+    {
+      "title": {
+        "location": "Esternwood",
+        "description": "On the steps of the crypt in the graveyard",
+        "position x": "36.95472",
+        "position z": "-14.06021",
+        "inventory": "Dagger_Fine",
+        "lootlist": "Dyr_Accessory_1_2"
+      }
+    },
+    {
+      "title": {
+        "location": "Fishery",
+        "description": "Near the door, left side",
+        "position x": "12.97888",
+        "position z": "-1.434418",
+        "inventory": "Dagger;Hatchet",
+        "lootlist": null
+      }
+    },
+    {
+      "title": {
+        "location": "Fishery",
+        "description": "Near the door, right side",
+        "position x": "11.84268",
+        "position z": "7.591984",
+        "inventory": "Food_Oil",
+        "lootlist": null
+      }
+    }
+  ]
+}

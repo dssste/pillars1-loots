@@ -1,0 +1,3 @@
+https://pillarsofeternity.fandom.com/api.php?action=cargoquery&tables=Container_poe1&fields=location,description,position_x,position_z,inventory,lootlist&format=json&limit=500
+https://pillarsofeternity.fandom.com/api.php?action=cargoquery&tables=Container_poe1&fields=location,description,position_x,position_z,inventory,lootlist&format=json&limit=500&offset=500
+https://pillarsofeternity.fandom.com/api.php?action=cargoquery&tables=Container_poe1&fields=location,description,position_x,position_z,inventory,lootlist&format=json&limit=500&offset=1000
