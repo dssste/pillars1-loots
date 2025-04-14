@@ -22,8 +22,8 @@ local function prepare_messages(messages)
 	return result
 end
 
-local function popup(data)
-	local message = prepare_messages(vim.inspect(data))
+local function popup(data, filetype)
+	local message = prepare_messages(data)
 
 	local margin = 6
 
@@ -38,9 +38,11 @@ local function popup(data)
 	}
 
 	local buf = vim.api.nvim_create_buf(false, true)
-	vim.api.nvim_set_option_value("filetype", "json", {
-		buf = buf,
-	})
+	if filetype then
+		vim.api.nvim_set_option_value("filetype", filetype, {
+			buf = buf,
+		})
+	end
 	vim.api.nvim_buf_set_name(buf, "poe1lt://" .. buf)
 	vim.api.nvim_buf_set_lines(buf, 0, 0, false, message)
 	vim.api.nvim_buf_set_keymap(buf, 'n', 'q', '', {
@@ -102,7 +104,7 @@ local function read_lootlists()
 	return lua_table.lootlists
 end
 
-local function find_candidates(lootlists, id)
+local function find_lootlists(lootlists, id)
 	local candidates = {}
 	for name, ll in pairs(lootlists) do
 		for _, item in ipairs(ll.items) do
@@ -112,7 +114,7 @@ local function find_candidates(lootlists, id)
 		end
 	end
 	for _, candidate in ipairs(candidates) do
-		vim.list_extend(candidates, find_candidates(lootlists, candidate))
+		vim.list_extend(candidates, find_lootlists(lootlists, candidate))
 	end
 	return candidates
 end
@@ -129,19 +131,120 @@ local function distinct_list(list)
 	return result
 end
 
-local candidates = find_candidates(read_lootlists(), "Gauntlets_of_Swift_Action")
-candidates = distinct_list(candidates)
 
-local all = read_containers()
+local query = "Gauntlets_of_Swift_Action"
 
-local valid = {}
+local lootlists = read_lootlists()
+local filtered_lootlists = distinct_list(find_lootlists(lootlists, query))
+local chests = {}
 
-for _, title in ipairs(all) do
-	if vim.tbl_contains(candidates, title.lootlist) then
-		table.insert(valid, title)
+for _, title in ipairs(read_containers()) do
+	if vim.tbl_contains(filtered_lootlists, title.lootlist) then
+		table.insert(chests, title)
 	end
 end
 
-local buf, win = popup(valid)
--- vim.api.nvim_buf_set_lines(buf, -1, -1, false, candidates)
--- vim.api.nvim_buf_set_lines(buf, -1, -1, false, {tostring(#valid)})
+
+-- Xorshift128 state (globals)
+local x = 0
+local y = 0
+local z = 0
+local w = 0
+
+local function get_seed(pos_x, pos_z, day)
+	local t, _ = math.modf(pos_x + pos_z)
+	local long = t * -30676112 + day
+	return (long + 2 ^ 31) % 2 ^ 32 - 2 ^ 31
+end
+
+
+-- local pregen = dofile(vim.fn.fnamemodify(vim.fn.expand('%:p'), ':h') .. "/seed_pregen_data.lua").states
+function Xorshift128_InitSeed(seed)
+	x = bit.band(0xFFFFFFFF, seed)
+	y = bit.rshift(1289 * bit.rshift(1406077 * x, 0) + 1, 0)
+	z = bit.rshift(1289 * bit.rshift(1406077 * y, 0) + 1, 0)
+	w = bit.rshift(1289 * bit.rshift(1406077 * z, 0) + 1, 0)
+end
+
+function Xorshift128_Next()
+	local t = bit.bxor(x, bit.lshift(x, 11))
+	x = y; y = z; z = w
+	w = bit.bxor(w, bit.rshift(w, 19), t, bit.rshift(t, 8))
+	return w
+end
+
+function Xorshift128_NextUIntMax(max)
+	if (max == 0) then
+		return 0
+	else
+		return Xorshift128_Next() % max
+	end
+end
+
+function EvaluateLootList(lootlist)
+	local items = {}
+	local done = false;
+	local roll = nil
+
+	local totalWeight = lootlist["total_weight"]
+
+	roll = Xorshift128_NextUIntMax(totalWeight)
+
+	local cumulativeWeight = 0; -- Used for weighted random selection
+
+	for _, lootItem in ipairs(lootlist.items) do
+		local shouldAdd = false
+
+		if (lootItem.always == true) then
+			shouldAdd = true
+		else
+			cumulativeWeight = cumulativeWeight + lootItem.weight
+
+			if (roll < cumulativeWeight and done ~= true) then
+				shouldAdd = true
+				done = true
+			end
+		end
+
+		if (lootItem.id ~= nil and shouldAdd) then
+			for _ = 1, tonumber(lootItem.count) do
+				if (lootItem.is_lootlist == true) then
+					local childLootList = lootlists[lootItem.id]
+					local childItems = EvaluateLootList(childLootList)
+
+					if (childItems ~= nil) then
+						for i = 1, #childItems do
+							items[#items + 1] = childItems[i]
+						end
+					end
+				else
+					items[#items + 1] = lootItem.id
+				end
+			end
+		end
+	end
+
+	return items
+end
+
+for _, chest in ipairs(chests) do
+	for day = 1, 20 do
+		local seed = get_seed(tonumber(chest.x), tonumber(chest.z), day)
+		Xorshift128_InitSeed(seed)
+		chest["day_" .. day .. "_loot"] = EvaluateLootList(lootlists[chest.lootlist])
+	end
+end
+
+
+local report = { "### " .. query .. " found in " .. #chests .. " random loot table:" }
+for _, chest in ipairs(chests) do
+	local line = "- [" .. chest.location .. "] " .. chest.description .. ", day "
+	for day = 1, 20 do
+		if vim.tbl_contains(chest["day_" .. day .. "_loot"], query) then
+			line = line .. day .. " "
+		end
+	end
+	table.insert(report, line)
+end
+
+popup(report, "markdown")
