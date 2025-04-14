@@ -132,7 +132,9 @@ local function distinct_list(list)
 end
 
 
-local query = "Gauntlets_of_Swift_Action"
+-- local query = "Gauntlets_of_Swift_Action"
+local query = "Boots_of_Speed"
+-- local query = "Talisman_of_the_Unconquerable"
 
 local lootlists = read_lootlists()
 local filtered_lootlists = distinct_list(find_lootlists(lootlists, query))
@@ -151,9 +153,18 @@ local y = 0
 local z = 0
 local w = 0
 
-local function get_seed(pos_x, pos_z, day)
+local player_hash = {
+	[0] = -30676112,
+	[1] = 1535407829,
+	[2] = 1132123302,
+	[3] = -1596760053,
+	[4] = 1938692356,
+	[5] = -790190999,
+}
+
+local function get_seed(pos_x, pos_z, day, player_slot)
 	local t, _ = math.modf(pos_x + pos_z)
-	local long = t * -30676112 + day
+	local long = t * player_hash[player_slot] + day
 	return (long + 2 ^ 31) % 2 ^ 32 - 2 ^ 31
 end
 
@@ -237,23 +248,38 @@ end
 local function make_query()
 	for _, chest in ipairs(chests) do
 		for day = 1, 20 do
-			local seed = get_seed(tonumber(chest.x), tonumber(chest.z), day)
-			Xorshift128_InitSeed(seed)
-			chest["day_" .. day .. "_loot"] = EvaluateLootList(lootlists[chest.lootlist])
-		end
-	end
-
-
-	local report = { "### " .. query .. " found in " .. #chests .. " random loot table:" }
-	for _, chest in ipairs(chests) do
-		local line = "- [" .. chest.location .. "] " .. chest.description .. ", day "
-		for day = 1, 20 do
-			if vim.tbl_contains(chest["day_" .. day .. "_loot"], query) then
-				line = line .. day .. " "
+			for slot = 0, 5 do
+				local seed = get_seed(tonumber(chest.x), tonumber(chest.z), day, slot)
+				Xorshift128_InitSeed(seed)
+				chest["day_" .. day .. "_slot_" .. slot] = EvaluateLootList(lootlists[chest.lootlist])
 			end
 		end
-		table.insert(report, line)
 	end
+
+	local report = { "" }
+	local count = 0
+	for _, chest in ipairs(chests) do
+		local drops = false
+		local line = "  - [ "
+		for day = 1, 20 do
+			local slots = {}
+			for slot = 0, 5 do
+				if vim.tbl_contains(chest["day_" .. day .. "_slot_" .. slot], query) then
+					table.insert(slots, slot)
+				end
+			end
+			if #slots > 0 then
+				line = line .. day .. "(" .. table.concat(slots, ",") .. ") "
+				drops = true
+			end
+		end
+		if drops then
+			table.insert(report, "- [" .. chest.location .. "] " .. chest.description)
+			table.insert(report, line .. "]")
+			count = count + 1
+		end
+	end
+	report[1] = "## " .. query .. " found in " .. count .. " chests"
 
 	popup(report, "markdown")
 end
