@@ -145,7 +145,7 @@ for _, title in ipairs(read_containers()) do
 end
 
 
--- Xorshift128 state (globals)
+-- Xorshift128 state
 local x = 0
 local y = 0
 local z = 0
@@ -157,13 +157,20 @@ local function get_seed(pos_x, pos_z, day)
 	return (long + 2 ^ 31) % 2 ^ 32 - 2 ^ 31
 end
 
+local function uintMultiply(a, b)
+	a = a % 4294967296
+	b = b % 4294967296
+	local ah, al = math.floor(a / 65536), a % 65536
+	local bh, bl = math.floor(b / 65536), b % 65536
+	local high = ((ah * bl) + (al * bh)) % 65536
+	return ((high * 65536) + (al * bl)) % 4294967296
+end
 
--- local pregen = dofile(vim.fn.fnamemodify(vim.fn.expand('%:p'), ':h') .. "/seed_pregen_data.lua").states
 function Xorshift128_InitSeed(seed)
-	x = bit.band(0xFFFFFFFF, seed)
-	y = bit.rshift(1289 * bit.rshift(1406077 * x, 0) + 1, 0)
-	z = bit.rshift(1289 * bit.rshift(1406077 * y, 0) + 1, 0)
-	w = bit.rshift(1289 * bit.rshift(1406077 * z, 0) + 1, 0)
+	x = uintMultiply(seed, 1)
+	y = uintMultiply(1812433253, x) + 1
+	z = uintMultiply(1812433253, y) + 1
+	w = uintMultiply(1812433253, z) + 1
 end
 
 function Xorshift128_Next()
@@ -227,24 +234,63 @@ function EvaluateLootList(lootlist)
 	return items
 end
 
-for _, chest in ipairs(chests) do
-	for day = 1, 20 do
-		local seed = get_seed(tonumber(chest.x), tonumber(chest.z), day)
-		Xorshift128_InitSeed(seed)
-		chest["day_" .. day .. "_loot"] = EvaluateLootList(lootlists[chest.lootlist])
-	end
-end
-
-
-local report = { "### " .. query .. " found in " .. #chests .. " random loot table:" }
-for _, chest in ipairs(chests) do
-	local line = "- [" .. chest.location .. "] " .. chest.description .. ", day "
-	for day = 1, 20 do
-		if vim.tbl_contains(chest["day_" .. day .. "_loot"], query) then
-			line = line .. day .. " "
+local function make_query()
+	for _, chest in ipairs(chests) do
+		for day = 1, 20 do
+			local seed = get_seed(tonumber(chest.x), tonumber(chest.z), day)
+			Xorshift128_InitSeed(seed)
+			chest["day_" .. day .. "_loot"] = EvaluateLootList(lootlists[chest.lootlist])
 		end
 	end
-	table.insert(report, line)
+
+
+	local report = { "### " .. query .. " found in " .. #chests .. " random loot table:" }
+	for _, chest in ipairs(chests) do
+		local line = "- [" .. chest.location .. "] " .. chest.description .. ", day "
+		for day = 1, 20 do
+			if vim.tbl_contains(chest["day_" .. day .. "_loot"], query) then
+				line = line .. day .. " "
+			end
+		end
+		table.insert(report, line)
+	end
+
+	popup(report, "markdown")
 end
 
-popup(report, "markdown")
+local function test_seed()
+	local report = {}
+
+	local pregen = dofile(vim.fn.fnamemodify(vim.fn.expand('%:p'), ':h') .. "/seed_pregen_data.lua").states
+	local equal = 0
+	local notEqual = 0
+
+	for k, v in pairs(pregen) do
+		Xorshift128_InitSeed(k)
+
+		local ux = x
+		local uy = y
+		local uz = z
+		local uw = w
+
+		if (ux ~= v[1] or uy ~= v[2] or uz ~= v[3] or uw ~= v[4]) then
+			notEqual = notEqual + 1
+		else
+			equal = equal + 1
+		end
+
+		-- table.insert(report, "- seed: " .. k)
+		-- table.insert(report, "  - pregen:" .. "x=" .. v[1] .. ", y=" .. v[2] .. ", z=" .. v[3] .. ", w=" .. v[4])
+		-- table.insert(report, "  - ourgen:" .. "x=" .. ux .. ", y=" .. uy .. ", z=" .. uz .. ", w=" .. uw)
+
+		if (notEqual > 50) then
+			break
+		end
+	end
+
+	table.insert(report, "pregenerated vs generated states\n\tequal: " .. equal .. "\n\tnot equal: " .. notEqual)
+	popup(report, "markdown")
+end
+
+-- test_seed()
+make_query()
