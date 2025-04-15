@@ -133,8 +133,9 @@ end
 
 
 -- local query = "Gauntlets_of_Swift_Action"
-local query = "Boots_of_Speed"
+-- local query = "Boots_of_Speed"
 -- local query = "Talisman_of_the_Unconquerable"
+local query = "Rymrgands_Mantle"
 
 local lootlists = read_lootlists()
 local filtered_lootlists = distinct_list(find_lootlists(lootlists, query))
@@ -188,7 +189,7 @@ function Xorshift128_Next()
 	local t = bit.bxor(x, bit.lshift(x, 11))
 	x = y; y = z; z = w
 	w = bit.bxor(w, bit.rshift(w, 19), t, bit.rshift(t, 8))
-	return w
+	return uintMultiply(w, 1)
 end
 
 function Xorshift128_NextUIntMax(max)
